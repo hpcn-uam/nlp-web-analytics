@@ -1,0 +1,15 @@
+1589438802.175631189 1 google.com.br google.com.br 299
+1589438802.551652798 1 accounts.google.com accounts.google.com 299
+1589438802.676174444 1 www.google.com.br www.google.com.br 299
+1589438802.975297492 1 consent.google.com consent.google.com 299
+1589438803.002162829 1 ssl.gstatic.com ssl.gstatic.com 102
+1589438803.233028640 1 www.gstatic.com www.gstatic.com 299
+1589438803.275058915 1 clients1.google.com clients.l.google.com 299
+1589438803.275058915 2 clients.l.google.com clients1.google.com 299
+1589438803.906437000 1 adservice.google.com.br pagead46.l.doubleclick.net 299
+1589438803.906437000 2 pagead46.l.doubleclick.net adservice.google.com.br 299
+1589438813.972800676 1 <Root> wemevjaetcidtj 86396
+1589438813.974332455 1 <Root> dgwxbwmllqdeht 86390
+1589438813.974371661 1 ssl.gstatic.com ssl.gstatic.com 192
+1589438813.974795812 1 <Root> gaotjgswnehmug 86372
+1589438813.983779957 1 update.googleapis.com update.googleapis.com 206

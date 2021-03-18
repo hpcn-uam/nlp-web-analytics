@@ -1,0 +1,15 @@
+1589417427.837029906 1 google.co.jp google.co.jp 299
+1589417428.127863715 1 accounts.google.com accounts.google.com 299
+1589417428.307820139 1 www.google.co.jp www.google.co.jp 299
+1589417428.624994256 1 consent.google.com consent.google.com 299
+1589417428.703005025 1 ssl.gstatic.com ssl.gstatic.com 299
+1589417428.893984456 1 www.gstatic.com www.gstatic.com 299
+1589417428.930722861 1 clients1.google.com clients.l.google.com 252
+1589417428.930722861 2 clients.l.google.com clients1.google.com 252
+1589417429.775648096 1 adservice.google.co.jp pagead46.l.doubleclick.net 299
+1589417429.775648096 2 pagead46.l.doubleclick.net adservice.google.co.jp 299
+1589417434.123705123 1 update.googleapis.com update.googleapis.com 48
+1589417434.617533714 1 <Root> zpbangcuwbyeiii 86351
+1589417434.617964320 1 <Root> lojngcapeqacgn 86391
+1589417434.618825449 1 <Root> qoohqwqd 86379
+1589417437.614257032 1 ssl.gstatic.com ssl.gstatic.com 20

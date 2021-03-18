@@ -1,0 +1,17 @@
+1589285484.934349902 1 babytree.com tline.babytree.com 59
+1589285484.934349902 2 tline.babytree.com babytree.com 9
+1589285485.372631572 1 m.babytree.com tline.babytree.com 9
+1589285485.372631572 2 tline.babytree.com m.babytree.com 9
+1589285487.121287442 1 g.kexin001.com g.kexin001.com 599
+1589285487.194300082 1 static02.babytreeimg.com static02.babytreeimg.com.w.alikunlun.com 119
+1589285487.194300082 2 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 3 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 4 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 5 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 6 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 7 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 8 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com.w.alikunlun.com 59
+1589285487.194300082 9 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com 59
+1589285510.145394804 1 ubuntu.com connectivity-check.ubuntu.com 1313
+1589285510.145509494 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 396
+1589285510.145509494 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 396

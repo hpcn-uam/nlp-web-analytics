@@ -1,0 +1,7 @@
+1589380020.527753022 1 microsoftonline.com microsoftonline.com 3232
+1589380020.527753022 2 microsoftonline.com microsoftonline.com 3232
+1589380020.577358866 1 accounts.google.com accounts.google.com 193
+1589380027.313122330 1 <Root> jqhtxcisqg 86389
+1589380027.313869349 1 <Root> tuwpmfayagdxh 86398
+1589380027.314794230 1 <Root> eyachtc 86396
+1589380030.313087295 1 ssl.gstatic.com ssl.gstatic.com 239

@@ -1,0 +1,17 @@
+1589358835.119975767 1 zhanqi.tv zhanqi.tv 599
+1589358835.278344879 1 accounts.google.com accounts.google.com 299
+1589358839.607257891 1 www.zhanqi.tv www.zhanqi.tv.fastcdn.com 9
+1589358839.607257891 2 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 3 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 4 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 5 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 6 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 7 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 8 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 9 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 10 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589358839.607257891 11 www.zhanqi.tv.fastcdn.com www.zhanqi.tv 119
+1589358841.861311779 1 <Root> yqkjgxtwut 86397
+1589358841.861933171 1 <Root> gojgjqgcpltg 86398
+1589358841.863929369 1 <Root> giqnbtxzejnhby 86391
+1589358844.861156994 1 ssl.gstatic.com ssl.gstatic.com 50

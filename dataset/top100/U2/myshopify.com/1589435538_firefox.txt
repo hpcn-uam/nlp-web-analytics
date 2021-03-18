@@ -1,0 +1,17 @@
+1589435543.451749682 1 myshopify.com myshopify.com 3520
+1589435543.953020905 1 accounts.google.com accounts.google.com 279
+1589435544.302267263 1 cdn.shopify.com cdn.tm.shopifysvc.com 3305
+1589435544.302267263 2 cdn.tm.shopifysvc.com cdn.shopify.com-v2.edgekey.net 119
+1589435544.302267263 3 cdn.shopify.com-v2.edgekey.net e923.dscb.akamaiedge.net 21592
+1589435544.302267263 4 e923.dscb.akamaiedge.net cdn.shopify.com 19
+1589435544.607708864 1 www.shopify.com brochure.shopifysvc.com 2163
+1589435544.607708864 2 brochure.shopifysvc.com brochure.tm.shopifysvc.com 2164
+1589435544.607708864 3 brochure.tm.shopifysvc.com brochure-ingress-tier2.shopifysvc.com 299
+1589435544.607708864 4 brochure-ingress-tier2.shopifysvc.com www.shopify.com 20197
+1589435544.618810979 1 translate.googleapis.com translate.googleapis.com 270
+1589435544.620171535 1 exchangemarketplace.com exchangemarketplace.com 3599
+1589435549.793104162 1 update.googleapis.com update.googleapis.com 299
+1589435550.340045190 1 <Root> pqbueijzpx 86397
+1589435550.341624808 1 <Root> gdlrdoqq 86390
+1589435550.343196980 1 <Root> fymaqaseysk 86385
+1589435553.343742054 1 ssl.gstatic.com ssl.gstatic.com 299

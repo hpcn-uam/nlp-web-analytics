@@ -1,0 +1,11 @@
+1589370546.517681055 1 whatsapp.com whatsapp.com 29
+1589370546.878106497 1 accounts.google.com accounts.google.com 247
+1589370547.046009253 1 www.whatsapp.com mmx-ds.cdn.whatsapp.net 3368
+1589370547.046009253 2 mmx-ds.cdn.whatsapp.net www.whatsapp.com 59
+1589370547.293203229 1 static.whatsapp.net mmx-ds.cdn.whatsapp.net 2286
+1589370547.293203229 2 mmx-ds.cdn.whatsapp.net static.whatsapp.net 59
+1589370556.717188213 1 <Root> hcavgtzqykomg 86375
+1589370556.718090938 1 <Root> muoavaznfi 86397
+1589370556.719003062 1 <Root> gtwvwgp 86391
+1589370556.750392837 1 ssl.gstatic.com ssl.gstatic.com 144
+1589370556.764404780 1 update.googleapis.com update.googleapis.com 299

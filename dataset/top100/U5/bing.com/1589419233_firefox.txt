@@ -1,0 +1,14 @@
+1589419238.773131447 1 bing.com bing.com 3486
+1589419238.773131447 2 bing.com bing.com 3486
+1589419238.964216967 1 accounts.google.com accounts.google.com 109
+1589419239.207532516 1 www.bing.com a-0001.a-afdentry.net.trafficmanager.net 3473
+1589419239.207532516 2 a-0001.a-afdentry.net.trafficmanager.net dual-a-0001.a-msedge.net 59
+1589419239.207532516 3 dual-a-0001.a-msedge.net dual-a-0001.a-msedge.net 19
+1589419239.207532516 4 dual-a-0001.a-msedge.net www.bing.com 19
+1589419243.252554656 1 update.googleapis.com update.googleapis.com 70
+1589419247.057727962 1 <Root> rfkebcia 86379
+1589419247.058778584 1 <Root> dgqivyehy 86396
+1589419247.059602494 1 <Root> icxokhtrcjap 86394
+1589419247.380477232 1 clients1.google.com clients.l.google.com 299
+1589419247.380477232 2 clients.l.google.com clients1.google.com 299
+1589419248.591574836 1 ssl.gstatic.com ssl.gstatic.com 299

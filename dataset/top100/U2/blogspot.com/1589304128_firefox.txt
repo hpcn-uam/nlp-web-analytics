@@ -1,0 +1,17 @@
+1589304133.789427224 1 blogspot.com blogspot.com 299
+1589304133.819544289 1 accounts.google.com accounts.google.com 92
+1589304134.037071721 1 www.blogger.com blogger.l.google.com 299
+1589304134.037071721 2 blogger.l.google.com www.blogger.com 299
+1589304135.010174060 1 fonts.googleapis.com fonts.googleapis.com 299
+1589304135.055336130 1 ajax.googleapis.com ajax.googleapis.com 299
+1589304135.166261011 1 lh3.googleusercontent.com googlehosted.l.googleusercontent.com 21599
+1589304135.166261011 2 googlehosted.l.googleusercontent.com lh3.googleusercontent.com 299
+1589304135.197073314 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1589304135.197073314 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1589304135.677166785 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1589304135.677166785 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1589304140.569024635 1 <Root> ddzwrnhlwi 86370
+1589304140.570467917 1 <Root> mtlgmycv 86398
+1589304140.573161462 1 <Root> timptvfsttin 86391
+1589304143.566794690 1 ssl.gstatic.com ssl.gstatic.com 42
+1589304150.638539970 1 update.googleapis.com update.googleapis.com 299

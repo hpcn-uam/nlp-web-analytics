@@ -1,0 +1,7 @@
+1589424887.461343339 1 microsoftonline.com microsoftonline.com 3544
+1589424887.461343339 2 microsoftonline.com microsoftonline.com 3544
+1589424887.641299411 1 accounts.google.com accounts.google.com 299
+1589424894.208438559 1 <Root> gkbvntjdnswfaoa 86317
+1589424894.211468922 1 <Root> qcbiwzyjrbe 86397
+1589424894.211805879 1 <Root> ozkoezcds 86389
+1589424897.207663378 1 ssl.gstatic.com ssl.gstatic.com 45

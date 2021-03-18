@@ -1,0 +1,17 @@
+1589362490.447787768 1 ubuntu.com connectivity-check.ubuntu.com 1592
+1589362490.447849261 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 105
+1589362490.447849261 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 105
+1589362491.696007513 1 whatsapp.com whatsapp.com 50
+1589362491.975699103 1 accounts.google.com accounts.google.com 48
+1589362492.153857469 1 www.whatsapp.com mmx-ds.cdn.whatsapp.net 3322
+1589362492.153857469 2 mmx-ds.cdn.whatsapp.net www.whatsapp.com 59
+1589362492.589620511 1 static.whatsapp.net mmx-ds.cdn.whatsapp.net 2679
+1589362492.589620511 2 mmx-ds.cdn.whatsapp.net static.whatsapp.net 59
+1589362493.446925429 1 ubuntu.com daisy.ubuntu.com 1527
+1589362493.446950296 1 daisy.ubuntu.com daisy.ubuntu.com 563
+1589362493.446950296 2 daisy.ubuntu.com daisy.ubuntu.com 563
+1589362498.326189753 1 <Root> clwvcbrgxu 86397
+1589362498.327474505 1 <Root> pdxrfhpssu 86393
+1589362498.329257942 1 <Root> wtwsvqld 86395
+1589362506.162641284 1 ssl.gstatic.com ssl.gstatic.com 222
+1589362506.180660385 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,3 @@
+1589430986.842829124 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 119
+1589430986.842829124 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 59
+1589430986.842829124 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 59

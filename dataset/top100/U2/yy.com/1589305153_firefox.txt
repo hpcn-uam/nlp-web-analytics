@@ -1,0 +1,11 @@
+1589305158.344627303 1 yy.com yy.com 31
+1589305158.344627303 2 yy.com yy.com 31
+1589305158.583162555 1 accounts.google.com accounts.google.com 299
+1589305159.990927262 1 www.yy.com www.yy.com 7
+1589305159.990927262 2 www.yy.com www.yy.com 7
+1589305159.990927262 3 www.yy.com www.yy.com 7
+1589305159.990927262 4 www.yy.com www.yy.com 7
+1589305164.992957431 1 <Root> xgdqetmzrbrix 86395
+1589305164.994519989 1 <Root> udwcojeittjfuh 86384
+1589305164.996595966 1 <Root> czpwzjrmnpnoxmr 86397
+1589305167.994572969 1 ssl.gstatic.com ssl.gstatic.com 110

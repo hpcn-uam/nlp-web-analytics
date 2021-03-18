@@ -1,0 +1,16 @@
+1589338816.102652862 1 tumblr.com tumblr.com 2624
+1589338816.102652862 2 tumblr.com tumblr.com 2624
+1589338816.447360222 1 accounts.google.com accounts.google.com 116
+1589338816.765849131 1 www.tumblr.com cs1143.wpc.chicdn.net 26
+1589338816.765849131 2 cs1143.wpc.chicdn.net www.tumblr.com 3599
+1589338816.871191475 1 ocsp.digicert.com cs9.wac.phicdn.net 19479
+1589338816.871191475 2 cs9.wac.phicdn.net ocsp.digicert.com 3062
+1589338817.258467111 1 assets.tumblr.com assets.tumblr.com 102
+1589338818.256415513 1 pixel.wp.com pixel.wp.com 14347
+1589338818.417534879 1 clients1.google.com clients.l.google.com 215
+1589338818.417534879 2 clients.l.google.com clients1.google.com 215
+1589338823.935567593 1 update.googleapis.com update.googleapis.com 190
+1589338823.946507054 1 <Root> upoqlkrsshfgio 86383
+1589338823.947252319 1 <Root> lyhvnmlesv 86371
+1589338823.947653434 1 <Root> ygqjugvzzaoe 86359
+1589338826.404505262 1 ssl.gstatic.com ssl.gstatic.com 282

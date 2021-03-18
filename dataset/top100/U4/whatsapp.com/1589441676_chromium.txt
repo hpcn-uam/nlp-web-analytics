@@ -1,0 +1,14 @@
+1589441677.916331382 1 whatsapp.com whatsapp.com 53
+1589441678.034405966 1 accounts.google.com accounts.google.com 299
+1589441678.329710195 1 www.whatsapp.com mmx-ds.cdn.whatsapp.net 3586
+1589441678.329710195 2 mmx-ds.cdn.whatsapp.net www.whatsapp.com 59
+1589441678.798711922 1 static.whatsapp.net mmx-ds.cdn.whatsapp.net 566
+1589441678.798711922 2 mmx-ds.cdn.whatsapp.net static.whatsapp.net 59
+1589441688.242607488 1 <Root> fqhrnvxr 86378
+1589441688.243107655 1 <Root> cnqhmln 86388
+1589441688.243305243 1 update.googleapis.com update.googleapis.com 299
+1589441688.244764140 1 <Root> mpjlgfzgxsa 86392
+1589441688.246601339 1 ssl.gstatic.com ssl.gstatic.com 46
+1589441690.455343892 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 284
+1589441690.455343892 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 284
+1589441690.455385296 1 ubuntu.com connectivity-check.ubuntu.com 1675

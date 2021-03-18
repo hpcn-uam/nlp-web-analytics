@@ -1,0 +1,17 @@
+1589383748.582210068 1 facebook.com facebook.com 204
+1589383748.753141651 1 accounts.google.com accounts.google.com 299
+1589383748.909261403 1 www.facebook.com star-mini.c10r.facebook.com 3200
+1589383748.909261403 2 star-mini.c10r.facebook.com www.facebook.com 53
+1589383749.187513802 1 static.xx.fbcdn.net scontent.xx.fbcdn.net 882
+1589383749.187513802 2 scontent.xx.fbcdn.net static.xx.fbcdn.net 59
+1589383750.053910893 1 fbcdn.net fbcdn.net 197
+1589383750.279329936 1 clients1.google.com clients.l.google.com 299
+1589383750.279329936 2 clients.l.google.com clients1.google.com 299
+1589383750.565618416 1 fbsbx.com fbsbx.com 164
+1589383750.921547487 1 connect.facebook.net scontent.xx.fbcdn.net 1649
+1589383750.921547487 2 scontent.xx.fbcdn.net connect.facebook.net 59
+1589383758.726641922 1 <Root> zvfcjrelrr 86395
+1589383758.726988485 1 update.googleapis.com update.googleapis.com 159
+1589383758.728226106 1 <Root> yhsgrccogdq 86373
+1589383758.728882570 1 <Root> qdcczshhwckjtcj 86390
+1589383758.744490969 1 ssl.gstatic.com ssl.gstatic.com 148

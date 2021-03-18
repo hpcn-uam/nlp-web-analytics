@@ -1,0 +1,14 @@
+1589331106.565013913 1 babytree.com tline.babytree.com 59
+1589331106.565013913 2 tline.babytree.com babytree.com 9
+1589331106.566835713 1 accounts.google.com accounts.google.com 266
+1589331107.541186359 1 pic05.babytreeimg.com pic05.babytreeimg.com.w.alikunlun.com 119
+1589331107.541186359 2 pic05.babytreeimg.com.w.alikunlun.com pic05.babytreeimg.com 59
+1589331107.547953667 1 static02.babytreeimg.com static02.babytreeimg.com.w.alikunlun.com 119
+1589331107.547953667 2 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com 59
+1589331110.121567213 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 518
+1589331110.121567213 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 518
+1589331110.121622381 1 ubuntu.com connectivity-check.ubuntu.com 1131
+1589331113.275464251 1 <Root> ijzfugypnqhqfs 86398
+1589331113.275707990 1 <Root> acwlfbxjokoz 86385
+1589331113.275748245 1 <Root> ogwpsqmub 86350
+1589331116.274203479 1 ssl.gstatic.com ssl.gstatic.com 129

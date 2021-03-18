@@ -1,0 +1,11 @@
+1589343580.314600566 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 119
+1589343580.314600566 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 59
+1589343580.314600566 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 59
+1589343580.512240336 1 accounts.google.com accounts.google.com 299
+1589343586.749587394 1 <Root> ekmxtojpcit 86392
+1589343586.750069804 1 <Root> qtrmwzw 86394
+1589343586.752595093 1 <Root> ekdjzzicoyxmew 86381
+1589343589.749257835 1 ssl.gstatic.com ssl.gstatic.com 143
+1589343590.448589737 1 ubuntu.com connectivity-check.ubuntu.com 1542
+1589343590.448627178 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 497
+1589343590.448627178 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 497

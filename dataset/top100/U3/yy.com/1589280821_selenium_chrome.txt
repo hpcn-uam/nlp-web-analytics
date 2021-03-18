@@ -1,0 +1,16 @@
+1589280824.577772473 1 yy.com yy.com 119
+1589280824.577772473 2 yy.com yy.com 119
+1589280825.373001740 1 www.yy.com www.yy.com 59
+1589280825.373001740 2 www.yy.com www.yy.com 59
+1589280825.373001740 3 www.yy.com www.yy.com 59
+1589280825.373001740 4 www.yy.com www.yy.com 59
+1589280829.348188799 1 wap.yy.com wap.yy.com 59
+1589280829.348188799 2 wap.yy.com wap.yy.com 59
+1589280829.348188799 3 wap.yy.com wap.yy.com 59
+1589280829.348188799 4 wap.yy.com wap.yy.com 59
+1589280829.348188799 5 wap.yy.com wap.yy.com 59
+1589280831.566683159 1 wq.yy.com wq.yy.com 59
+1589280831.566683159 2 wq.yy.com wq.yy.com 59
+1589280831.566683159 3 wq.yy.com wq.yy.com 59
+1589280831.679044660 1 web.yystatic.com web.yystatic.com.w.kunlunpi.com 119
+1589280831.679044660 2 web.yystatic.com.w.kunlunpi.com web.yystatic.com 59

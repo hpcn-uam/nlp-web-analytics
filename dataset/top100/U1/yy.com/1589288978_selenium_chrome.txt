@@ -1,0 +1,9 @@
+1589288982.526702977 1 yy.com yy.com 93
+1589288982.526702977 2 yy.com yy.com 93
+1589288983.056035492 1 www.yy.com www.yy.com 24
+1589288983.056035492 2 www.yy.com www.yy.com 24
+1589288983.056035492 3 www.yy.com www.yy.com 24
+1589288983.056035492 4 www.yy.com www.yy.com 24
+1589288990.450961297 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 429
+1589288990.450961297 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 429
+1589288990.451054387 1 ubuntu.com connectivity-check.ubuntu.com 1441

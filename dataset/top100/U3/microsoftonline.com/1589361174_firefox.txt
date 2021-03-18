@@ -1,0 +1,7 @@
+1589361179.746240547 1 microsoftonline.com microsoftonline.com 3069
+1589361179.746240547 2 microsoftonline.com microsoftonline.com 3069
+1589361180.084751914 1 accounts.google.com accounts.google.com 299
+1589361186.543884820 1 <Root> ifibbnz 86398
+1589361186.543976424 1 <Root> ibqyzpicfz 86389
+1589361186.544772151 1 <Root> uifqoxr 86383
+1589361189.543421664 1 ssl.gstatic.com ssl.gstatic.com 260

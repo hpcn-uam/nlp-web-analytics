@@ -1,0 +1,17 @@
+1589432508.829890324 1 bing.com bing.com 3389
+1589432508.829890324 2 bing.com bing.com 3389
+1589432509.008347173 1 accounts.google.com accounts.google.com 84
+1589432509.274349107 1 www.bing.com a-0001.a-afdentry.net.trafficmanager.net 2808
+1589432509.274349107 2 a-0001.a-afdentry.net.trafficmanager.net dual-a-0001.a-msedge.net 59
+1589432509.274349107 3 dual-a-0001.a-msedge.net dual-a-0001.a-msedge.net 12
+1589432509.274349107 4 dual-a-0001.a-msedge.net www.bing.com 12
+1589432510.117039541 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 188
+1589432510.117039541 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 188
+1589432510.117082983 1 ubuntu.com connectivity-check.ubuntu.com 1064
+1589432510.667634641 1 clients1.google.com clients.l.google.com 277
+1589432510.667634641 2 clients.l.google.com clients1.google.com 277
+1589432518.099986449 1 <Root> sbycybbxo 86396
+1589432518.100249123 1 <Root> quukzcxrtb 86397
+1589432518.101052339 1 <Root> tbaxnkufixbilew 86395
+1589432518.102371702 1 update.googleapis.com update.googleapis.com 109
+1589432518.651275669 1 ssl.gstatic.com ssl.gstatic.com 119

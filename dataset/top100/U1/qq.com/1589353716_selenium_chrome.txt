@@ -1,0 +1,6 @@
+1589353719.886468538 1 qq.com qq.com 599
+1589353719.886468538 2 qq.com qq.com 599
+1589353719.886468538 3 qq.com qq.com 599
+1589353722.304412540 1 www.qq.com news.qq.com.edgekey.net 299
+1589353722.304412540 2 news.qq.com.edgekey.net e6156.dscf.akamaiedge.net 20843
+1589353722.304412540 3 e6156.dscf.akamaiedge.net www.qq.com 19

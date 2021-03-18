@@ -1,0 +1,17 @@
+1589286976.181598741 1 zhanqi.tv zhanqi.tv 599
+1589286976.515343513 1 accounts.google.com accounts.google.com 299
+1589286979.045347226 1 www.zhanqi.tv www.zhanqi.tv.fastcdn.com 9
+1589286979.045347226 2 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 3 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 4 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 5 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 6 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 7 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 8 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 9 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 10 www.zhanqi.tv.fastcdn.com www.zhanqi.tv.fastcdn.com 119
+1589286979.045347226 11 www.zhanqi.tv.fastcdn.com www.zhanqi.tv 119
+1589286982.881258001 1 <Root> txhgvqigmvnqb 86380
+1589286982.881324150 1 <Root> kahbwqpicak 86398
+1589286982.881670157 1 <Root> pfjiomo 86394
+1589286985.883244896 1 ssl.gstatic.com ssl.gstatic.com 45

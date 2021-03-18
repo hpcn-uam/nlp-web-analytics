@@ -1,0 +1,14 @@
+1589308830.631141320 1 accounts.google.com accounts.google.com 143
+1589308830.648969051 1 wikipedia.org wikipedia.org 599
+1589308830.946726938 1 www.wikipedia.org dyna.wikimedia.org 20610
+1589308830.946726938 2 dyna.wikimedia.org www.wikipedia.org 599
+1589308831.180415359 1 upload.wikimedia.org upload.wikimedia.org 599
+1589308832.420832304 1 es.wikipedia.org dyna.wikimedia.org 21186
+1589308832.420832304 2 dyna.wikimedia.org es.wikipedia.org 599
+1589308832.426519316 1 clients1.google.com clients.l.google.com 299
+1589308832.426519316 2 clients.l.google.com clients1.google.com 299
+1589308837.256927641 1 <Root> oneftvufa 86391
+1589308837.257052314 1 <Root> lmphdwvckwjuxc 86396
+1589308837.257937105 1 <Root> akjlpnj 86381
+1589308840.247447926 1 ssl.gstatic.com ssl.gstatic.com 268
+1589308846.938828832 1 update.googleapis.com update.googleapis.com 197

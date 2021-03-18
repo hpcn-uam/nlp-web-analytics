@@ -1,0 +1,10 @@
+1589409104.880760118 1 microsoftonline.com microsoftonline.com 3170
+1589409104.880760118 2 microsoftonline.com microsoftonline.com 3170
+1589409104.991963478 1 accounts.google.com accounts.google.com 299
+1589409110.122035034 1 ubuntu.com connectivity-check.ubuntu.com 1739
+1589409110.122122196 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 256
+1589409110.122122196 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 256
+1589409111.628962059 1 <Root> nnemztdenpi 86398
+1589409111.630723298 1 <Root> udllogqkdarmreb 86363
+1589409111.631268228 1 <Root> guolawdgobh 86389
+1589409114.631795380 1 ssl.gstatic.com ssl.gstatic.com 299

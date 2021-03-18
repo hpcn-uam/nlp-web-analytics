@@ -1,0 +1,11 @@
+1589274538.837780768 1 babytree.com tline.babytree.com 59
+1589274538.837780768 2 tline.babytree.com babytree.com 9
+1589274538.953378044 1 accounts.google.com accounts.google.com 299
+1589274540.848592149 1 static02.babytreeimg.com static02.babytreeimg.com.w.alikunlun.com 119
+1589274540.848592149 2 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com 59
+1589274542.398986050 1 pic05.babytreeimg.com pic05.babytreeimg.com.w.alikunlun.com 119
+1589274542.398986050 2 pic05.babytreeimg.com.w.alikunlun.com pic05.babytreeimg.com 59
+1589274545.604520434 1 <Root> bppzsssgzqurs 86398
+1589274545.604596901 1 <Root> oadkgnfzk 86396
+1589274545.605887271 1 <Root> dacxuamjq 86389
+1589274548.604984306 1 ssl.gstatic.com ssl.gstatic.com 151

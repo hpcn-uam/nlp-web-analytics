@@ -1,0 +1,9 @@
+1589345377.745867044 1 tmall.com tmall.com 299
+1589345377.745867044 2 tmall.com tmall.com 299
+1589345377.847116207 1 accounts.google.com accounts.google.com 299
+1589345384.519419129 1 <Root> czsdthr 86395
+1589345384.519484674 1 <Root> icymcbabfkuxyqr 86393
+1589345384.519501938 1 <Root> ppmtmxvkveglbo 86391
+1589345387.497777733 1 ssl.gstatic.com ssl.gstatic.com 61
+1589345402.605468413 1 www.tmall.com www.tmall.com.danuoyi.tbcache.com 600
+1589345402.605468413 2 www.tmall.com.danuoyi.tbcache.com www.tmall.com 59

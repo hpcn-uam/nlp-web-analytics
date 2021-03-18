@@ -1,0 +1,8 @@
+1589306785.248867963 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 119
+1589306785.248867963 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 59
+1589306785.248867963 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 59
+1589306785.324872198 1 accounts.google.com accounts.google.com 299
+1589306791.708944546 1 <Root> sudwporrrx 86378
+1589306791.710014408 1 <Root> feezyamywwznqdl 86395
+1589306791.710753550 1 <Root> xkffhidf 86392
+1589306794.709545675 1 ssl.gstatic.com ssl.gstatic.com 254

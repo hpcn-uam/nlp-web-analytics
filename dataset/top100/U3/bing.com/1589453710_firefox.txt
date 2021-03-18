@@ -1,0 +1,14 @@
+1589453715.832370352 1 bing.com bing.com 3483
+1589453715.832370352 2 bing.com bing.com 3483
+1589453715.940196869 1 accounts.google.com accounts.google.com 299
+1589453716.282942474 1 www.bing.com a-0001.a-afdentry.net.trafficmanager.net 2927
+1589453716.282942474 2 a-0001.a-afdentry.net.trafficmanager.net dual-a-0001.a-msedge.net 59
+1589453716.282942474 3 dual-a-0001.a-msedge.net dual-a-0001.a-msedge.net 21
+1589453716.282942474 4 dual-a-0001.a-msedge.net www.bing.com 21
+1589453717.908589772 1 clients1.google.com clients.l.google.com 299
+1589453717.908589772 2 clients.l.google.com clients1.google.com 299
+1589453722.598481575 1 <Root> uelcwhk 86397
+1589453722.601563710 1 <Root> hkylhfls 86398
+1589453722.608267501 1 <Root> voxiptcssmf 86395
+1589453725.431169385 1 update.googleapis.com update.googleapis.com 72
+1589453725.596792909 1 ssl.gstatic.com ssl.gstatic.com 218

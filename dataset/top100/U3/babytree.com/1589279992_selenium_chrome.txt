@@ -1,0 +1,7 @@
+1589279995.703134802 1 babytree.com tline.babytree.com 59
+1589279995.703134802 2 tline.babytree.com babytree.com 9
+1589279996.137599112 1 m.babytree.com tline.babytree.com 9
+1589279996.137599112 2 tline.babytree.com m.babytree.com 9
+1589279999.120934304 1 static02.babytreeimg.com static02.babytreeimg.com.w.alikunlun.com 119
+1589279999.120934304 2 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com 59
+1589279999.160925157 1 g.kexin001.com g.kexin001.com 599

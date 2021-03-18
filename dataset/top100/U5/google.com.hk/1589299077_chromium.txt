@@ -1,0 +1,15 @@
+1589299079.615538278 1 google.com.hk google.com.hk 299
+1589299079.722320249 1 accounts.google.com accounts.google.com 299
+1589299079.917735834 1 www.google.com.hk www.google.com.hk 299
+1589299080.189842980 1 consent.google.com consent.google.com 152
+1589299080.220362781 1 ssl.gstatic.com ssl.gstatic.com 299
+1589299080.470940070 1 www.gstatic.com www.gstatic.com 299
+1589299080.478647803 1 clients1.google.com clients.l.google.com 142
+1589299080.478647803 2 clients.l.google.com clients1.google.com 142
+1589299081.161611253 1 adservice.google.com.hk pagead46.l.doubleclick.net 299
+1589299081.161611253 2 pagead46.l.doubleclick.net adservice.google.com.hk 299
+1589299086.343747788 1 <Root> lczxamlnreuvrap 86397
+1589299086.345604260 1 <Root> ydiakdivum 86394
+1589299086.346830020 1 <Root> agqruihkgr 86398
+1589299089.190389999 1 update.googleapis.com update.googleapis.com 299
+1589299089.326016239 1 ssl.gstatic.com ssl.gstatic.com 186

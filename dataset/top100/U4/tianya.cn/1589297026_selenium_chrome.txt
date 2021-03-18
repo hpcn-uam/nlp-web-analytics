@@ -1,0 +1,4 @@
+1589297030.173503427 1 tianya.cn tianya.cn 2107
+1589297033.955938769 1 www.tianya.cn www.tianya.cn 11296
+1589297037.585545820 1 static.tianyaui.com static.tianya.cn 254
+1589297037.585545820 2 static.tianya.cn static.tianyaui.com 254

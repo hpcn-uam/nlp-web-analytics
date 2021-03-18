@@ -1,0 +1,7 @@
+1589285190.413057289 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 84
+1589285190.413057289 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 24
+1589285190.413057289 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 24
+1589285216.544141743 1 login.taobao.com login.taobao.com.gds.alibabadns.com 299
+1589285216.544141743 2 login.taobao.com.gds.alibabadns.com hk.wagbridge.taobao.com 119
+1589285216.544141743 3 hk.wagbridge.taobao.com hk.wagbridge.taobao.com 299
+1589285216.544141743 4 hk.wagbridge.taobao.com login.taobao.com 299

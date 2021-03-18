@@ -1,0 +1,13 @@
+1589293154.509578783 1 alipay.com alipay.com 599
+1589293154.509578783 2 alipay.com alipay.com 599
+1589293154.557751399 1 accounts.google.com accounts.google.com 299
+1589293155.914392309 1 www.alipay.com rz-lb2.internet.v6.spanner.alipaydns.com 208
+1589293155.914392309 2 rz-lb2.internet.v6.spanner.alipaydns.com rz-lb2.internet.v6.spanner.alipaydns.com 46
+1589293155.914392309 3 rz-lb2.internet.v6.spanner.alipaydns.com www.alipay.com 46
+1589293157.028814188 1 m.alipay.com gz-lb2.internet.v6.spanner.alipaydns.com 599
+1589293157.028814188 2 gz-lb2.internet.v6.spanner.alipaydns.com gz-lb2.internet.v6.spanner.alipaydns.com 59
+1589293157.028814188 3 gz-lb2.internet.v6.spanner.alipaydns.com m.alipay.com 59
+1589293161.233717359 1 <Root> lfjjgreyhk 86389
+1589293161.233764928 1 <Root> rczquvkqylwnjhp 86397
+1589293161.234079850 1 <Root> ddutjtykt 86382
+1589293164.234844313 1 ssl.gstatic.com ssl.gstatic.com 228

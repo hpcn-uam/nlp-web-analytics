@@ -1,0 +1,14 @@
+1589348970.706183117 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 119
+1589348970.706183117 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 59
+1589348970.706183117 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 59
+1589348982.099607838 1 login.taobao.com login.taobao.com.gds.alibabadns.com 299
+1589348982.099607838 2 login.taobao.com.gds.alibabadns.com hk.wagbridge.taobao.com 119
+1589348982.099607838 3 hk.wagbridge.taobao.com hk.wagbridge.taobao.com 299
+1589348982.099607838 4 hk.wagbridge.taobao.com login.taobao.com 299
+1589348983.351143852 1 pass.tmall.com pass.tmall.com.gds.alibabadns.com 299
+1589348983.351143852 2 pass.tmall.com.gds.alibabadns.com pilotsp.tmall.hk 119
+1589348983.351143852 3 pilotsp.tmall.hk pilotsp.tmall.hk 299
+1589348983.351143852 4 pilotsp.tmall.hk pass.tmall.com 299
+1589348990.455986756 1 ubuntu.com connectivity-check.ubuntu.com 1272
+1589348990.456073923 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 484
+1589348990.456073923 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 484

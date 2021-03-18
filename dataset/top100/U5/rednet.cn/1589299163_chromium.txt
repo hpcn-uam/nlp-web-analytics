@@ -1,0 +1,11 @@
+1589299165.855027990 1 accounts.google.com accounts.google.com 180
+1589299165.868001772 1 rednet.cn dnspod-vip4.beian.mydnspod.net 599
+1589299165.868001772 2 dnspod-vip4.beian.mydnspod.net dnspod-vip4.beian.mydnspod.net 299
+1589299165.868001772 3 dnspod-vip4.beian.mydnspod.net rednet.cn 599
+1589299172.374678636 1 <Root> yilfqxaelqq 86386
+1589299172.377131742 1 <Root> ihrgxchrv 86386
+1589299172.377193304 1 <Root> rtwrkzbsv 86377
+1589299175.377266591 1 ssl.gstatic.com ssl.gstatic.com 299
+1589299190.467655883 1 ubuntu.com connectivity-check.ubuntu.com 1781
+1589299190.467711585 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 496
+1589299190.467711585 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 496

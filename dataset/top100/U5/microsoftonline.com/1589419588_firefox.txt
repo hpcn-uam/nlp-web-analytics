@@ -1,0 +1,10 @@
+1589419593.779148954 1 microsoftonline.com microsoftonline.com 3310
+1589419593.779148954 2 microsoftonline.com microsoftonline.com 3310
+1589419593.940258325 1 accounts.google.com accounts.google.com 169
+1589419600.561923543 1 <Root> alqljdun 86384
+1589419600.562758472 1 <Root> yjpehqqvc 86396
+1589419600.565216612 1 <Root> ifwerhxryzi 86383
+1589419603.562315358 1 ssl.gstatic.com ssl.gstatic.com 299
+1589419610.131955600 1 ubuntu.com connectivity-check.ubuntu.com 1735
+1589419610.132013790 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 405
+1589419610.132013790 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 405

@@ -1,0 +1,17 @@
+1589399785.122211079 1 wikipedia.org wikipedia.org 599
+1589399785.212666249 1 accounts.google.com accounts.google.com 297
+1589399785.497795073 1 www.wikipedia.org dyna.wikimedia.org 11500
+1589399785.497795073 2 dyna.wikimedia.org www.wikipedia.org 599
+1589399785.725672854 1 upload.wikimedia.org upload.wikimedia.org 599
+1589399786.934578754 1 es.wikipedia.org dyna.wikimedia.org 10536
+1589399786.934578754 2 dyna.wikimedia.org es.wikipedia.org 599
+1589399786.962693882 1 clients1.google.com clients.l.google.com 299
+1589399786.962693882 2 clients.l.google.com clients1.google.com 299
+1589399793.502719102 1 <Root> ovdrbudll 86384
+1589399793.504386506 1 <Root> hzrzzyfedy 86389
+1589399793.504639531 1 <Root> oobzrvknmbnk 86390
+1589399793.524205370 1 update.googleapis.com update.googleapis.com 299
+1589399794.883357397 1 ssl.gstatic.com ssl.gstatic.com 193
+1589399810.144522782 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 424
+1589399810.144522782 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 424
+1589399810.144648616 1 ubuntu.com connectivity-check.ubuntu.com 1645

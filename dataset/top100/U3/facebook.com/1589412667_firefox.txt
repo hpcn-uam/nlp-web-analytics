@@ -1,0 +1,13 @@
+1589412672.353427854 1 facebook.com facebook.com 196
+1589412672.516053034 1 accounts.google.com accounts.google.com 299
+1589412672.695804874 1 m.facebook.com star-mini.c10r.facebook.com 1298
+1589412672.695804874 2 star-mini.c10r.facebook.com m.facebook.com 59
+1589412673.080832683 1 static.xx.fbcdn.net scontent.xx.fbcdn.net 3599
+1589412673.080832683 2 scontent.xx.fbcdn.net static.xx.fbcdn.net 59
+1589412673.628845565 1 clients1.google.com clients.l.google.com 82
+1589412673.628845565 2 clients.l.google.com clients1.google.com 82
+1589412679.253424744 1 <Root> cxouvbynls 86385
+1589412679.253461379 1 <Root> vyyclfcbaf 86380
+1589412679.253470820 1 <Root> dvrzcqf 86388
+1589412679.256716189 1 update.googleapis.com update.googleapis.com 117
+1589412682.124477255 1 ssl.gstatic.com ssl.gstatic.com 299

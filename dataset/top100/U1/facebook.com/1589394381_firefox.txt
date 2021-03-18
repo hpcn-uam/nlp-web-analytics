@@ -1,0 +1,16 @@
+1589394385.906886176 1 facebook.com facebook.com 177
+1589394385.955764244 1 accounts.google.com accounts.google.com 299
+1589394386.161784167 1 www.facebook.com star-mini.c10r.facebook.com 3097
+1589394386.161784167 2 star-mini.c10r.facebook.com www.facebook.com 49
+1589394386.390804312 1 static.xx.fbcdn.net scontent.xx.fbcdn.net 443
+1589394386.390804312 2 scontent.xx.fbcdn.net static.xx.fbcdn.net 51
+1589394387.289303263 1 clients1.google.com clients.l.google.com 299
+1589394387.289303263 2 clients.l.google.com clients1.google.com 299
+1589394392.674777571 1 <Root> xulhghpjvwbbrbf 86398
+1589394392.675908469 1 <Root> eexzqvtdsjsywxg 86378
+1589394392.678209920 1 <Root> hsjgrnnm 86395
+1589394395.126168721 1 update.googleapis.com update.googleapis.com 299
+1589394395.674697341 1 ssl.gstatic.com ssl.gstatic.com 121
+1589394410.150365489 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 310
+1589394410.150365489 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 310
+1589394410.150430552 1 ubuntu.com connectivity-check.ubuntu.com 1628

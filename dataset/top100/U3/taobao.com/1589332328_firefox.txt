@@ -1,0 +1,7 @@
+1589332333.526738262 1 taobao.com taobao.com 299
+1589332333.526738262 2 taobao.com taobao.com 299
+1589332333.555081385 1 accounts.google.com accounts.google.com 191
+1589332340.308231626 1 <Root> bvfgfnykcsyhfl 86370
+1589332340.309942911 1 <Root> ycxwjvoscr 86396
+1589332340.310833913 1 <Root> qgonbqsoka 86387
+1589332343.308307664 1 ssl.gstatic.com ssl.gstatic.com 132

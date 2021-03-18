@@ -1,0 +1,15 @@
+1589293512.850865753 1 google.com.hk google.com.hk 299
+1589293512.919387459 1 accounts.google.com accounts.google.com 196
+1589293513.103852414 1 www.google.com.hk www.google.com.hk 299
+1589293513.409017646 1 consent.google.com consent.google.com 299
+1589293513.433017201 1 ssl.gstatic.com ssl.gstatic.com 299
+1589293513.651409111 1 www.gstatic.com www.gstatic.com 299
+1589293513.681417268 1 clients1.google.com clients.l.google.com 299
+1589293513.681417268 2 clients.l.google.com clients1.google.com 299
+1589293514.395042198 1 adservice.google.com.hk pagead46.l.doubleclick.net 299
+1589293514.395042198 2 pagead46.l.doubleclick.net adservice.google.com.hk 299
+1589293520.063151342 1 <Root> kyemtynk 86396
+1589293520.063540138 1 <Root> pqbldjtp 86398
+1589293520.065792562 1 <Root> eruizlnxnrvio 86398
+1589293520.074408139 1 update.googleapis.com update.googleapis.com 41
+1589293522.946115930 1 ssl.gstatic.com ssl.gstatic.com 194

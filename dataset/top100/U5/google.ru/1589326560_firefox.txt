@@ -1,0 +1,15 @@
+1589326565.053027738 1 google.ru google.ru 299
+1589326565.426435189 1 accounts.google.com accounts.google.com 78
+1589326565.518248661 1 www.google.ru www.google.ru 299
+1589326565.804005577 1 consent.google.com consent.google.com 299
+1589326565.805348304 1 ssl.gstatic.com ssl.gstatic.com 46
+1589326566.055297894 1 www.gstatic.com www.gstatic.com 299
+1589326566.121359143 1 clients1.google.com clients.l.google.com 267
+1589326566.121359143 2 clients.l.google.com clients1.google.com 299
+1589326567.182666793 1 adservice.google.ru pagead46.l.doubleclick.net 299
+1589326567.182666793 2 pagead46.l.doubleclick.net adservice.google.ru 299
+1589326571.811853811 1 <Root> pspzouvsbevus 86395
+1589326571.814776196 1 <Root> pvpnxzv 86397
+1589326571.816965221 1 <Root> ftcrghbtuz 86385
+1589326576.169846379 1 ssl.gstatic.com ssl.gstatic.com 299
+1589326576.186630625 1 update.googleapis.com update.googleapis.com 203

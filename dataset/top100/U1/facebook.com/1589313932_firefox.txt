@@ -1,0 +1,11 @@
+1589313937.664115463 1 facebook.com facebook.com 299
+1589313937.689454435 1 accounts.google.com accounts.google.com 299
+1589313937.996767691 1 www.facebook.com star-mini.c10r.facebook.com 3483
+1589313937.996767691 2 star-mini.c10r.facebook.com www.facebook.com 59
+1589313939.183450921 1 clients1.google.com clients.l.google.com 299
+1589313939.183450921 2 clients.l.google.com clients1.google.com 299
+1589313944.408536921 1 <Root> iifzqtikyg 86367
+1589313944.410501978 1 <Root> fqhznytfksy 86398
+1589313944.412384053 1 <Root> imxyanzbuogccal 86397
+1589313947.408678621 1 ssl.gstatic.com ssl.gstatic.com 298
+1589313952.562898448 1 update.googleapis.com update.googleapis.com 118

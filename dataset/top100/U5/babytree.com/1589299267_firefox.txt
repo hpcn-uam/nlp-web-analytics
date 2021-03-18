@@ -1,0 +1,16 @@
+1589299272.839977960 1 accounts.google.com accounts.google.com 299
+1589299273.763955436 1 babytree.com tline.babytree.com 59
+1589299273.763955436 2 tline.babytree.com babytree.com 9
+1589299274.206874847 1 m.babytree.com tline.babytree.com 9
+1589299274.206874847 2 tline.babytree.com m.babytree.com 9
+1589299276.522253096 1 tracking.babytree.com aline.babytree.com 59
+1589299276.522253096 2 aline.babytree.com tracking.babytree.com 9
+1589299276.524506792 1 fp.babytree.com tline.babytree.com 59
+1589299276.524506792 2 tline.babytree.com fp.babytree.com 9
+1589299276.868746253 1 static02.babytreeimg.com static02.babytreeimg.com.w.alikunlun.com 119
+1589299276.868746253 2 static02.babytreeimg.com.w.alikunlun.com static02.babytreeimg.com 59
+1589299277.863357415 1 g.kexin001.com g.kexin001.com 599
+1589299279.543788343 1 <Root> ythhpbfceofjvt 86394
+1589299279.544882332 1 <Root> byqflqllncljlmk 86391
+1589299279.545123150 1 <Root> ywpgklcieosbv 86398
+1589299282.509487535 1 ssl.gstatic.com ssl.gstatic.com 189

@@ -1,0 +1,17 @@
+1589284387.183376691 1 myshopify.com myshopify.com 3350
+1589284387.481209735 1 accounts.google.com accounts.google.com 5
+1589284387.859716232 1 cdn.shopify.com cdn.tm.shopifysvc.com 563
+1589284387.859716232 2 cdn.tm.shopifysvc.com cdn.shopify.com-v2.edgekey.net 119
+1589284387.859716232 3 cdn.shopify.com-v2.edgekey.net e923.dscb.akamaiedge.net 21104
+1589284387.859716232 4 e923.dscb.akamaiedge.net cdn.shopify.com 19
+1589284388.172466329 1 exchangemarketplace.com exchangemarketplace.com 3570
+1589284388.172622897 1 www.shopify.com brochure.shopifysvc.com 2170
+1589284388.172622897 2 brochure.shopifysvc.com brochure.tm.shopifysvc.com 1340
+1589284388.172622897 3 brochure.tm.shopifysvc.com brochure-ingress-tier2.shopifysvc.com 2
+1589284388.172622897 4 brochure-ingress-tier2.shopifysvc.com www.shopify.com 9165
+1589284388.195829913 1 translate.googleapis.com translate.googleapis.com 299
+1589284393.923176125 1 <Root> vwgorvcadem 86387
+1589284393.923283765 1 <Root> dbytwuo 86393
+1589284393.924789527 1 <Root> kqvtpgkshr 86390
+1589284401.458542367 1 update.googleapis.com update.googleapis.com 294
+1589284401.459450889 1 ssl.gstatic.com ssl.gstatic.com 299

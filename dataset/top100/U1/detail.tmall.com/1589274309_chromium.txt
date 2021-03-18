@@ -1,0 +1,16 @@
+1589274311.794209752 1 detail.tmall.com detail.tmall.com.danuoyi.tbcache.com 119
+1589274311.794209752 2 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com.danuoyi.tbcache.com 59
+1589274311.794209752 3 detail.tmall.com.danuoyi.tbcache.com detail.tmall.com 59
+1589274311.905034896 1 accounts.google.com accounts.google.com 299
+1589274318.238198499 1 <Root> ogouuiuakk 86350
+1589274318.240285452 1 <Root> bdwvmbyifg 86352
+1589274318.257879652 1 <Root> graksibgtyik 86399
+1589274321.218716746 1 ssl.gstatic.com ssl.gstatic.com 226
+1589274322.221678158 1 login.taobao.com login.taobao.com.gds.alibabadns.com 299
+1589274322.221678158 2 login.taobao.com.gds.alibabadns.com hk.wagbridge.taobao.com 119
+1589274322.221678158 3 hk.wagbridge.taobao.com hk.wagbridge.taobao.com 299
+1589274322.221678158 4 hk.wagbridge.taobao.com login.taobao.com 299
+1589274323.324967821 1 pass.tmall.com pass.tmall.com.gds.alibabadns.com 299
+1589274323.324967821 2 pass.tmall.com.gds.alibabadns.com pilotsp.tmall.hk 119
+1589274323.324967821 3 pilotsp.tmall.hk pilotsp.tmall.hk 299
+1589274323.324967821 4 pilotsp.tmall.hk pass.tmall.com 299

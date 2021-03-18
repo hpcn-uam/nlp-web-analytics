@@ -1,0 +1,15 @@
+1589335022.174500825 1 facebook.com facebook.com 299
+1589335022.229994985 1 accounts.google.com accounts.google.com 193
+1589335022.490495108 1 www.facebook.com star-mini.c10r.facebook.com 3247
+1589335022.490495108 2 star-mini.c10r.facebook.com www.facebook.com 59
+1589335022.808935996 1 static.xx.fbcdn.net scontent.xx.fbcdn.net 3599
+1589335022.808935996 2 scontent.xx.fbcdn.net static.xx.fbcdn.net 59
+1589335023.873995745 1 clients1.google.com clients.l.google.com 128
+1589335023.873995745 2 clients.l.google.com clients1.google.com 196
+1589335028.940845550 1 <Root> rpkmtetfb 86393
+1589335028.941024098 1 <Root> yotramicb 86383
+1589335028.942100017 1 <Root> etkpliaafgcla 86395
+1589335032.104250052 1 ssl.gstatic.com ssl.gstatic.com 134
+1589335032.114046649 1 update.googleapis.com update.googleapis.com 246
+1589335039.713427064 1 pixel.facebook.com z-m.c10r.facebook.com 71
+1589335039.713427064 2 z-m.c10r.facebook.com pixel.facebook.com 59

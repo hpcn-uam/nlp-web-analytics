@@ -1,0 +1,15 @@
+1589364419.305332208 1 google.com google.com 299
+1589364419.426391048 1 accounts.google.com accounts.google.com 299
+1589364419.655879225 1 www.google.com www.google.com 273
+1589364419.982564890 1 ssl.gstatic.com ssl.gstatic.com 299
+1589364420.249262409 1 www.gstatic.com www.gstatic.com 299
+1589364420.336628661 1 clients1.google.com clients.l.google.com 299
+1589364420.336628661 2 clients.l.google.com clients1.google.com 299
+1589364420.947441372 1 adservice.google.com pagead46.l.doubleclick.net 22
+1589364420.947441372 2 pagead46.l.doubleclick.net adservice.google.com 22
+1589364420.976656208 1 consent.google.com consent.google.com 299
+1589364427.656494751 1 <Root> afmgzrsvhzwycq 86385
+1589364427.658120383 1 <Root> kouvxluxo 86394
+1589364427.658546055 1 <Root> ztlrojuqdguzkf 86392
+1589364427.660487313 1 update.googleapis.com update.googleapis.com 299
+1589364429.054129205 1 ssl.gstatic.com ssl.gstatic.com 241

@@ -1,0 +1,5 @@
+1589310406.748802762 1 microsoftonline.com microsoftonline.com 3341
+1589310406.748802762 2 microsoftonline.com microsoftonline.com 3341
+1589310410.125043189 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 490
+1589310410.125043189 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 490
+1589310410.125134141 1 ubuntu.com connectivity-check.ubuntu.com 1602

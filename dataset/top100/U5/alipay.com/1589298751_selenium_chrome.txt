@@ -1,0 +1,12 @@
+1589298754.790399635 1 alipay.com alipay.com 523
+1589298754.790399635 2 alipay.com alipay.com 523
+1589298755.674858070 1 www.alipay.com rz-lb2.internet.v6.spanner.alipaydns.com 245
+1589298755.674858070 2 rz-lb2.internet.v6.spanner.alipaydns.com rz-lb2.internet.v6.spanner.alipaydns.com 5
+1589298755.674858070 3 rz-lb2.internet.v6.spanner.alipaydns.com www.alipay.com 5
+1589298757.220936009 1 m.alipay.com gz-lb2.internet.v6.spanner.alipaydns.com 178
+1589298757.220936009 2 gz-lb2.internet.v6.spanner.alipaydns.com gz-lb2.internet.v6.spanner.alipaydns.com 59
+1589298757.220936009 3 gz-lb2.internet.v6.spanner.alipaydns.com m.alipay.com 59
+1589298771.820132462 1 ds.alipay.com cmspromo.alipay.com 599
+1589298771.820132462 2 cmspromo.alipay.com gz-lb2.internet.spanner.alipaydns.com 599
+1589298771.820132462 3 gz-lb2.internet.spanner.alipaydns.com gz-lb2.internet.spanner.alipaydns.com 59
+1589298771.820132462 4 gz-lb2.internet.spanner.alipaydns.com ds.alipay.com 59

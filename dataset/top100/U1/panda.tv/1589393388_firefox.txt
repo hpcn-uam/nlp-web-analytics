@@ -1,0 +1,17 @@
+1589393390.449536243 1 ubuntu.com connectivity-check.ubuntu.com 1034
+1589393390.450099075 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 350
+1589393390.450099075 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 350
+1589393393.003115167 1 panda.tv imochen.github.io 241
+1589393393.003115167 2 imochen.github.io imochen.github.io 3599
+1589393393.003115167 3 imochen.github.io imochen.github.io 3599
+1589393393.003115167 4 imochen.github.io imochen.github.io 3599
+1589393393.003115167 5 imochen.github.io panda.tv 3599
+1589393393.243360569 1 accounts.google.com accounts.google.com 299
+1589393394.073228955 1 translate.googleapis.com translate.googleapis.com 299
+1589393394.161293722 1 hm.baidu.com hm.e.shifen.com 7176
+1589393394.161293722 2 hm.e.shifen.com hm.baidu.com 299
+1589393399.695528202 1 <Root> avkjuirgectv 86371
+1589393399.696179921 1 <Root> ejlbchwdayy 86393
+1589393399.698144141 1 <Root> wdhaqvafxcku 86398
+1589393402.697809133 1 ssl.gstatic.com ssl.gstatic.com 80
+1589393412.895664400 1 update.googleapis.com update.googleapis.com 193
