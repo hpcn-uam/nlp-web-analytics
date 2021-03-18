@@ -1,0 +1,17 @@
+1580617533.276553761 1 www.gstatic.com www.gstatic.com 299
+1580617533.509322682 1 accounts.google.com accounts.google.com 299
+1580617533.530903940 1 nbe.com.eg nbe.com.eg 3599
+1580617537.887100384 1 www.nbe.com.eg www.nbe.com.eg 3599
+1580617538.002823294 1 stats.g.doubleclick.net stats.l.doubleclick.net 21565
+1580617538.002823294 2 stats.l.doubleclick.net stats.l.doubleclick.net 265
+1580617538.002823294 3 stats.l.doubleclick.net stats.l.doubleclick.net 265
+1580617538.002823294 4 stats.l.doubleclick.net stats.l.doubleclick.net 265
+1580617538.002823294 5 stats.l.doubleclick.net stats.g.doubleclick.net 265
+1580617538.007352923 1 clients1.google.com clients.l.google.com 299
+1580617538.007352923 2 clients.l.google.com clients1.google.com 299
+1580617538.045708851 1 translate.googleapis.com translate.googleapis.com 30
+1580617539.959331099 1 update.googleapis.com update.googleapis.com 74
+1580617540.198659574 1 <Root> doinvhaqqvqfq 86390
+1580617540.198696096 1 <Root> slkouhiqszf 86384
+1580617540.198830116 1 <Root> nfqpxqz 86206
+1580617543.203648481 1 ssl.gstatic.com ssl.gstatic.com 299

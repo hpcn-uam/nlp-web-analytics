@@ -1,0 +1,16 @@
+1580615983.141511743 1 www.gstatic.com www.gstatic.com 299
+1580615983.315631512 1 diplo.de diplo.de 10799
+1580615983.383196475 1 accounts.google.com accounts.google.com 299
+1580615986.808242496 1 www.auswaertiges-amt.de www.auswaertiges-amt.de 10072
+1580615988.614990882 1 piwik.auswaertiges-amt.de piwik.auswaertiges-amt.de 10799
+1580615988.732446745 1 clients1.google.com clients.l.google.com 299
+1580615988.732446745 2 clients.l.google.com clients1.google.com 299
+1580615988.817562621 1 translate.googleapis.com translate.googleapis.com 299
+1580615990.080785070 1 <Root> ynpdsvxjytx 86375
+1580615990.082773198 1 <Root> qazvvcqwoes 86366
+1580615990.084335815 1 <Root> tytgjhhnbdke 86345
+1580615990.450713753 1 ubuntu.com connectivity-check.ubuntu.com 1534
+1580615990.481426208 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 599
+1580615990.481426208 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 599
+1580615993.083059332 1 ssl.gstatic.com ssl.gstatic.com 208
+1580616002.049979994 1 update.googleapis.com update.googleapis.com 299

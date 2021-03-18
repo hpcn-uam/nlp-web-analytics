@@ -1,0 +1,14 @@
+1580780829.843237470 1 vietcombank.com.vn vietcombank.com.vn 3599
+1580780830.871541431 1 portal.vietcombank.com.vn portal.vietcombank.com.vn 3599
+1580780831.632012057 1 secure.globalsign.com global.prd.cdn.globalsign.com 156
+1580780831.632012057 2 global.prd.cdn.globalsign.com cdn.globalsigncdn.com.cdn.cloudflare.net 693
+1580780831.632012057 3 cdn.globalsigncdn.com.cdn.cloudflare.net cdn.globalsigncdn.com.cdn.cloudflare.net 299
+1580780831.632012057 4 cdn.globalsigncdn.com.cdn.cloudflare.net secure.globalsign.com 299
+1580780833.806199495 1 www.googletagmanager.com www-googletagmanager.l.google.com 21437
+1580780833.806199495 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580780835.790360959 1 www.google-analytics.com www-google-analytics.l.google.com 21417
+1580780835.790360959 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580780836.546764070 1 ocsp2.globalsign.com global.prd.cdn.globalsign.com 2171
+1580780836.546764070 2 global.prd.cdn.globalsign.com cdn.globalsigncdn.com.cdn.cloudflare.net 36
+1580780836.546764070 3 cdn.globalsigncdn.com.cdn.cloudflare.net cdn.globalsigncdn.com.cdn.cloudflare.net 299
+1580780836.546764070 4 cdn.globalsigncdn.com.cdn.cloudflare.net ocsp2.globalsign.com 299

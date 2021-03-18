@@ -1,0 +1,16 @@
+1579761413.767682981 1 www.gstatic.com www.gstatic.com 299
+1579761413.923719061 1 webaula.com.br webaula.com.br 3567
+1579761413.952738406 1 accounts.google.com accounts.google.com 299
+1579761417.750407265 1 fonts.googleapis.com fonts.googleapis.com 162
+1579761417.755128567 1 uoledtech.com.br uoledtech.com.br 26
+1579761417.842139495 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579761417.842139495 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579761417.992998057 1 www.eadtech.com.br www123.wixdns.net 3599
+1579761417.992998057 2 www123.wixdns.net balancer.wixdns.net 571
+1579761417.992998057 3 balancer.wixdns.net www.eadtech.com.br 121
+1579761420.868237859 1 update.googleapis.com update.googleapis.com 299
+1579761420.870440027 1 <Root> mgfenlqlaakriy 86398
+1579761420.870671586 1 <Root> rjuvllxrryerxh 86392
+1579761420.871617473 1 <Root> okyicjevttnytto 86390
+1579761420.887621735 1 translate.googleapis.com translate.googleapis.com 299
+1579761423.703563270 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,12 @@
+1579747594.591562749 1 www.gstatic.com www.gstatic.com 71
+1579747594.773703257 1 disq.us disq.us 3599
+1579747594.773703257 2 disq.us disq.us 3599
+1579747594.773703257 3 disq.us disq.us 3599
+1579747594.773703257 4 disq.us disq.us 3599
+1579747594.803704979 1 accounts.google.com accounts.google.com 100
+1579747598.679786273 1 translate.googleapis.com translate.googleapis.com 100
+1579747601.806087019 1 update.googleapis.com update.googleapis.com 104
+1579747603.395312349 1 <Root> watukqy 86390
+1579747603.395337472 1 <Root> cpkiwzmxmhl 86395
+1579747603.396359458 1 <Root> hlrttbd 86259
+1579747604.533289248 1 ssl.gstatic.com ssl.gstatic.com 188

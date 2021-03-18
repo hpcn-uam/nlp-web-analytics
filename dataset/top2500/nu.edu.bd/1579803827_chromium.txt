@@ -1,0 +1,14 @@
+1579803829.010006494 1 www.gstatic.com www.gstatic.com 299
+1579803829.134232993 1 accounts.google.com accounts.google.com 166
+1579803829.473013892 1 nu.edu.bd nu.edu.bd 1799
+1579803829.830845785 1 google.com google.com 299
+1579803829.830881215 1 google.com google.com 299
+1579803830.043947610 1 nu.edu.bd nu.edu.bd 1766
+1579803835.470331685 1 nu.edu.bd nu.edu.bd 1799
+1579803835.512258458 1 google.com google.com 299
+1579803835.513568143 1 google.com google.com 299
+1579803835.934374464 1 <Root> ywnzwjlcjnjin 86397
+1579803835.935583097 1 <Root> sxoysgqx 86380
+1579803835.936618158 1 <Root> oafrgzzfxlfub 86387
+1579803837.643891270 1 update.googleapis.com update.googleapis.com 299
+1579803838.939355863 1 ssl.gstatic.com ssl.gstatic.com 299

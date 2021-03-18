@@ -1,0 +1,15 @@
+1579655405.321675468 1 www.gstatic.com www.gstatic.com 299
+1579655405.470682714 1 oraclecorp.com oraclecorp.com 186
+1579655405.513753550 1 accounts.google.com accounts.google.com 275
+1579655405.821854252 1 oraclecorp.com oraclecorp.com 299
+1579655406.116508371 1 google.com google.com 222
+1579655406.120324102 1 google.com google.com 190
+1579655406.508331938 1 oraclecorp.com oraclecorp.com 299
+1579655410.994849663 1 update.googleapis.com update.googleapis.com 286
+1579655411.571682396 1 oraclecorp.com oraclecorp.com 293
+1579655411.608173458 1 google.com google.com 299
+1579655411.608363540 1 google.com google.com 299
+1579655412.256771766 1 <Root> fxgwssqraindvjr 86364
+1579655412.257520413 1 <Root> tvmabme 86383
+1579655412.257644851 1 <Root> vufwlwptwpirsv 86397
+1579655415.256887598 1 ssl.gstatic.com ssl.gstatic.com 104

@@ -1,0 +1,8 @@
+1580641954.544257740 1 www.gstatic.com www.gstatic.com 299
+1580641954.745235877 1 accounts.google.com accounts.google.com 203
+1580641955.643010336 1 iuj.ac.jp iuj.ac.jp 3599
+1580641961.488113718 1 <Root> pbtddhbw 86346
+1580641961.488149592 1 <Root> xjaittslto 86396
+1580641961.489204468 1 <Root> hmtkmxuyhhksqhd 86386
+1580641964.491168696 1 ssl.gstatic.com ssl.gstatic.com 299
+1580641968.286068435 1 update.googleapis.com update.googleapis.com 200

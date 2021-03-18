@@ -1,0 +1,4 @@
+1580710182.646746513 1 barneys.com barneys.com 3599
+1580710190.448765530 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 553
+1580710190.448765530 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 553
+1580710190.448924778 1 ubuntu.com connectivity-check.ubuntu.com 521

@@ -1,0 +1,8 @@
+1579696909.000173086 1 www.gstatic.com www.gstatic.com 299
+1579696909.219671282 1 cubadebate.cu cubadebate.cu 2422
+1579696909.219671282 2 cubadebate.cu cubadebate.cu 2422
+1579696909.253277703 1 accounts.google.com accounts.google.com 299
+1579696915.941808741 1 <Root> kjrdibriad 86389
+1579696915.942349405 1 <Root> wlkzwzocqswked 86387
+1579696915.942397886 1 <Root> vyssvcexaji 86398
+1579696918.945002649 1 ssl.gstatic.com ssl.gstatic.com 233

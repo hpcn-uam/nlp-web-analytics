@@ -1,0 +1,15 @@
+1579678807.798582400 1 www.gstatic.com www.gstatic.com 229
+1579678807.984470353 1 free.fr free.fr 18906
+1579678808.156096519 1 accounts.google.com accounts.google.com 299
+1579678808.706110445 1 www.free.fr www.free.fr 4532
+1579678809.096363448 1 cdnjs.cloudflare.com cdnjs.cloudflare.com 139
+1579678809.096363448 2 cdnjs.cloudflare.com cdnjs.cloudflare.com 139
+1579678811.022303524 1 statsweb.proxad.net statsweb.proxad.net 17825
+1579678814.294597259 1 clients1.google.com clients.l.google.com 299
+1579678814.294597259 2 clients.l.google.com clients1.google.com 299
+1579678814.627011779 1 <Root> cjnmszce 86386
+1579678814.627302903 1 <Root> ngrcitt 86393
+1579678814.627608653 1 <Root> vivziycd 86394
+1579678814.767949590 1 translate.googleapis.com translate.googleapis.com 299
+1579678817.628695738 1 ssl.gstatic.com ssl.gstatic.com 78
+1579678825.458939694 1 update.googleapis.com update.googleapis.com 299

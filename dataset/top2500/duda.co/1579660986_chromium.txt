@@ -1,0 +1,9 @@
+1579660988.057393335 1 www.gstatic.com www.gstatic.com 180
+1579660988.201593775 1 duda.co duda.co 59
+1579660988.201593775 2 duda.co duda.co 59
+1579660988.259778563 1 accounts.google.com accounts.google.com 116
+1579660994.879524482 1 update.googleapis.com update.googleapis.com 299
+1579660994.988842623 1 <Root> qwnavimd 86395
+1579660994.989048055 1 <Root> vwkvvsfmwttdewp 86398
+1579660994.990049659 1 <Root> bfnagrc 86372
+1579660997.992330780 1 ssl.gstatic.com ssl.gstatic.com 180

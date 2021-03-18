@@ -1,0 +1,15 @@
+1579761775.872675426 1 www.gstatic.com www.gstatic.com 299
+1579761776.013415172 1 vube.com vube.com 267
+1579761776.056102189 1 accounts.google.com accounts.google.com 169
+1579761776.714347986 1 vube.com vube.com 299
+1579761776.829951460 1 google.com google.com 299
+1579761776.830150730 1 google.com google.com 299
+1579761777.033666536 1 vube.com vube.com 298
+1579761782.097804490 1 vube.com vube.com 119
+1579761782.144614822 1 google.com google.com 299
+1579761782.144958103 1 google.com google.com 299
+1579761782.814912826 1 <Root> nwszxji 86372
+1579761782.817623650 1 <Root> dvgkcqkey 86393
+1579761782.818768054 1 <Root> pqtxpuwgmjmdju 86380
+1579761785.817631731 1 ssl.gstatic.com ssl.gstatic.com 195
+1579761788.561995476 1 update.googleapis.com update.googleapis.com 159

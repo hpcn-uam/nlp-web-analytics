@@ -1,0 +1,14 @@
+1579703414.350034788 1 www.gstatic.com www.gstatic.com 85
+1579703414.512595327 1 autotask.net autotask.net 17999
+1579703414.536700804 1 accounts.google.com accounts.google.com 61
+1579703419.209711554 1 clients1.google.com clients.l.google.com 40
+1579703419.209711554 2 clients.l.google.com clients1.google.com 40
+1579703419.359104735 1 www.googletagmanager.com www-googletagmanager.l.google.com 21320
+1579703419.359104735 2 www-googletagmanager.l.google.com www.googletagmanager.com 20
+1579703422.218574602 1 update.googleapis.com update.googleapis.com 214
+1579703422.225406284 1 www.googleadservices.com pagead.l.doubleclick.net 295
+1579703422.225406284 2 pagead.l.doubleclick.net www.googleadservices.com 295
+1579703422.225621790 1 <Root> mbbompo 86395
+1579703422.226678235 1 <Root> brbrefy 86398
+1579703422.234238769 1 <Root> ulfmqerhabd 86397
+1579703424.511018158 1 ssl.gstatic.com ssl.gstatic.com 175

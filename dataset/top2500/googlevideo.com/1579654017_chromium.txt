@@ -1,0 +1,17 @@
+1579654019.075551895 1 www.gstatic.com www.gstatic.com 38
+1579654019.204496411 1 googlevideo.com googlevideo.com 299
+1579654019.243993202 1 accounts.google.com accounts.google.com 227
+1579654019.587961553 1 video.google.com video.l.google.com 21599
+1579654019.587961553 2 video.l.google.com video.google.com 299
+1579654019.628733507 1 www.google.com www.google.com 94
+1579654019.998189473 1 ssl.gstatic.com ssl.gstatic.com 152
+1579654020.316188408 1 www.gstatic.com www.gstatic.com 226
+1579654020.418276921 1 apis.google.com plus.l.google.com 21599
+1579654020.418276921 2 plus.l.google.com apis.google.com 299
+1579654020.464282341 1 ogs.google.com www3.l.google.com 3569
+1579654020.464282341 2 www3.l.google.com ogs.google.com 299
+1579654026.014219660 1 <Root> jxvpgoeltdm 86325
+1579654026.014278330 1 <Root> ffwrnjw 86385
+1579654026.015170415 1 <Root> vxzytydqwwhe 86389
+1579654031.531766752 1 update.googleapis.com update.googleapis.com 299
+1579654032.896480994 1 ssl.gstatic.com ssl.gstatic.com 15

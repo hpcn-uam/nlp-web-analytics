@@ -1,0 +1,12 @@
+1579650282.055044601 1 www.gstatic.com www.gstatic.com 225
+1579650282.257863128 1 accounts.google.com accounts.google.com 299
+1579650282.529671930 1 timesgroup.com timesgroup.com 3599
+1579650282.529671930 2 timesgroup.com timesgroup.com 3599
+1579650288.971366754 1 <Root> livbdpcfcqclaul 86397
+1579650288.972190079 1 <Root> whxxvup 86397
+1579650288.972729087 1 <Root> tpzjnxyeu 86395
+1579650290.453949006 1 ubuntu.com connectivity-check.ubuntu.com 1776
+1579650290.453978016 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 83
+1579650290.453978016 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 83
+1579650291.974528876 1 ssl.gstatic.com ssl.gstatic.com 299
+1579650297.113892609 1 update.googleapis.com update.googleapis.com 106

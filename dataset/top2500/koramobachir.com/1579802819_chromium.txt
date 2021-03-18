@@ -1,0 +1,16 @@
+1579802820.755295735 1 www.gstatic.com www.gstatic.com 299
+1579802820.913632828 1 koramobachir.com koramobachir.com 567
+1579802820.967302719 1 accounts.google.com accounts.google.com 299
+1579802821.323209918 1 koramobachir.com koramobachir.com 599
+1579802821.550202114 1 google.com google.com 95
+1579802821.551909843 1 google.com google.com 299
+1579802821.792344485 1 koramobachir.com koramobachir.com 599
+1579802826.839251856 1 koramobachir.com koramobachir.com 561
+1579802826.867957775 1 koramobachir.com koramobachir.com 561
+1579802826.909661086 1 google.com google.com 299
+1579802826.910473004 1 google.com google.com 299
+1579802827.680516212 1 <Root> cmyarnm 86391
+1579802827.682657351 1 <Root> hjdnowoht 86398
+1579802827.685136025 1 <Root> mupwuteufanvcg 86396
+1579802830.677142361 1 ssl.gstatic.com ssl.gstatic.com 51
+1579802832.320356216 1 update.googleapis.com update.googleapis.com 299

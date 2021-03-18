@@ -1,0 +1,15 @@
+1579731083.408396965 1 www.gstatic.com www.gstatic.com 215
+1579731083.563681806 1 irctcipay.com irctcipay.com 567
+1579731083.689281737 1 accounts.google.com accounts.google.com 299
+1579731083.884377642 1 irctcipay.com irctcipay.com 599
+1579731084.131714516 1 google.com google.com 299
+1579731084.131919449 1 google.com google.com 299
+1579731084.506141535 1 irctcipay.com irctcipay.com 599
+1579731088.964784699 1 update.googleapis.com update.googleapis.com 299
+1579731089.585803428 1 irctcipay.com irctcipay.com 561
+1579731089.622743110 1 google.com google.com 294
+1579731089.631655945 1 google.com google.com 299
+1579731090.340187323 1 <Root> hfimgmcwdnxzlnx 86379
+1579731090.341784894 1 <Root> haokolp 86396
+1579731090.342905860 1 <Root> gbwnnsmm 86390
+1579731093.342287455 1 ssl.gstatic.com ssl.gstatic.com 265

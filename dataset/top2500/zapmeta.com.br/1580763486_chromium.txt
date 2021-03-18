@@ -1,0 +1,14 @@
+1580763488.178879630 1 www.gstatic.com www.gstatic.com 299
+1580763488.353700375 1 accounts.google.com accounts.google.com 299
+1580763488.354955133 1 zapmeta.com.br zapmeta.com.br 21599
+1580763492.155121959 1 www.zapmeta.com.br zapmeta.com.br 19909
+1580763492.155121959 2 zapmeta.com.br www.zapmeta.com.br 21599
+1580763492.547207519 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1580763492.547207519 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1580763492.577135242 1 clients1.google.com clients.l.google.com 134
+1580763492.577135242 2 clients.l.google.com clients1.google.com 299
+1580763495.115798340 1 <Root> fansuyknge 86398
+1580763495.118455539 1 <Root> ydusszzckbpvki 86397
+1580763495.121551303 1 <Root> vispcnxq 86398
+1580763498.113597522 1 update.googleapis.com update.googleapis.com 299
+1580763498.137395111 1 ssl.gstatic.com ssl.gstatic.com 299

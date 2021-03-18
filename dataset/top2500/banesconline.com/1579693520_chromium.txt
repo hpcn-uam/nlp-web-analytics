@@ -1,0 +1,15 @@
+1579693522.405571005 1 www.gstatic.com www.gstatic.com 131
+1579693522.503388220 1 banesconline.com banesconline.com 1577
+1579693522.550033952 1 accounts.google.com accounts.google.com 210
+1579693522.872922301 1 banesconline.com banesconline.com 136
+1579693523.041551231 1 google.com google.com 150
+1579693523.042669218 1 google.com google.com 101
+1579693523.288919105 1 banesconline.com banesconline.com 1766
+1579693529.158604791 1 banesconline.com banesconline.com 1799
+1579693529.203604727 1 google.com google.com 299
+1579693529.203930348 1 google.com google.com 299
+1579693529.345736737 1 <Root> bvubjngbyqos 86382
+1579693529.347312247 1 <Root> mvieubtzwsiwdgg 86398
+1579693529.348160874 1 <Root> gmrpywa 86398
+1579693533.604451776 1 update.googleapis.com update.googleapis.com 299
+1579693533.608157531 1 ssl.gstatic.com ssl.gstatic.com 170

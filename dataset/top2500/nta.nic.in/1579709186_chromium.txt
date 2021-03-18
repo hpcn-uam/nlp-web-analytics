@@ -1,0 +1,12 @@
+1579709187.661815887 1 www.gstatic.com www.gstatic.com 195
+1579709187.855281578 1 accounts.google.com accounts.google.com 299
+1579709188.164763770 1 nta.nic.in nta.nic.in 1799
+1579709192.784782394 1 fonts.googleapis.com fonts.googleapis.com 299
+1579709192.898849437 1 fonts.gstatic.com gstaticadssl.l.google.com 278
+1579709192.898849437 2 gstaticadssl.l.google.com fonts.gstatic.com 278
+1579709194.591843260 1 <Root> mkhidbeml 86395
+1579709194.593323513 1 <Root> izjbyzwiiv 86385
+1579709194.594840262 1 <Root> afeaowpqrcz 86391
+1579709198.460453425 1 update.googleapis.com update.googleapis.com 89
+1579709198.487518894 1 ssl.gstatic.com ssl.gstatic.com 1
+1579709199.567126674 1 api.results.nic.in api.results.nic.in 1799

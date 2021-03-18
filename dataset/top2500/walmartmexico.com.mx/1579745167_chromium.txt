@@ -1,0 +1,7 @@
+1579745168.928966774 1 www.gstatic.com www.gstatic.com 195
+1579745169.073328067 1 walmartmexico.com.mx walmartmexico.com.mx 1935
+1579745169.180474909 1 accounts.google.com accounts.google.com 299
+1579745175.861207287 1 <Root> ewczkfnwtlvk 86397
+1579745175.866144489 1 <Root> fdanovx 86392
+1579745175.866178763 1 <Root> thikkughvy 86392
+1579745178.863518657 1 ssl.gstatic.com ssl.gstatic.com 299

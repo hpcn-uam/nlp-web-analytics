@@ -1,0 +1,9 @@
+1580646834.815072782 1 www.gstatic.com www.gstatic.com 195
+1580646834.949492946 1 duda.co duda.co 27
+1580646834.949492946 2 duda.co duda.co 27
+1580646835.068070347 1 accounts.google.com accounts.google.com 299
+1580646841.753150970 1 <Root> vrpsyqcdwdkdvxw 86392
+1580646841.754408669 1 <Root> hybavqk 86376
+1580646841.756241724 1 <Root> sqorvzjna 86370
+1580646846.672956754 1 update.googleapis.com update.googleapis.com 299
+1580646848.219791916 1 ssl.gstatic.com ssl.gstatic.com 299

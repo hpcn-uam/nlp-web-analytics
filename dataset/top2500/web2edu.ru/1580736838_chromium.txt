@@ -1,0 +1,17 @@
+1580736839.912741857 1 www.gstatic.com www.gstatic.com 225
+1580736840.216407575 1 accounts.google.com accounts.google.com 299
+1580736840.293379933 1 web2edu.ru web2edu.ru 21599
+1580736845.094743107 1 s.web2edu.ru s.web2edu.ru 21599
+1580736845.100358266 1 i.web2edu.ru i.web2edu.ru 21599
+1580736846.005498773 1 files.web2edu.ru files.web2edu.ru 21599
+1580736846.279982366 1 translate.googleapis.com translate.googleapis.com 299
+1580736846.339257940 1 stats.g.doubleclick.net stats.l.doubleclick.net 21397
+1580736846.339257940 2 stats.l.doubleclick.net stats.l.doubleclick.net 97
+1580736846.339257940 3 stats.l.doubleclick.net stats.l.doubleclick.net 97
+1580736846.339257940 4 stats.l.doubleclick.net stats.l.doubleclick.net 97
+1580736846.339257940 5 stats.l.doubleclick.net stats.g.doubleclick.net 97
+1580736846.853547950 1 <Root> yrdobmc 86398
+1580736846.853756326 1 <Root> atupenhllu 86398
+1580736846.855583229 1 <Root> exuxiwtsbzqsini 86394
+1580736849.853478916 1 ssl.gstatic.com ssl.gstatic.com 153
+1580736859.133487950 1 update.googleapis.com update.googleapis.com 190

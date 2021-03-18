@@ -1,0 +1,15 @@
+1579767471.543001238 1 www.gstatic.com www.gstatic.com 299
+1579767471.705038962 1 bnonline.fi.cr bnonline.fi.cr 1767
+1579767471.889231694 1 accounts.google.com accounts.google.com 165
+1579767472.405792474 1 bnonline.fi.cr bnonline.fi.cr 1799
+1579767472.500281562 1 google.com google.com 299
+1579767472.500614915 1 google.com google.com 299
+1579767472.698784442 1 bnonline.fi.cr bnonline.fi.cr 1767
+1579767478.119247123 1 bnonline.fi.cr bnonline.fi.cr 1799
+1579767478.164072672 1 google.com google.com 295
+1579767478.168374297 1 google.com google.com 190
+1579767478.479210808 1 <Root> mduoxejowvnelr 86393
+1579767478.480149471 1 <Root> jqcfvxqgkovpa 86390
+1579767478.497951716 1 <Root> zyecmccxlw 86399
+1579767481.483211628 1 ssl.gstatic.com ssl.gstatic.com 299
+1579767484.172885088 1 update.googleapis.com update.googleapis.com 299

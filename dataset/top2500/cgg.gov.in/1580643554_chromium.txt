@@ -1,0 +1,10 @@
+1580643556.311662381 1 www.gstatic.com www.gstatic.com 299
+1580643556.606921286 1 accounts.google.com accounts.google.com 299
+1580643556.699583332 1 cgg.gov.in cgg.gov.in 3599
+1580643556.699583332 2 cgg.gov.in cgg.gov.in 3599
+1580643560.309884978 1 translate.googleapis.com translate.googleapis.com 113
+1580643563.235278683 1 <Root> gnmvadgbwypbjy 86397
+1580643563.236532232 1 <Root> ovytfjotjkccwl 86398
+1580643563.238013587 1 <Root> tjcdjxoxhpj 86379
+1580643567.620420732 1 update.googleapis.com update.googleapis.com 299
+1580643569.186674747 1 ssl.gstatic.com ssl.gstatic.com 299

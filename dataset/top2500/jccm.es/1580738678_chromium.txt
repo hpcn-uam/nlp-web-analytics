@@ -1,0 +1,12 @@
+1580738680.068706320 1 www.gstatic.com www.gstatic.com 178
+1580738680.161818175 1 jccm.es jccm.es 3014
+1580738680.327124073 1 accounts.google.com accounts.google.com 299
+1580738683.735854963 1 www.gstatic.com www.gstatic.com 70
+1580738686.919107597 1 <Root> jogdnnmscuu 86389
+1580738686.919205819 1 <Root> xszzigdzhelys 86395
+1580738686.920003977 1 <Root> jdgakxy 86372
+1580738689.922594800 1 ssl.gstatic.com ssl.gstatic.com 64
+1580738690.448683406 1 ubuntu.com connectivity-check.ubuntu.com 862
+1580738690.449073519 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 218
+1580738690.449073519 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 218
+1580738692.483307421 1 update.googleapis.com update.googleapis.com 299

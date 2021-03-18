@@ -1,0 +1,15 @@
+1579671909.480966672 1 www.gstatic.com www.gstatic.com 299
+1579671909.615627084 1 shaparak.ir shaparak.ir 2137
+1579671909.632042254 1 accounts.google.com accounts.google.com 174
+1579671909.968619561 1 subca.ocsp-certum.com ocsp.certum.pl 755
+1579671909.968619561 2 ocsp.certum.pl ocsp-services.uzto.netdna-cdn.com 715
+1579671909.968619561 3 ocsp-services.uzto.netdna-cdn.com subca.ocsp-certum.com 268
+1579671910.089050203 1 evcasha2.ocsp-certum.com ocsp.certum.pl 744
+1579671910.089050203 2 ocsp.certum.pl ocsp-services.uzto.netdna-cdn.com 559
+1579671910.089050203 3 ocsp-services.uzto.netdna-cdn.com evcasha2.ocsp-certum.com 299
+1579671915.413342143 1 translate.googleapis.com translate.googleapis.com 189
+1579671916.403021961 1 <Root> orcbqao 86389
+1579671916.403760921 1 <Root> gcunxwgjeflwrq 86385
+1579671916.403989566 1 <Root> ibxrepvncazbeom 86395
+1579671919.404893538 1 ssl.gstatic.com ssl.gstatic.com 58
+1579671929.070714290 1 update.googleapis.com update.googleapis.com 79

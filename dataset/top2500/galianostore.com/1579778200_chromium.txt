@@ -1,0 +1,10 @@
+1579778201.739461385 1 www.gstatic.com www.gstatic.com 114
+1579778201.928515492 1 galianostore.com galianostore.com 21599
+1579778201.928515492 2 galianostore.com galianostore.com 21599
+1579778201.928515492 3 galianostore.com galianostore.com 21599
+1579778201.928515492 4 galianostore.com galianostore.com 21599
+1579778201.983778494 1 accounts.google.com accounts.google.com 299
+1579778208.678058520 1 <Root> ckoeypqffizgj 86397
+1579778208.678365596 1 <Root> aolqoawnfghd 86398
+1579778208.678637819 1 <Root> nwgchkxglhj 86398
+1579778211.660912422 1 ssl.gstatic.com ssl.gstatic.com 51

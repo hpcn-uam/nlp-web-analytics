@@ -1,0 +1,17 @@
+1580680735.618220477 1 www.gstatic.com www.gstatic.com 299
+1580680735.789825382 1 qaru.site qaru.site 299
+1580680735.789825382 2 qaru.site qaru.site 299
+1580680735.915344721 1 accounts.google.com accounts.google.com 299
+1580680739.417268784 1 fooobar.com fooobar.com 3
+1580680739.417268784 2 fooobar.com fooobar.com 3
+1580680739.637451374 1 ajax.cloudflare.com ajax.cloudflare.com 207
+1580680739.637451374 2 ajax.cloudflare.com ajax.cloudflare.com 207
+1580680739.768281543 1 mc.yandex.ru mc.yandex.ru 8
+1580680739.768281543 2 mc.yandex.ru mc.yandex.ru 8
+1580680739.768281543 3 mc.yandex.ru mc.yandex.ru 8
+1580680739.768281543 4 mc.yandex.ru mc.yandex.ru 8
+1580680742.523364617 1 <Root> zewabzf 86398
+1580680742.525655399 1 <Root> zkgxonipk 86387
+1580680742.526477051 1 <Root> falylixchye 86368
+1580680745.525665844 1 ssl.gstatic.com ssl.gstatic.com 299
+1580680750.926583652 1 update.googleapis.com update.googleapis.com 299

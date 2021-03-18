@@ -1,0 +1,15 @@
+1579738330.578772913 1 www.gstatic.com www.gstatic.com 142
+1579738330.799081272 1 accounts.google.com accounts.google.com 299
+1579738330.911460373 1 dian.gov.co dian.gov.co 1799
+1579738331.234783888 1 google.com google.com 299
+1579738331.235410666 1 google.com google.com 299
+1579738331.502306859 1 dian.gov.co dian.gov.co 1766
+1579738331.510803261 1 dian.gov.co dian.gov.co 1767
+1579738334.139043709 1 update.googleapis.com update.googleapis.com 220
+1579738336.605315160 1 dian.gov.co dian.gov.co 1762
+1579738336.648309251 1 google.com google.com 299
+1579738336.648673327 1 google.com google.com 299
+1579738337.511465821 1 <Root> ppsbjgkxify 86393
+1579738337.511635738 1 <Root> gdkezvwcojbitj 86384
+1579738337.512631823 1 <Root> sbskrit 86331
+1579738340.512846414 1 ssl.gstatic.com ssl.gstatic.com 131

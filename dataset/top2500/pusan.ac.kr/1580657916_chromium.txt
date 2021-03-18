@@ -1,0 +1,17 @@
+1580657918.583896521 1 www.gstatic.com www.gstatic.com 299
+1580657918.741031285 1 pusan.ac.kr pusan.ac.kr 2244
+1580657918.870277893 1 accounts.google.com accounts.google.com 299
+1580657923.371170048 1 www.pusan.ac.kr www.pusan.ac.kr 3599
+1580657925.504433119 1 <Root> jqirbms 86393
+1580657925.504499776 1 <Root> ntehctcfelt 86398
+1580657925.504790622 1 <Root> sjtjtqrphcbh 86385
+1580657928.535617998 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580657928.535617998 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580657929.399450165 1 update.googleapis.com update.googleapis.com 299
+1580657930.987413964 1 ssl.gstatic.com ssl.gstatic.com 299
+1580657931.178427799 1 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net 27
+1580657931.178427799 2 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 149
+1580657931.178427799 3 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 149
+1580657931.178427799 4 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 149
+1580657931.178427799 5 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 149
+1580657931.178427799 6 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net 149

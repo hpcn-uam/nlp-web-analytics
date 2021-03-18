@@ -1,0 +1,15 @@
+1579733550.399722082 1 www.gstatic.com www.gstatic.com 33
+1579733550.509827045 1 endiama.co.ao endiama.co.ao 1767
+1579733550.592073164 1 accounts.google.com accounts.google.com 299
+1579733550.840329944 1 endiama.co.ao endiama.co.ao 1767
+1579733551.105042294 1 google.com google.com 299
+1579733551.108422584 1 google.com google.com 299
+1579733551.448882149 1 endiama.co.ao endiama.co.ao 1767
+1579733556.532431439 1 endiama.co.ao endiama.co.ao 1762
+1579733556.573674133 1 google.com google.com 299
+1579733556.574331109 1 google.com google.com 211
+1579733557.304781130 1 <Root> gqepcdlcuto 86358
+1579733557.304871412 1 <Root> bvtbzkfy 86394
+1579733557.304889735 1 <Root> viizvmpmktee 86396
+1579733560.307457753 1 ssl.gstatic.com ssl.gstatic.com 83
+1579733562.921374858 1 update.googleapis.com update.googleapis.com 299

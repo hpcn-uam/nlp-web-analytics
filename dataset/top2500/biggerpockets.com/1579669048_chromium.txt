@@ -1,0 +1,10 @@
+1579669050.432332431 1 www.gstatic.com www.gstatic.com 299
+1579669050.585656645 1 biggerpockets.com biggerpockets.com 299
+1579669050.585656645 2 biggerpockets.com biggerpockets.com 299
+1579669050.606044620 1 accounts.google.com accounts.google.com 225
+1579669054.321332536 1 www.biggerpockets.com www.biggerpockets.com 81
+1579669054.321332536 2 www.biggerpockets.com www.biggerpockets.com 81
+1579669057.377088761 1 <Root> xjpreewk 86357
+1579669057.377410109 1 <Root> tzzetyq 86379
+1579669057.377457603 1 <Root> qemhazk 86370
+1579669060.380574472 1 ssl.gstatic.com ssl.gstatic.com 299

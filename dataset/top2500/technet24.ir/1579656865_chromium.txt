@@ -1,0 +1,15 @@
+1579656867.325393995 1 www.gstatic.com www.gstatic.com 92
+1579656867.465871947 1 technet24.ir technet24.ir 13435
+1579656867.615614026 1 accounts.google.com accounts.google.com 210
+1579656873.899147479 1 s.w.org s.w.org 137
+1579656874.260049336 1 <Root> kstvzogzghcsbbk 86388
+1579656874.260101355 1 <Root> qjtlhiw 86371
+1579656874.260111814 1 <Root> pcxzcomaeqhlpum 86373
+1579656875.077754196 1 clients1.google.com clients.l.google.com 299
+1579656875.077754196 2 clients.l.google.com clients1.google.com 299
+1579656875.112603553 1 translate.googleapis.com translate.googleapis.com 299
+1579656879.643751738 1 update.googleapis.com update.googleapis.com 299
+1579656881.459364436 1 ssl.gstatic.com ssl.gstatic.com 204
+1579656890.449689921 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 78
+1579656890.449689921 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 78
+1579656890.449747280 1 ubuntu.com connectivity-check.ubuntu.com 580

@@ -1,0 +1,10 @@
+1579664137.877438981 1 www.gstatic.com www.gstatic.com 299
+1579664138.021692151 1 tahiamasr.com tahiamasr.com 299
+1579664138.021692151 2 tahiamasr.com tahiamasr.com 299
+1579664138.061298780 1 accounts.google.com accounts.google.com 299
+1579664141.875374381 1 www.tahiamasr.com www.tahiamasr.com 299
+1579664141.875374381 2 www.tahiamasr.com www.tahiamasr.com 299
+1579664144.797666986 1 <Root> aoqccnlfsqkv 86394
+1579664144.797748550 1 <Root> mwhuxctmlgv 86369
+1579664144.797982132 1 <Root> igaeqclfnzysohr 86332
+1579664147.801566987 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,10 @@
+1579747299.826477074 1 ty360.com ty360.com 3599
+1579747300.746616119 1 www.ty360.com www.ty360.com 3599
+1579747303.732448545 1 wpa.qq.com wpa.qq.com 299
+1579747305.069181948 1 ke.ty360.com ke.ty360.com 599
+1579747305.299676948 1 pub.idqqimg.com pub.idqqimg.com.tc.qq.com 235
+1579747305.299676948 2 pub.idqqimg.com.tc.qq.com pub.idqqimg.com.mid.tcdn.qq.com 535
+1579747305.299676948 3 pub.idqqimg.com.mid.tcdn.qq.com p1.tcdn.qq.com 115
+1579747305.299676948 4 p1.tcdn.qq.com p1.tcdn.qq.com 115
+1579747305.299676948 5 p1.tcdn.qq.com p1.tcdn.qq.com 115
+1579747305.299676948 6 p1.tcdn.qq.com pub.idqqimg.com 115

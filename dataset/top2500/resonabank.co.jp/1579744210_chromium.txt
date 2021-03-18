@@ -1,0 +1,15 @@
+1579744212.214858753 1 www.gstatic.com www.gstatic.com 299
+1579744212.347431580 1 resonabank.co.jp resonabank.co.jp 1799
+1579744212.402348914 1 accounts.google.com accounts.google.com 299
+1579744212.712478209 1 resonabank.co.jp resonabank.co.jp 1767
+1579744212.936592015 1 google.com google.com 299
+1579744212.940278938 1 google.com google.com 299
+1579744213.200621137 1 resonabank.co.jp resonabank.co.jp 1798
+1579744217.806959892 1 update.googleapis.com update.googleapis.com 299
+1579744218.298728758 1 resonabank.co.jp resonabank.co.jp 1799
+1579744218.338161113 1 google.com google.com 293
+1579744218.339073986 1 google.com google.com 299
+1579744219.149487384 1 <Root> xzbtsohtuicu 86396
+1579744219.150456488 1 <Root> awctizgnknhb 86387
+1579744219.152674177 1 <Root> oxmhkywsqjbt 86346
+1579744222.168691538 1 ssl.gstatic.com ssl.gstatic.com 299

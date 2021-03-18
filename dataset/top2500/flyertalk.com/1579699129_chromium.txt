@@ -1,0 +1,8 @@
+1579699130.991272486 1 www.gstatic.com www.gstatic.com 211
+1579699131.157475096 1 flyertalk.com flyertalk.com 299
+1579699131.157475096 2 flyertalk.com flyertalk.com 299
+1579699131.178009996 1 accounts.google.com accounts.google.com 299
+1579699137.938605923 1 <Root> uxfpbwwudfgs 86396
+1579699137.938658015 1 <Root> qhothvvnjfvvcd 86397
+1579699137.952185758 1 <Root> pbcvwrgin 86399
+1579699140.939062345 1 ssl.gstatic.com ssl.gstatic.com 146

@@ -1,0 +1,12 @@
+1579660630.699260309 1 www.gstatic.com www.gstatic.com 143
+1579660630.850634908 1 1337x.to 1337x.to 252
+1579660630.850634908 2 1337x.to 1337x.to 252
+1579660630.884117861 1 accounts.google.com accounts.google.com 236
+1579660632.297674098 1 clients1.google.com clients.l.google.com 147
+1579660632.297674098 2 clients.l.google.com clients1.google.com 147
+1579660632.310012633 1 translate.googleapis.com translate.googleapis.com 92
+1579660640.136367872 1 update.googleapis.com update.googleapis.com 299
+1579660641.489877115 1 <Root> mytdowsekcln 86382
+1579660641.491080811 1 <Root> kclcwykzsyckpfy 86373
+1579660641.492656093 1 <Root> cpibwfkiakdad 86377
+1579660641.511071790 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,13 @@
+1580659365.342718776 1 www.gstatic.com www.gstatic.com 299
+1580659365.571845578 1 accounts.google.com accounts.google.com 105
+1580659370.759567497 1 google.com google.com 299
+1580659370.759967071 1 google.com google.com 299
+1580659371.984956669 1 meb.k12.tr meb.k12.tr 1799
+1580659372.279722191 1 <Root> taibilkcyhatr 86387
+1580659372.280884865 1 <Root> ayoeawjmdnzqjv 86388
+1580659372.281093977 1 <Root> xlanvsclykhbgq 86393
+1580659375.281455783 1 ssl.gstatic.com ssl.gstatic.com 11
+1580659380.116373612 1 meb.k12.tr meb.k12.tr 1798
+1580659380.161151273 1 google.com google.com 299
+1580659380.161315309 1 google.com google.com 299
+1580659382.392423184 1 update.googleapis.com update.googleapis.com 99

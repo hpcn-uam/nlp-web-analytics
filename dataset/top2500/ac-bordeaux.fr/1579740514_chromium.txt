@@ -1,0 +1,15 @@
+1579740516.482175947 1 www.gstatic.com www.gstatic.com 201
+1579740516.616013225 1 ac-bordeaux.fr ac-bordeaux.fr 599
+1579740516.641636620 1 accounts.google.com accounts.google.com 107
+1579740516.901455257 1 ac-bordeaux.fr ac-bordeaux.fr 567
+1579740517.125279886 1 google.com google.com 299
+1579740517.125476120 1 google.com google.com 299
+1579740517.461107289 1 ac-bordeaux.fr ac-bordeaux.fr 566
+1579740522.562139219 1 ac-bordeaux.fr ac-bordeaux.fr 599
+1579740522.608419623 1 google.com google.com 299
+1579740522.608807523 1 google.com google.com 299
+1579740523.398246105 1 <Root> yldhtbmbx 86390
+1579740523.398322424 1 <Root> oaojniungvfbnrd 86370
+1579740523.399383723 1 <Root> fhloihyy 86386
+1579740526.401313908 1 ssl.gstatic.com ssl.gstatic.com 299
+1579740528.909106468 1 update.googleapis.com update.googleapis.com 299

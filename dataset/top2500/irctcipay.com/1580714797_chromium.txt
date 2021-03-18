@@ -1,0 +1,15 @@
+1580714799.159403621 1 www.gstatic.com www.gstatic.com 299
+1580714799.311150479 1 irctcipay.com irctcipay.com 599
+1580714799.385359170 1 accounts.google.com accounts.google.com 271
+1580714799.526533267 1 irctcipay.com irctcipay.com 599
+1580714799.704380644 1 google.com google.com 299
+1580714799.717392588 1 google.com google.com 299
+1580714800.116487692 1 irctcipay.com irctcipay.com 599
+1580714805.211978765 1 irctcipay.com irctcipay.com 599
+1580714805.261412387 1 google.com google.com 299
+1580714805.261477789 1 google.com google.com 299
+1580714807.500164886 1 update.googleapis.com update.googleapis.com 161
+1580714807.526351324 1 <Root> izogamtsauuqcf 86396
+1580714807.526602452 1 <Root> clrerxtn 86380
+1580714807.527901591 1 <Root> uhzchmnrnf 86393
+1580714809.094431891 1 ssl.gstatic.com ssl.gstatic.com 281

@@ -1,0 +1,7 @@
+1580663570.035397685 1 www.gstatic.com www.gstatic.com 299
+1580663570.208885179 1 coveredca.com coveredca.com 599
+1580663570.280419253 1 accounts.google.com accounts.google.com 299
+1580663576.968934891 1 <Root> arilnwl 86394
+1580663576.969001104 1 <Root> rvvtvhtkwdhosvb 86395
+1580663576.970819281 1 <Root> genyhvwxxn 86379
+1580663579.970164892 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,15 @@
+1579630208.627800333 1 www.gstatic.com www.gstatic.com 141
+1579630208.748295869 1 ehr.com ehr.com 868
+1579630208.759164388 1 accounts.google.com accounts.google.com 241
+1579630209.135634528 1 ehr.com ehr.com 899
+1579630209.289082992 1 google.com google.com 92
+1579630209.290458764 1 google.com google.com 299
+1579630209.582439956 1 ehr.com ehr.com 899
+1579630214.642597741 1 ehr.com ehr.com 862
+1579630214.658918541 1 google.com google.com 294
+1579630214.680401457 1 google.com google.com 299
+1579630217.061551490 1 update.googleapis.com update.googleapis.com 299
+1579630217.064644358 1 <Root> lcrijagsxsv 86396
+1579630217.065094397 1 <Root> ritndijdkupntzf 86382
+1579630217.066597102 1 <Root> bephobqszevtap 86393
+1579630218.576843607 1 ssl.gstatic.com ssl.gstatic.com 250

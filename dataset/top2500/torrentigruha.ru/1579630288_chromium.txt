@@ -1,0 +1,17 @@
+1579630290.008698484 1 www.gstatic.com www.gstatic.com 299
+1579630290.142954815 1 torrentigruha.ru torrentigruha.ru 2742
+1579630290.222639006 1 accounts.google.com accounts.google.com 299
+1579630294.638029206 1 counter.yadro.ru counter.yadro.ru 306
+1579630294.638029206 2 counter.yadro.ru counter.yadro.ru 306
+1579630294.638029206 3 counter.yadro.ru counter.yadro.ru 306
+1579630294.638029206 4 counter.yadro.ru counter.yadro.ru 306
+1579630294.670400588 1 clients1.google.com clients.l.google.com 33
+1579630294.670400588 2 clients.l.google.com clients1.google.com 33
+1579630294.691274504 1 ubar-pro4.ru ubar-pro4.ru 59
+1579630294.691274504 2 ubar-pro4.ru ubar-pro4.ru 59
+1579630294.695257181 1 translate.googleapis.com translate.googleapis.com 299
+1579630296.958487702 1 <Root> xvbadcxrf 86392
+1579630296.959015752 1 <Root> siksuszjqblou 86379
+1579630296.959563312 1 <Root> mkocggirlbk 86376
+1579630299.960634116 1 ssl.gstatic.com ssl.gstatic.com 160
+1579630307.561363300 1 update.googleapis.com update.googleapis.com 156

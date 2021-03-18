@@ -1,0 +1,8 @@
+1579657249.239284940 1 www.gstatic.com www.gstatic.com 71
+1579657249.443970059 1 aiou.edu.pk aiou.edu.pk 547
+1579657249.531961864 1 accounts.google.com accounts.google.com 299
+1579657256.202461289 1 <Root> xcbytkyegw 86342
+1579657256.203333388 1 <Root> mfsjtrfaglq 86363
+1579657256.203369455 1 <Root> srevakvapaxtfqe 86361
+1579657259.204038470 1 ssl.gstatic.com ssl.gstatic.com 11
+1579657263.509476052 1 update.googleapis.com update.googleapis.com 194

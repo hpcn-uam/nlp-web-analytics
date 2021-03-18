@@ -1,0 +1,8 @@
+1580751032.425389686 1 www.gstatic.com www.gstatic.com 94
+1580751032.667865304 1 accounts.google.com accounts.google.com 299
+1580751032.941594801 1 alahli.com alahli.com 299
+1580751032.941594801 2 alahli.com alahli.com 299
+1580751039.357146836 1 <Root> igqeyzioatlyqpc 86392
+1580751039.358728484 1 <Root> cqncdrmvadd 86376
+1580751039.359018331 1 <Root> bmymzhqjh 86387
+1580751042.360088064 1 ssl.gstatic.com ssl.gstatic.com 299

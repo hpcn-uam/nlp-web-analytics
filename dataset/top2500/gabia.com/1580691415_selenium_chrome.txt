@@ -1,0 +1,6 @@
+1580691418.203371613 1 gabia.com gabia.com 1799
+1580691419.108355694 1 www.gabia.com www.gabia.com 1799
+1580691419.717273130 1 ocsp.comodoca.com ocsp.comodoca.com 62
+1580691422.454272549 1 static.gabia.com static.gabia.com 1799
+1580691425.065859931 1 my.gabia.com my.gabia.com 1799
+1580691434.774978847 1 library.gabia.com library.gabia.com 599

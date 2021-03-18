@@ -1,0 +1,17 @@
+1580710471.526112714 1 www.gstatic.com www.gstatic.com 118
+1580710471.705798359 1 upmusics.com upmusics.com 12982
+1580710471.730520619 1 accounts.google.com accounts.google.com 299
+1580710475.832109316 1 s.w.org s.w.org 258
+1580710475.925713594 1 clients1.google.com clients.l.google.com 299
+1580710475.925713594 2 clients.l.google.com clients1.google.com 299
+1580710476.009544310 1 translate.googleapis.com translate.googleapis.com 299
+1580710476.157372397 1 www.google-analytics.com www-google-analytics.l.google.com 21457
+1580710476.157372397 2 www-google-analytics.l.google.com www.google-analytics.com 157
+1580710478.473363451 1 <Root> yvwvstderbvjfx 86385
+1580710478.473654548 1 <Root> lqtsbhodofxwgoh 86395
+1580710478.474117752 1 <Root> bpggpvdgfmyztv 86392
+1580710481.474715260 1 ssl.gstatic.com ssl.gstatic.com 299
+1580710486.726761430 1 update.googleapis.com update.googleapis.com 299
+1580710490.465377263 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 251
+1580710490.465377263 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 251
+1580710490.465424559 1 ubuntu.com connectivity-check.ubuntu.com 219

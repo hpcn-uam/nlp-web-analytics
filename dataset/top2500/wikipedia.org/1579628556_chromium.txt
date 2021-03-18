@@ -1,0 +1,15 @@
+1579628557.926403523 1 www.gstatic.com www.gstatic.com 49
+1579628558.072575205 1 wikipedia.org wikipedia.org 599
+1579628558.132460628 1 accounts.google.com accounts.google.com 299
+1579628558.502750156 1 www.wikipedia.org dyna.wikimedia.org 16646
+1579628558.502750156 2 dyna.wikimedia.org www.wikipedia.org 42
+1579628558.746778453 1 upload.wikimedia.org upload.wikimedia.org 599
+1579628560.214259790 1 es.wikipedia.org dyna.wikimedia.org 21073
+1579628560.214259790 2 dyna.wikimedia.org es.wikipedia.org 138
+1579628560.245063810 1 clients1.google.com clients.l.google.com 299
+1579628560.245063810 2 clients.l.google.com clients1.google.com 299
+1579628564.872017394 1 <Root> nqyogypaba 86388
+1579628564.872976281 1 <Root> gbduaasjeot 86364
+1579628564.873191300 1 <Root> zawckrfp 86385
+1579628567.877016177 1 ssl.gstatic.com ssl.gstatic.com 280
+1579628570.922389822 1 update.googleapis.com update.googleapis.com 182

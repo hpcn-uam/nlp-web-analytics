@@ -1,0 +1,16 @@
+1579713148.149406030 1 www.gstatic.com www.gstatic.com 57
+1579713148.296358186 1 salam.ir salam.ir 599
+1579713148.419925408 1 accounts.google.com accounts.google.com 299
+1579713151.970692085 1 cdn.bayan.ir cdn.bayan.ir 564
+1579713152.003526530 1 bayan.blog.ir bayan.blog.ir 226
+1579713152.004735873 1 bayan.ir bayan.ir 114
+1579713152.005274760 1 id.bayan.ir id.bayan.ir 281
+1579713152.028805960 1 salam.blog.ir salam.blog.ir 565
+1579713152.844443195 1 radar.bayan.ir radar.bayan.ir 599
+1579713152.941526806 1 clients1.google.com clients.l.google.com 299
+1579713152.941526806 2 clients.l.google.com clients1.google.com 299
+1579713155.085914827 1 <Root> sgqghdggvormvi 86397
+1579713155.087057155 1 <Root> cufbfgjuzpdklfa 86398
+1579713155.087723335 1 <Root> pwexakpknn 86398
+1579713158.069244893 1 ssl.gstatic.com ssl.gstatic.com 135
+1579713161.503129152 1 update.googleapis.com update.googleapis.com 275

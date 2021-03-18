@@ -1,0 +1,17 @@
+1580639520.445252826 1 www.gstatic.com www.gstatic.com 200
+1580639520.645391834 1 webgozar.com webgozar.com 366
+1580639520.749134135 1 accounts.google.com accounts.google.com 299
+1580639524.394424874 1 engine.webgozar.ir engine.webgozar.ir 912
+1580639524.406873161 1 www.webgozar.com www.webgozar.com 1622
+1580639524.778959313 1 www.melipayamak.com melipayamak.com 542
+1580639524.778959313 2 melipayamak.com www.melipayamak.com 542
+1580639524.829584745 1 www.portal.ir www.portal.ir 179
+1580639524.829584745 2 www.portal.ir www.portal.ir 179
+1580639524.830185678 1 clients1.google.com clients.l.google.com 198
+1580639524.830185678 2 clients.l.google.com clients1.google.com 198
+1580639524.877550707 1 translate.googleapis.com translate.googleapis.com 248
+1580639527.766897944 1 update.googleapis.com update.googleapis.com 299
+1580639527.768173175 1 <Root> nchqmfrlrc 86398
+1580639527.768685603 1 <Root> jvzstldwbaxly 86394
+1580639527.769846420 1 <Root> lbtfzousvxnias 86395
+1580639530.368320705 1 ssl.gstatic.com ssl.gstatic.com 67

@@ -1,0 +1,15 @@
+1579674406.314262469 1 www.gstatic.com www.gstatic.com 240
+1579674406.450648577 1 t.me t.me 190
+1579674406.476289836 1 accounts.google.com accounts.google.com 63
+1579674406.890976922 1 telegram.org telegram.org 406
+1579674407.375559179 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579674407.375559179 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579674407.703930339 1 translate.googleapis.com translate.googleapis.com 299
+1579674410.121407653 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 552
+1579674410.121407653 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 552
+1579674410.121456854 1 ubuntu.com connectivity-check.ubuntu.com 1559
+1579674413.261966053 1 <Root> lkojpzojqkkqd 86396
+1579674413.262076884 1 <Root> gxibmgut 86395
+1579674413.272855660 1 <Root> qurjjqpjgcyw 86387
+1579674417.822429382 1 update.googleapis.com update.googleapis.com 40
+1579674419.184336358 1 ssl.gstatic.com ssl.gstatic.com 152

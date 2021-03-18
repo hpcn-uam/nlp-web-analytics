@@ -1,0 +1,16 @@
+1580738295.308099127 1 www.gstatic.com www.gstatic.com 176
+1580738295.560836092 1 accounts.google.com accounts.google.com 218
+1580738295.703646136 1 minfin.gv.ao minfin.gv.ao 1799
+1580738295.798061792 1 minfin.gv.ao minfin.gv.ao 1767
+1580738295.977967378 1 google.com google.com 104
+1580738295.979028039 1 google.com google.com 299
+1580738299.272890843 1 update.googleapis.com update.googleapis.com 299
+1580738299.514224563 1 minfin.gv.ao minfin.gv.ao 1799
+1580738300.876748738 1 minfin.gv.ao minfin.gv.ao 1763
+1580738302.251622915 1 <Root> jqidouspmka 86385
+1580738302.251687215 1 <Root> tnybyxwlm 86387
+1580738302.253255082 1 <Root> ygclfqn 86398
+1580738305.250954108 1 ssl.gstatic.com ssl.gstatic.com 103
+1580738305.939403666 1 minfin.gv.ao minfin.gv.ao 1757
+1580738305.981930515 1 google.com google.com 289
+1580738305.982694011 1 google.com google.com 289

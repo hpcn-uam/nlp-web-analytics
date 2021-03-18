@@ -1,0 +1,10 @@
+1580671075.356884634 1 www.gstatic.com www.gstatic.com 278
+1580671075.540299006 1 shrtfly.net shrtfly.net 299
+1580671075.540299006 2 shrtfly.net shrtfly.net 299
+1580671075.609173676 1 accounts.google.com accounts.google.com 299
+1580671079.405488850 1 translate.googleapis.com translate.googleapis.com 299
+1580671083.440341434 1 update.googleapis.com update.googleapis.com 299
+1580671084.997977397 1 <Root> nkpeevmjnt 86397
+1580671084.998440085 1 <Root> vfifdtmlrvi 86390
+1580671084.998955068 1 <Root> eeohzlsahmm 86397
+1580671085.285878829 1 ssl.gstatic.com ssl.gstatic.com 7

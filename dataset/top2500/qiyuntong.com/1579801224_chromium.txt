@@ -1,0 +1,15 @@
+1579801226.626891643 1 www.gstatic.com www.gstatic.com 299
+1579801226.771331807 1 qiyuntong.com qiyuntong.com 567
+1579801226.845418971 1 accounts.google.com accounts.google.com 299
+1579801227.694898391 1 qiyuntong.com qiyuntong.com 599
+1579801227.785864445 1 google.com google.com 299
+1579801227.786477804 1 google.com google.com 299
+1579801227.965687549 1 qiyuntong.com qiyuntong.com 599
+1579801231.024522935 1 update.googleapis.com update.googleapis.com 299
+1579801233.040573498 1 qiyuntong.com qiyuntong.com 562
+1579801233.077050173 1 google.com google.com 299
+1579801233.079208546 1 google.com google.com 299
+1579801233.563192342 1 <Root> draqllktorled 86384
+1579801233.564547114 1 <Root> ypqgqfnkiz 86391
+1579801233.565552631 1 <Root> uqbdfsyn 86394
+1579801236.566551698 1 ssl.gstatic.com ssl.gstatic.com 44

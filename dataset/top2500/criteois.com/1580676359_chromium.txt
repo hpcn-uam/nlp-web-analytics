@@ -1,0 +1,15 @@
+1580676360.901841860 1 www.gstatic.com www.gstatic.com 299
+1580676361.094415923 1 criteois.com criteois.com 299
+1580676361.161467549 1 accounts.google.com accounts.google.com 166
+1580676361.312733544 1 criteois.com criteois.com 299
+1580676361.534116432 1 google.com google.com 299
+1580676361.534661335 1 google.com google.com 299
+1580676361.749052132 1 criteois.com criteois.com 267
+1580676366.878717271 1 criteois.com criteois.com 299
+1580676366.917320024 1 google.com google.com 299
+1580676366.917389320 1 google.com google.com 299
+1580676367.842502312 1 <Root> aejrnjcpnerjs 86398
+1580676367.842840041 1 <Root> chxayoyf 86365
+1580676367.843312096 1 <Root> nptcypgbgvpqd 86397
+1580676370.248854440 1 update.googleapis.com update.googleapis.com 299
+1580676370.845087585 1 ssl.gstatic.com ssl.gstatic.com 299

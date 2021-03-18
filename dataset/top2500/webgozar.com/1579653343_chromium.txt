@@ -1,0 +1,17 @@
+1579653345.320066187 1 www.gstatic.com www.gstatic.com 299
+1579653345.486565929 1 webgozar.com webgozar.com 3412
+1579653345.535445031 1 accounts.google.com accounts.google.com 171
+1579653350.200928184 1 engine.webgozar.ir engine.webgozar.ir 2195
+1579653350.201595377 1 www.webgozar.com www.webgozar.com 3384
+1579653350.553379609 1 www.melipayamak.com melipayamak.com 10448
+1579653350.553379609 2 melipayamak.com www.melipayamak.com 10448
+1579653350.597634338 1 clients1.google.com clients.l.google.com 299
+1579653350.597634338 2 clients.l.google.com clients1.google.com 299
+1579653350.624241913 1 translate.googleapis.com translate.googleapis.com 299
+1579653350.918858025 1 www.portal.ir www.portal.ir 179
+1579653350.918858025 2 www.portal.ir www.portal.ir 179
+1579653352.248155371 1 <Root> tusutfr 86370
+1579653352.248245013 1 <Root> svtozwrsrcggzyh 86391
+1579653352.248277962 1 <Root> xibueccikg 86365
+1579653355.251723412 1 ssl.gstatic.com ssl.gstatic.com 299
+1579653362.878737072 1 update.googleapis.com update.googleapis.com 299

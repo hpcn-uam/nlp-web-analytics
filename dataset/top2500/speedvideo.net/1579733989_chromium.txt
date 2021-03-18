@@ -1,0 +1,12 @@
+1579733991.234064411 1 www.gstatic.com www.gstatic.com 170
+1579733991.347265055 1 speedvideo.net speedvideo.net 299
+1579733991.347265055 2 speedvideo.net speedvideo.net 299
+1579733991.547107754 1 accounts.google.com accounts.google.com 299
+1579733996.055872328 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579733996.055872328 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579733996.123842071 1 translate.googleapis.com translate.googleapis.com 299
+1579733998.132937943 1 <Root> yljnmfsutx 86392
+1579733998.133021559 1 <Root> uufvryoorqqaya 86389
+1579733998.134694209 1 <Root> bpopjesi 86388
+1579734000.956966897 1 update.googleapis.com update.googleapis.com 227
+1579734001.135423927 1 ssl.gstatic.com ssl.gstatic.com 299

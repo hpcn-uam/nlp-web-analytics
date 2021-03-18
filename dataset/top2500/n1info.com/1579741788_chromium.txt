@@ -1,0 +1,14 @@
+1579741789.762412435 1 www.gstatic.com www.gstatic.com 210
+1579741789.958299156 1 n1info.com n1info.com 299
+1579741789.995669284 1 accounts.google.com accounts.google.com 299
+1579741790.445534582 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 294
+1579741790.445534582 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 294
+1579741790.445567360 1 ubuntu.com connectivity-check.ubuntu.com 777
+1579741790.483528393 1 fonts.googleapis.com fonts.googleapis.com 299
+1579741790.576042919 1 fonts.gstatic.com gstaticadssl.l.google.com 267
+1579741790.576042919 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579741796.703415532 1 <Root> dcuoyaukmbsvcw 86396
+1579741796.705710037 1 <Root> qvlvoarjnnsfjqb 86379
+1579741796.708320392 1 <Root> gtvrhsmfbrstqo 86388
+1579741801.053706091 1 update.googleapis.com update.googleapis.com 213
+1579741802.633394984 1 ssl.gstatic.com ssl.gstatic.com 299

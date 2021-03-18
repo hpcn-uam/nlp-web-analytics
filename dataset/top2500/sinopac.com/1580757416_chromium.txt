@@ -1,0 +1,14 @@
+1580757418.183452390 1 www.gstatic.com www.gstatic.com 299
+1580757418.494544555 1 accounts.google.com accounts.google.com 184
+1580757418.658953963 1 sinopac.com sinopac.com 1799
+1580757418.850682992 1 google.com google.com 299
+1580757418.869581531 1 google.com google.com 299
+1580757418.994631475 1 sinopac.com sinopac.com 1767
+1580757423.529648169 1 update.googleapis.com update.googleapis.com 299
+1580757424.144111906 1 sinopac.com sinopac.com 1761
+1580757424.191039058 1 google.com google.com 293
+1580757424.192626729 1 google.com google.com 299
+1580757425.123435837 1 <Root> cpjtwelmtoenx 86389
+1580757425.124585276 1 <Root> iojebrhvx 86397
+1580757425.126510882 1 <Root> aequompvmxe 86394
+1580757428.125768953 1 ssl.gstatic.com ssl.gstatic.com 80

@@ -1,0 +1,14 @@
+1579674489.644177988 1 katadata.co.id katadata.co.id 299
+1579674489.644177988 2 katadata.co.id katadata.co.id 299
+1579674491.308676931 1 fonts.googleapis.com fonts.googleapis.com 52
+1579674491.309289777 1 cdn1.katadata.co.id cdn1.katadata.co.id 233
+1579674491.309289777 2 cdn1.katadata.co.id cdn1.katadata.co.id 233
+1579674491.313735626 1 cdn.izooto.com cdn.izooto.com 16
+1579674491.313735626 2 cdn.izooto.com cdn.izooto.com 16
+1579674491.313887097 1 securepubads.g.doubleclick.net partnerad.l.doubleclick.net 21029
+1579674491.313887097 2 partnerad.l.doubleclick.net securepubads.g.doubleclick.net 201
+1579674491.315357961 1 www.googletagmanager.com www-googletagmanager.l.google.com 21380
+1579674491.315357961 2 www-googletagmanager.l.google.com www.googletagmanager.com 93
+1579674491.430060687 1 www.google.com www.google.com 230
+1579674491.681148472 1 cdnjs.cloudflare.com cdnjs.cloudflare.com 193
+1579674491.681148472 2 cdnjs.cloudflare.com cdnjs.cloudflare.com 193

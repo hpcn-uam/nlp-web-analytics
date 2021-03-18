@@ -1,0 +1,15 @@
+1579692959.267921607 1 www.gstatic.com www.gstatic.com 283
+1579692959.412096604 1 accounts.google.com accounts.google.com 92
+1579692959.674983879 1 cnki.net cnki.net 299
+1579692961.514543401 1 login.cnki.net login.cnki.net 270
+1579692961.795766722 1 piccache.cnki.net piccache.cnki.net 299
+1579692965.665490713 1 search.cnki.net search.cnki.net 299
+1579692966.210820618 1 <Root> ejjjbjqei 86396
+1579692966.211020518 1 <Root> ucnhjjtrz 86398
+1579692966.211268659 1 <Root> hcrwngansrhrn 86392
+1579692967.262578882 1 clients1.google.com clients.l.google.com 65
+1579692967.262578882 2 clients.l.google.com clients1.google.com 65
+1579692967.321971997 1 translate.googleapis.com translate.googleapis.com 12
+1579692967.372456475 1 track.cnki.net track.cnki.net 299
+1579692969.244117912 1 ssl.gstatic.com ssl.gstatic.com 26
+1579692986.977826457 1 update.googleapis.com update.googleapis.com 299

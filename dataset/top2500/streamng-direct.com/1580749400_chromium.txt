@@ -1,0 +1,11 @@
+1580749402.302303856 1 www.gstatic.com www.gstatic.com 133
+1580749402.475646890 1 streamng-direct.com streamng-direct.com 59
+1580749402.475646890 2 streamng-direct.com streamng-direct.com 59
+1580749402.506198422 1 accounts.google.com accounts.google.com 60
+1580749406.068737379 1 pleasewait.co pleasewait.co 58
+1580749406.068737379 2 pleasewait.co pleasewait.co 58
+1580749409.242255212 1 <Root> vwgcbgvbsbz 86393
+1580749409.243392624 1 <Root> xecizqag 86398
+1580749409.245141306 1 <Root> ukqxweokgypic 86396
+1580749412.246485913 1 ssl.gstatic.com ssl.gstatic.com 299
+1580749414.392047188 1 update.googleapis.com update.googleapis.com 226

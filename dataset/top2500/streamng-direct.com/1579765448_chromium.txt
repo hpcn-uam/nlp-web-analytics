@@ -1,0 +1,11 @@
+1579765449.620412585 1 www.gstatic.com www.gstatic.com 299
+1579765449.781383865 1 streamng-direct.com streamng-direct.com 59
+1579765449.781383865 2 streamng-direct.com streamng-direct.com 59
+1579765449.881419924 1 accounts.google.com accounts.google.com 299
+1579765453.582067727 1 pleasewait.co pleasewait.co 59
+1579765453.582067727 2 pleasewait.co pleasewait.co 59
+1579765456.547654775 1 <Root> jbyyfgdax 86376
+1579765456.547933590 1 <Root> mqeguirlfro 86396
+1579765456.548314081 1 <Root> zdhctalzooq 86390
+1579765461.119445837 1 update.googleapis.com update.googleapis.com 5
+1579765461.142322277 1 ssl.gstatic.com ssl.gstatic.com 266

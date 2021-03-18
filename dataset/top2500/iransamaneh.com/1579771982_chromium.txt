@@ -1,0 +1,12 @@
+1579771984.037833254 1 www.gstatic.com www.gstatic.com 299
+1579771984.263538511 1 iransamaneh.com iransamaneh.com 25
+1579771984.287194396 1 accounts.google.com accounts.google.com 58
+1579771990.210203148 1 trustseal.enamad.ir trustseal.enamad.ir 482
+1579771990.281802084 1 clients1.google.com clients.l.google.com 299
+1579771990.281802084 2 clients.l.google.com clients1.google.com 299
+1579771990.465256392 1 translate.googleapis.com translate.googleapis.com 88
+1579771990.979588677 1 <Root> dpbjiao 86391
+1579771990.981132826 1 <Root> jnpahth 86394
+1579771990.982618446 1 <Root> ojumwcczhx 86393
+1579771993.982433893 1 ssl.gstatic.com ssl.gstatic.com 10
+1579772002.214943099 1 update.googleapis.com update.googleapis.com 299

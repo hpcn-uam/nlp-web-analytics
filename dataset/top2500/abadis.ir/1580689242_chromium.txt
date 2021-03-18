@@ -1,0 +1,10 @@
+1580689244.471619888 1 www.gstatic.com www.gstatic.com 179
+1580689244.628752682 1 abadis.ir abadis.ir 299
+1580689244.698248001 1 accounts.google.com accounts.google.com 189
+1580689248.424442724 1 dictionary.abadis.ir dictionary.abadis.ir 299
+1580689248.791384940 1 parsdev.ir parsdev.ir 14399
+1580689251.415761961 1 <Root> vtityqftoaasu 86350
+1580689251.415822879 1 <Root> wmscpotuc 86391
+1580689251.416198969 1 <Root> ewzbzvwqlk 86387
+1580689254.424909947 1 ssl.gstatic.com ssl.gstatic.com 299
+1580689258.601743579 1 update.googleapis.com update.googleapis.com 299

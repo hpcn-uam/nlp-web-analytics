@@ -1,0 +1,12 @@
+1580691383.653930716 1 www.gstatic.com www.gstatic.com 15
+1580691383.864301067 1 accounts.google.com accounts.google.com 299
+1580691384.085971254 1 gabia.com gabia.com 1799
+1580691387.993404422 1 www.gabia.com www.gabia.com 1799
+1580691388.571016574 1 ocsp.comodoca.com ocsp.comodoca.com 362
+1580691390.594827996 1 <Root> cpvmjtgrkbcqqz 86378
+1580691390.595341311 1 <Root> ilwrerkfwqr 86378
+1580691390.595404435 1 <Root> insdkgbvunmmwb 86352
+1580691391.258844692 1 static.gabia.com static.gabia.com 1799
+1580691393.572981142 1 my.gabia.com my.gabia.com 1762
+1580691393.599259427 1 ssl.gstatic.com ssl.gstatic.com 299
+1580691403.773861499 1 library.gabia.com library.gabia.com 599

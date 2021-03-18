@@ -1,0 +1,4 @@
+1580697271.476167122 1 rso23.ru rso23.ru 21599
+1580697290.463986968 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 253
+1580697290.463986968 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 253
+1580697290.464034806 1 ubuntu.com connectivity-check.ubuntu.com 883

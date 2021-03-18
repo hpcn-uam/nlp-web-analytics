@@ -1,0 +1,10 @@
+1579774499.785860979 1 www.gstatic.com www.gstatic.com 204
+1579774500.065506473 1 accounts.google.com accounts.google.com 254
+1579774500.331955724 1 iefxz.com iefxz.com 599
+1579774506.737637230 1 <Root> udxsbebhdsvxvy 86394
+1579774506.738395302 1 <Root> dvvtfwbctmaspwe 86385
+1579774506.742101380 1 <Root> iuitebeqtlinfcv 86395
+1579774509.743911336 1 ssl.gstatic.com ssl.gstatic.com 41
+1579774521.446348671 1 ubuntu.com daisy.ubuntu.com 1101
+1579774521.460438798 1 daisy.ubuntu.com daisy.ubuntu.com 362
+1579774521.460438798 2 daisy.ubuntu.com daisy.ubuntu.com 362

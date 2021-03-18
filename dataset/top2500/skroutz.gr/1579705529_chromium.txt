@@ -1,0 +1,15 @@
+1579705530.720331478 1 www.gstatic.com www.gstatic.com 299
+1579705530.848763255 1 skroutz.gr skroutz.gr 976
+1579705530.860552213 1 accounts.google.com accounts.google.com 299
+1579705531.332409280 1 www.skroutz.gr skroutz.gr 14296
+1579705531.332409280 2 skroutz.gr www.skroutz.gr 1696
+1579705531.599520803 1 a.scdn.gr a.scdn.gr 5148
+1579705531.624771606 1 b.scdn.gr b.scdn.gr 9554
+1579705531.632339953 1 d.scdn.gr d.scdn.gr 14031
+1579705531.634135561 1 c.scdn.gr c.scdn.gr 5349
+1579705532.673628178 1 translate.googleapis.com translate.googleapis.com 299
+1579705537.666623489 1 <Root> eujldsvyo 86396
+1579705537.666743129 1 <Root> flrjjygs 86393
+1579705537.666763388 1 <Root> tnxitfghw 86393
+1579705540.648571213 1 ssl.gstatic.com ssl.gstatic.com 224
+1579705545.683627407 1 update.googleapis.com update.googleapis.com 299

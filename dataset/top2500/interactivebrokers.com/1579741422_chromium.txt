@@ -1,0 +1,17 @@
+1579741424.329623641 1 www.gstatic.com www.gstatic.com 299
+1579741424.583089440 1 interactivebrokers.com interactivebrokers.com 899
+1579741424.583089440 2 interactivebrokers.com interactivebrokers.com 899
+1579741424.586296655 1 accounts.google.com accounts.google.com 216
+1579741428.189632643 1 www.interactivebrokers.com www.interactivebrokers.com 380
+1579741428.189632643 2 www.interactivebrokers.com www.interactivebrokers.com 380
+1579741428.626751945 1 ocsp.digicert.com cs9.wac.phicdn.net 2480
+1579741428.626751945 2 cs9.wac.phicdn.net ocsp.digicert.com 2079
+1579741429.271723069 1 www.interactivebrokers.eu www.interactivebrokers.eu 21599
+1579741431.268602786 1 <Root> jvyaqnxalvjm 86396
+1579741431.269714698 1 <Root> dvkldgdikmnrpia 86376
+1579741431.270776087 1 <Root> xoqcbci 86396
+1579741431.337856995 1 download2.interactivebrokers.com download.interactivebrokers.com.edgekey.net 274
+1579741431.337856995 2 download.interactivebrokers.com.edgekey.net e2919.g.akamaiedge.net 12102
+1579741431.337856995 3 e2919.g.akamaiedge.net download2.interactivebrokers.com 19
+1579741434.272748381 1 ssl.gstatic.com ssl.gstatic.com 299
+1579741446.891878092 1 update.googleapis.com update.googleapis.com 299

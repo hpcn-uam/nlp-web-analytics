@@ -1,0 +1,16 @@
+1580685765.329471236 1 www.gstatic.com www.gstatic.com 299
+1580685765.453638573 1 microworkers.com microworkers.com 299
+1580685765.453638573 2 microworkers.com microworkers.com 299
+1580685765.561570909 1 accounts.google.com accounts.google.com 200
+1580685769.673200020 1 www.microworkers.com www.microworkers.com 299
+1580685769.673200020 2 www.microworkers.com www.microworkers.com 299
+1580685770.866049358 1 cdnjs.cloudflare.com cdnjs.cloudflare.com 185
+1580685770.866049358 2 cdnjs.cloudflare.com cdnjs.cloudflare.com 185
+1580685771.110009842 1 ttv.microworkers.com ttv.microworkers.com 78
+1580685771.110009842 2 ttv.microworkers.com ttv.microworkers.com 78
+1580685772.240900424 1 <Root> ylwxuicslxygu 86393
+1580685772.240941058 1 <Root> txjcrvbur 86394
+1580685772.241604938 1 <Root> gvihqnmjsv 86373
+1580685773.496750638 1 translate.googleapis.com translate.googleapis.com 299
+1580685775.241815769 1 ssl.gstatic.com ssl.gstatic.com 37
+1580685779.123947468 1 update.googleapis.com update.googleapis.com 299

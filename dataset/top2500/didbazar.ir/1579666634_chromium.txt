@@ -1,0 +1,16 @@
+1579666636.400246594 1 www.gstatic.com www.gstatic.com 299
+1579666636.523193960 1 didbazar.ir didbazar.ir 3599
+1579666636.656728165 1 accounts.google.com accounts.google.com 299
+1579666640.843581501 1 trustseal.enamad.ir trustseal.enamad.ir 505
+1579666640.845564299 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1579666640.845564299 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1579666641.109816373 1 repository.certum.pl repository.uzto.netdna-cdn.com 3
+1579666641.109816373 2 repository.uzto.netdna-cdn.com repository.certum.pl 299
+1579666642.583607873 1 clients1.google.com clients.l.google.com 166
+1579666642.583607873 2 clients.l.google.com clients1.google.com 166
+1579666642.743134816 1 translate.googleapis.com translate.googleapis.com 2
+1579666646.600939795 1 update.googleapis.com update.googleapis.com 104
+1579666646.603020667 1 <Root> nluheudotl 86371
+1579666646.605049733 1 <Root> idsojrveojfmbpq 86394
+1579666646.605273679 1 <Root> gmsqovhbopvmi 86393
+1579666646.630811148 1 ssl.gstatic.com ssl.gstatic.com 299

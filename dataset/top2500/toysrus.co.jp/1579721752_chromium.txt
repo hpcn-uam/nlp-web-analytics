@@ -1,0 +1,14 @@
+1579721754.413352001 1 www.gstatic.com www.gstatic.com 63
+1579721754.646703152 1 accounts.google.com accounts.google.com 299
+1579721755.076492614 1 toysrus.co.jp toysrus.co.jp 1799
+1579721755.225877527 1 google.com google.com 299
+1579721755.225923537 1 google.com google.com 299
+1579721755.986827908 1 toysrus.co.jp toysrus.co.jp 1799
+1579721761.058034869 1 toysrus.co.jp toysrus.co.jp 1793
+1579721761.092090498 1 google.com google.com 293
+1579721761.093345109 1 google.com google.com 299
+1579721761.356468686 1 <Root> yqxavcjgmu 86387
+1579721761.357641181 1 <Root> dnsiosnbdrpb 86396
+1579721761.358399838 1 <Root> rahfcbwz 86388
+1579721764.359542271 1 ssl.gstatic.com ssl.gstatic.com 299
+1579721766.089393368 1 update.googleapis.com update.googleapis.com 200

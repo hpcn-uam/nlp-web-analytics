@@ -1,0 +1,16 @@
+1580787144.898943328 1 www.gstatic.com www.gstatic.com 299
+1580787145.078156570 1 tlscontact.com tlscontact.com 299
+1580787145.192732353 1 accounts.google.com accounts.google.com 299
+1580787148.884979597 1 corp.tlscontact.com corp.tlscontact.com 3564
+1580787149.606506355 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580787149.606506355 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580787149.844708965 1 clients1.google.com clients.l.google.com 299
+1580787149.844708965 2 clients.l.google.com clients1.google.com 299
+1580787149.920084716 1 www.google-analytics.com www-google-analytics.l.google.com 21467
+1580787149.920084716 2 www-google-analytics.l.google.com www.google-analytics.com 167
+1580787150.897188314 1 translate.googleapis.com translate.googleapis.com 203
+1580787151.836670117 1 <Root> onvgqywlqwnioe 86397
+1580787151.836895948 1 <Root> zbptmborxsrbo 86387
+1580787151.837144401 1 <Root> hkhvakmsvpnvyol 86359
+1580787154.839260274 1 ssl.gstatic.com ssl.gstatic.com 299
+1580787158.648537589 1 update.googleapis.com update.googleapis.com 207

@@ -1,0 +1,7 @@
+1579805892.977386017 1 www.gstatic.com www.gstatic.com 299
+1579805893.131409420 1 polyu.edu.hk polyu.edu.hk 3224
+1579805893.257607275 1 accounts.google.com accounts.google.com 299
+1579805899.907597942 1 <Root> hpyvjcxz 86396
+1579805899.907677812 1 <Root> myompdrpzub 86396
+1579805899.907966256 1 <Root> ceicdwcssi 86386
+1579805902.910529174 1 ssl.gstatic.com ssl.gstatic.com 221

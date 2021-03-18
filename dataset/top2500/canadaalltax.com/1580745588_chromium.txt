@@ -1,0 +1,11 @@
+1580745589.975726892 1 www.gstatic.com www.gstatic.com 271
+1580745590.248704877 1 canadaalltax.com canadaalltax.com 14399
+1580745590.283947581 1 accounts.google.com accounts.google.com 93
+1580745590.445254852 1 ubuntu.com connectivity-check.ubuntu.com 1104
+1580745590.445299588 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 507
+1580745590.445299588 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 507
+1580745598.550520592 1 update.googleapis.com update.googleapis.com 299
+1580745598.552024976 1 <Root> fiuzrmjppjvd 86396
+1580745598.558118500 1 <Root> iqzfaazumolcxpz 86380
+1580745598.559514673 1 <Root> ckwycqajgncr 86398
+1580745599.939397512 1 ssl.gstatic.com ssl.gstatic.com 187

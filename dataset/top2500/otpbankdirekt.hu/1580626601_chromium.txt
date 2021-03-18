@@ -1,0 +1,16 @@
+1580626603.174014279 1 www.gstatic.com www.gstatic.com 299
+1580626603.347261788 1 accounts.google.com accounts.google.com 299
+1580626603.355430673 1 otpbankdirekt.hu otpbankdirekt.hu 1799
+1580626603.707481124 1 otpbankdirekt.hu otpbankdirekt.hu 1799
+1580626603.864595443 1 google.com google.com 217
+1580626603.865039697 1 google.com google.com 277
+1580626604.140427040 1 otpbankdirekt.hu otpbankdirekt.hu 1799
+1580626608.662252277 1 update.googleapis.com update.googleapis.com 299
+1580626609.183348849 1 otpbankdirekt.hu otpbankdirekt.hu 1761
+1580626609.187380470 1 otpbankdirekt.hu otpbankdirekt.hu 1761
+1580626609.241555155 1 google.com google.com 299
+1580626609.241709281 1 google.com google.com 299
+1580626610.107912038 1 <Root> fnusrgnwhszfdd 86397
+1580626610.109707047 1 <Root> ewevowc 86393
+1580626610.110650235 1 <Root> zuunubktyvj 86394
+1580626613.111389992 1 ssl.gstatic.com ssl.gstatic.com 299

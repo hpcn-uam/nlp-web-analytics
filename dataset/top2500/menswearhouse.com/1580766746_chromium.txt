@@ -1,0 +1,14 @@
+1580766747.827942814 1 www.gstatic.com www.gstatic.com 299
+1580766747.996498631 1 menswearhouse.com menswearhouse.com 1199
+1580766748.074196264 1 accounts.google.com accounts.google.com 299
+1580766752.258846357 1 www.menswearhouse.com san.menswearhouse.com.edgekey.net 1199
+1580766752.258846357 2 san.menswearhouse.com.edgekey.net e5654.b.akamaiedge.net 10082
+1580766752.258846357 3 e5654.b.akamaiedge.net www.menswearhouse.com 19
+1580766752.491365588 1 images.menswearhouse.com vsan.scene7.com.edgekey.net 1199
+1580766752.491365588 2 vsan.scene7.com.edgekey.net e765.dscg.akamaiedge.net 21599
+1580766752.491365588 3 e765.dscg.akamaiedge.net images.menswearhouse.com 19
+1580766754.766117010 1 <Root> aqyswmvellfzomg 86393
+1580766754.766703082 1 <Root> pcxfvaitu 86335
+1580766754.768494172 1 <Root> qciaripgqfat 86359
+1580766757.766622877 1 ssl.gstatic.com ssl.gstatic.com 22
+1580766760.461171254 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,17 @@
+1579652322.653106861 1 www.gstatic.com www.gstatic.com 109
+1579652322.838423227 1 travian.com travian.com 59
+1579652322.910375269 1 accounts.google.com accounts.google.com 299
+1579652326.679311032 1 www.travian.com lb.startpage.en.t4.cgn.travian.info 59
+1579652326.679311032 2 lb.startpage.en.t4.cgn.travian.info www.travian.com 3599
+1579652328.895178162 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579652328.895178162 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579652328.942699870 1 translate.googleapis.com translate.googleapis.com 97
+1579652329.131505474 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579652329.131505474 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579652329.135144723 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1579652329.135144723 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1579652329.581609409 1 <Root> kcfxjfdlcjhldl 86386
+1579652329.582064781 1 <Root> xsxrycxrag 86376
+1579652329.582310525 1 <Root> kcebibgdzj 86396
+1579652332.587982701 1 ssl.gstatic.com ssl.gstatic.com 299
+1579652342.851175244 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579714735.499314756 1 www.gstatic.com www.gstatic.com 84
+1579714735.683952540 1 accounts.google.com accounts.google.com 299
+1579714735.817731800 1 unta-cs.org unta-cs.org 899
+1579714741.936673026 1 fonts.googleapis.com fonts.googleapis.com 68
+1579714742.023947477 1 s.w.org s.w.org 250
+1579714742.082497883 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579714742.082497883 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579714742.447997001 1 <Root> bgphpjjxgwyebq 86390
+1579714742.448411604 1 <Root> ucypmbc 86379
+1579714742.449111229 1 <Root> wggempghtaoip 86387
+1579714743.783291371 1 clients1.google.com clients.l.google.com 204
+1579714743.783291371 2 clients.l.google.com clients1.google.com 204
+1579714743.831912518 1 translate.googleapis.com translate.googleapis.com 299
+1579714745.445611227 1 ssl.gstatic.com ssl.gstatic.com 63
+1579714756.433153892 1 update.googleapis.com update.googleapis.com 299

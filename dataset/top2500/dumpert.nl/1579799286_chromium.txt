@@ -1,0 +1,16 @@
+1579799287.959378413 1 www.gstatic.com www.gstatic.com 72
+1579799288.142312244 1 dumpert.nl dumpert.nl 299
+1579799288.142312244 2 dumpert.nl dumpert.nl 299
+1579799288.147899846 1 accounts.google.com accounts.google.com 299
+1579799291.947808669 1 www.dumpert.nl www.dumpert.nl 299
+1579799291.947808669 2 www.dumpert.nl www.dumpert.nl 299
+1579799292.261320097 1 cookies.dumpert.nl cookies.dumpert.nl 82
+1579799292.261320097 2 cookies.dumpert.nl cookies.dumpert.nl 82
+1579799292.576882256 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579799292.576882256 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579799292.668800578 1 translate.googleapis.com translate.googleapis.com 299
+1579799294.892015507 1 <Root> ouxhpgxv 86384
+1579799294.893956240 1 <Root> bhmilgmrbers 86387
+1579799294.895530302 1 <Root> snyfqugoo 86392
+1579799298.863940037 1 update.googleapis.com update.googleapis.com 299
+1579799300.416360396 1 ssl.gstatic.com ssl.gstatic.com 299

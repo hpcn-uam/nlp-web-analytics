@@ -1,0 +1,15 @@
+1579778961.621561187 1 www.gstatic.com www.gstatic.com 176
+1579778961.775154195 1 telecharger-youtube-mp3.com telecharger-youtube-mp3.com 3045
+1579778961.855663357 1 accounts.google.com accounts.google.com 299
+1579778965.737010631 1 clients1.google.com clients.l.google.com 118
+1579778965.737010631 2 clients.l.google.com clients1.google.com 118
+1579778965.815809642 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579778965.815809642 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579778968.493732124 1 <Root> poppnfarxx 86393
+1579778968.493807333 1 <Root> hsoegbzg 86392
+1579778968.494380303 1 <Root> xpfhyhioxq 86390
+1579778973.547524445 1 update.googleapis.com update.googleapis.com 299
+1579778973.574012332 1 ssl.gstatic.com ssl.gstatic.com 236
+1579778990.449837992 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 255
+1579778990.449837992 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 255
+1579778990.449898624 1 ubuntu.com connectivity-check.ubuntu.com 961

@@ -1,0 +1,14 @@
+1580637868.247316004 1 www.gstatic.com www.gstatic.com 299
+1580637868.488572051 1 accounts.google.com accounts.google.com 299
+1580637869.699293395 1 iciba.com iciba.com 299
+1580637874.658537634 1 www.iciba.com 8b434eb25b40d26d.ksyunad.com 299
+1580637874.658537634 2 8b434eb25b40d26d.ksyunad.com 05f453758ddb9a8e.ksyunad.com 59
+1580637874.658537634 3 05f453758ddb9a8e.ksyunad.com www.iciba.com 59
+1580637877.103821468 1 update.googleapis.com update.googleapis.com 299
+1580637877.108337172 1 <Root> ldzpetv 86398
+1580637877.108356431 1 <Root> dczjortpuib 86392
+1580637877.109898746 1 <Root> rmktyfh 86385
+1580637879.626914271 1 ssl.gstatic.com ssl.gstatic.com 299
+1580637890.452925171 1 ubuntu.com connectivity-check.ubuntu.com 851
+1580637890.452989210 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 295
+1580637890.452989210 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 295

@@ -1,0 +1,8 @@
+1579741613.620011453 1 www.gstatic.com www.gstatic.com 299
+1579741613.873808458 1 accounts.google.com accounts.google.com 299
+1579741614.032207225 1 newtip.net newtip.net 3599
+1579741620.561367814 1 <Root> qrbcughrctcdimw 86366
+1579741620.563401540 1 <Root> lmcdebtsjk 86276
+1579741620.565469631 1 <Root> obqflxmtsqckns 86373
+1579741623.564145361 1 ssl.gstatic.com ssl.gstatic.com 137
+1579741629.632326252 1 update.googleapis.com update.googleapis.com 299

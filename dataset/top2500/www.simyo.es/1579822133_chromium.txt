@@ -1,0 +1,13 @@
+1579822135.103948528 1 www.gstatic.com www.gstatic.com 299
+1579822135.238918235 1 www.simyo.es www.simyo.es 44
+1579822135.271643878 1 accounts.google.com accounts.google.com 299
+1579822139.401582334 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579822139.401582334 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579822140.152175894 1 api.simyo.es api.simyo.es 3
+1579822140.307692700 1 clients1.google.com clients.l.google.com 14
+1579822140.307692700 2 clients.l.google.com clients1.google.com 14
+1579822142.038128681 1 <Root> zajsdunltm 86384
+1579822142.038941646 1 <Root> eiucaenlnyfiy 86394
+1579822142.039171090 1 <Root> rwabfxm 86367
+1579822145.038816327 1 ssl.gstatic.com ssl.gstatic.com 194
+1579822152.181145733 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579664011.777956081 1 www.gstatic.com www.gstatic.com 299
+1579664011.900983395 1 blogspot.com bp.blogspot.com 59
+1579664011.962944256 1 accounts.google.com accounts.google.com 125
+1579664011.974083480 1 blogspot.com bp.blogspot.com 59
+1579664012.400992506 1 google.com google.com 47
+1579664012.401543965 1 google.com google.com 299
+1579664012.653651418 1 blogspot.com bp.blogspot.com 27
+1579664017.810043951 1 blogspot.com bp.blogspot.com 59
+1579664017.846970624 1 google.com google.com 42
+1579664017.847418522 1 google.com google.com 299
+1579664018.703367130 1 <Root> bkhthrja 86393
+1579664018.704768873 1 <Root> lpbhbjltfert 86360
+1579664018.705846885 1 <Root> uokteovrpsxpdu 86364
+1579664022.959011287 1 update.googleapis.com update.googleapis.com 37
+1579664022.976530018 1 ssl.gstatic.com ssl.gstatic.com 215

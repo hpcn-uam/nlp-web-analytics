@@ -1,0 +1,13 @@
+1579753156.629105663 1 www.gstatic.com www.gstatic.com 203
+1579753156.792865680 1 cadsans.com cadsans.com 1745
+1579753156.792865680 2 cadsans.com cadsans.com 1745
+1579753156.792865680 3 cadsans.com cadsans.com 1745
+1579753156.792865680 4 cadsans.com cadsans.com 1745
+1579753156.862333662 1 accounts.google.com accounts.google.com 299
+1579753163.193280367 1 update.googleapis.com update.googleapis.com 299
+1579753163.200559845 1 adsterra.com adsterra.com 299
+1579753163.200559845 2 adsterra.com adsterra.com 299
+1579753163.565397955 1 <Root> wxnkmjcwdgr 86360
+1579753163.566395219 1 <Root> ficgxfz 86326
+1579753163.567132536 1 <Root> elnjjbrxgquql 86393
+1579753166.567458711 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,11 @@
+1579664503.728361482 1 www.gstatic.com www.gstatic.com 299
+1579664503.841302824 1 alwafd.news alwafd.news 164
+1579664503.841302824 2 alwafd.news alwafd.news 164
+1579664503.885734302 1 accounts.google.com accounts.google.com 299
+1579664510.124481015 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 252
+1579664510.124481015 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 252
+1579664510.124523206 1 ubuntu.com connectivity-check.ubuntu.com 162
+1579664510.674697695 1 <Root> uasztqwvrt 86319
+1579664510.676188614 1 <Root> blywunsjvrnwug 86380
+1579664510.680582445 1 <Root> okosgndfkc 86387
+1579664513.677106456 1 ssl.gstatic.com ssl.gstatic.com 299

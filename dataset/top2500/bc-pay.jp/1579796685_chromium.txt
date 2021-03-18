@@ -1,0 +1,10 @@
+1579796687.004355801 1 www.gstatic.com www.gstatic.com 299
+1579796687.193959054 1 accounts.google.com accounts.google.com 76
+1579796687.368741151 1 bc-pay.jp bc-pay.jp 21599
+1579796690.463784511 1 ubuntu.com connectivity-check.ubuntu.com 28
+1579796690.464301993 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 545
+1579796690.464301993 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 545
+1579796693.929429583 1 <Root> zghxeqsej 86382
+1579796693.929700121 1 <Root> jjsqkaq 86391
+1579796693.930210900 1 <Root> qxzitjufuf 86377
+1579796696.930152492 1 ssl.gstatic.com ssl.gstatic.com 204

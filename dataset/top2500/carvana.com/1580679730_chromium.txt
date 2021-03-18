@@ -1,0 +1,17 @@
+1580679731.603662355 1 www.gstatic.com www.gstatic.com 299
+1580679731.736817900 1 carvana.com carvana.com 3599
+1580679731.736817900 2 carvana.com carvana.com 3599
+1580679731.805860681 1 accounts.google.com accounts.google.com 299
+1580679735.395551964 1 www.carvana.com xqb4m.x.incapdns.net 3599
+1580679735.395551964 2 xqb4m.x.incapdns.net www.carvana.com 29
+1580679735.430835311 1 ocsp.digicert.com cs9.wac.phicdn.net 21085
+1580679735.430835311 2 cs9.wac.phicdn.net ocsp.digicert.com 3554
+1580679735.812758930 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580679735.812758930 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580679736.042753048 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580679736.042753048 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580679738.504222638 1 <Root> ajllryxs 86395
+1580679738.505675391 1 <Root> qvzsxllluu 86393
+1580679738.505913710 1 <Root> fpdxslhvbvi 86398
+1580679744.048787423 1 update.googleapis.com update.googleapis.com 108
+1580679745.599060978 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,16 @@
+1580750827.738308573 1 www.gstatic.com www.gstatic.com 299
+1580750827.958916812 1 regione.toscana.it regione.toscana.it 299
+1580750828.054612390 1 accounts.google.com accounts.google.com 34
+1580750831.600954533 1 www.regione.toscana.it www.regione.toscana.it 299
+1580750832.206459735 1 fonts.googleapis.com fonts.googleapis.com 299
+1580750832.317398302 1 fonts.gstatic.com gstaticadssl.l.google.com 1
+1580750832.317398302 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1580750834.579597720 1 www.google-analytics.com www-google-analytics.l.google.com 21331
+1580750834.579597720 2 www-google-analytics.l.google.com www.google-analytics.com 31
+1580750834.679646283 1 <Root> ghoqtfftsw 86389
+1580750834.680808296 1 <Root> rxosxofot 86385
+1580750834.682121074 1 <Root> nrveyifggwi 86391
+1580750835.557765345 1 www.lamma.rete.toscana.it www.lamma.rete.toscana.it 2072
+1580750835.928194602 1 translate.googleapis.com translate.googleapis.com 299
+1580750837.703588934 1 ssl.gstatic.com ssl.gstatic.com 26
+1580750849.193699442 1 update.googleapis.com update.googleapis.com 109

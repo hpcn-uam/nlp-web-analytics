@@ -1,0 +1,14 @@
+1579788891.444573707 1 www.gstatic.com www.gstatic.com 141
+1579788891.740079870 1 accounts.google.com accounts.google.com 299
+1579788891.843063032 1 bancainternet.com.ar bancainternet.com.ar 1799
+1579788892.085223422 1 google.com google.com 299
+1579788892.085591834 1 google.com google.com 299
+1579788892.502828032 1 bancainternet.com.ar bancainternet.com.ar 983
+1579788897.191926787 1 update.googleapis.com update.googleapis.com 299
+1579788897.804737242 1 bancainternet.com.ar bancainternet.com.ar 1799
+1579788897.849417887 1 google.com google.com 299
+1579788897.864044803 1 google.com google.com 299
+1579788898.388108999 1 <Root> legxoojzpbwnjm 86393
+1579788898.388988677 1 <Root> iqzvxqjqeasn 86386
+1579788898.389815239 1 <Root> xlehzspapiyl 86398
+1579788901.390863339 1 ssl.gstatic.com ssl.gstatic.com 203

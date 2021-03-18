@@ -1,0 +1,14 @@
+1580746939.360365243 1 www.gstatic.com www.gstatic.com 299
+1580746939.560156164 1 sportybet.com sportybet.com 37
+1580746939.560156164 2 sportybet.com sportybet.com 37
+1580746939.597266624 1 accounts.google.com accounts.google.com 299
+1580746943.252117241 1 www.sportybet.com sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com 100
+1580746943.252117241 2 sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com 38
+1580746943.252117241 3 sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com www.sportybet.com 38
+1580746943.403417065 1 s.sporty.net s.sporty.net 299
+1580746943.403417065 2 s.sporty.net s.sporty.net 299
+1580746946.156305621 1 update.googleapis.com update.googleapis.com 299
+1580746946.304366449 1 <Root> xvechgx 86395
+1580746946.305719938 1 <Root> quenmue 86394
+1580746946.306029197 1 <Root> ruancazg 86394
+1580746949.307910172 1 ssl.gstatic.com ssl.gstatic.com 150

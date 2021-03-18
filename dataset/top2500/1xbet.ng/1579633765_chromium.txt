@@ -1,0 +1,13 @@
+1579633766.714576094 1 www.gstatic.com www.gstatic.com 11
+1579633766.834208076 1 1xbet.ng 1xbet.ng 20
+1579633766.941159800 1 accounts.google.com accounts.google.com 299
+1579633771.629370330 1 clients1.google.com clients.l.google.com 299
+1579633771.629370330 2 clients.l.google.com clients1.google.com 299
+1579633773.640900874 1 <Root> wyqlcgxrjij 86383
+1579633773.642338003 1 <Root> aknpfbycmvw 86396
+1579633773.642903566 1 <Root> groefgucqzdeqk 86398
+1579633777.777080792 1 update.googleapis.com update.googleapis.com 50
+1579633777.799946770 1 ssl.gstatic.com ssl.gstatic.com 186
+1579633790.456849501 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 397
+1579633790.456849501 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 397
+1579633790.456927508 1 ubuntu.com connectivity-check.ubuntu.com 286

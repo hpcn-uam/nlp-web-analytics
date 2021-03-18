@@ -1,0 +1,14 @@
+1579682267.209042364 1 www.gstatic.com www.gstatic.com 294
+1579682267.379529951 1 accounts.google.com accounts.google.com 237
+1579682267.535559042 1 nhk.or.jp nhk.or.jp 299
+1579682267.832355407 1 google.com google.com 103
+1579682267.833465859 1 google.com google.com 299
+1579682268.373563329 1 nhk.or.jp nhk.or.jp 299
+1579682274.380956532 1 update.googleapis.com update.googleapis.com 280
+1579682274.407512573 1 nhk.or.jp nhk.or.jp 293
+1579682274.411215961 1 <Root> kbxsheu 86381
+1579682274.411674018 1 <Root> fbzpmmfcoobsmqu 86390
+1579682274.411913232 1 <Root> uvydjvkqloaaf 86398
+1579682274.451554690 1 google.com google.com 96
+1579682274.451942817 1 google.com google.com 292
+1579682277.141924758 1 ssl.gstatic.com ssl.gstatic.com 146

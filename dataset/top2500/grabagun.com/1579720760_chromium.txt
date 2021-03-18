@@ -1,0 +1,12 @@
+1579720762.072728321 1 www.gstatic.com www.gstatic.com 299
+1579720762.263332063 1 grabagun.com grabagun.com 94
+1579720762.263332063 2 grabagun.com grabagun.com 94
+1579720762.347913003 1 accounts.google.com accounts.google.com 299
+1579720768.997476746 1 <Root> hnmgmkszhmebz 86386
+1579720768.998916744 1 <Root> kbamwbx 86398
+1579720769.000666694 1 <Root> fjijkdwpuup 86377
+1579720771.880937101 1 update.googleapis.com update.googleapis.com 299
+1579720772.001856124 1 ssl.gstatic.com ssl.gstatic.com 299
+1579720790.449628106 1 ubuntu.com connectivity-check.ubuntu.com 152
+1579720790.449739986 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 308
+1579720790.449739986 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 308

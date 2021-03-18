@@ -1,0 +1,11 @@
+1580763578.191343261 1 www.gstatic.com www.gstatic.com 209
+1580763578.294013561 1 checkload.net checkload.net 599
+1580763578.419451671 1 accounts.google.com accounts.google.com 209
+1580763585.131170756 1 <Root> xpqfyjvht 86381
+1580763585.133698815 1 <Root> xwhjxbfkapodyj 86385
+1580763585.134480971 1 <Root> gxvufck 86390
+1580763588.132464353 1 ssl.gstatic.com ssl.gstatic.com 144
+1580763590.455172180 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 490
+1580763590.455172180 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 490
+1580763590.455241955 1 ubuntu.com connectivity-check.ubuntu.com 567
+1580763592.026154426 1 update.googleapis.com update.googleapis.com 299

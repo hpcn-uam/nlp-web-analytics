@@ -1,0 +1,15 @@
+1579754432.812700388 1 www.gstatic.com www.gstatic.com 113
+1579754433.032042587 1 accounts.google.com accounts.google.com 112
+1579754433.363076872 1 minfin.gv.ao minfin.gv.ao 1799
+1579754433.619566357 1 google.com google.com 299
+1579754433.620462661 1 google.com google.com 299
+1579754436.849030143 1 update.googleapis.com update.googleapis.com 33
+1579754436.864741612 1 minfin.gv.ao minfin.gv.ao 1796
+1579754438.433694792 1 minfin.gv.ao minfin.gv.ao 1762
+1579754439.757532233 1 <Root> ylgqlhtoybys 86365
+1579754439.757600471 1 <Root> xkvbxutrcfxum 86389
+1579754439.757862683 1 <Root> zhjnarwrmjgyeof 86396
+1579754442.759065925 1 ssl.gstatic.com ssl.gstatic.com 299
+1579754443.508586221 1 minfin.gv.ao minfin.gv.ao 1757
+1579754443.550908950 1 google.com google.com 289
+1579754443.552035216 1 google.com google.com 299

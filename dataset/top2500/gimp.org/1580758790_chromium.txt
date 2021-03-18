@@ -1,0 +1,12 @@
+1580758791.962488460 1 www.gstatic.com www.gstatic.com 299
+1580758792.254642998 1 accounts.google.com accounts.google.com 299
+1580758792.384994736 1 gimp.org gimp.org 299
+1580758795.794954329 1 www.gimp.org www.gimp.org 95
+1580758796.868742545 1 clients1.google.com clients.l.google.com 299
+1580758796.868742545 2 clients.l.google.com clients1.google.com 299
+1580758797.851658237 1 translate.googleapis.com translate.googleapis.com 299
+1580758798.888888182 1 <Root> oopztzfbnnb 86398
+1580758798.889078832 1 <Root> bntgecleknb 86375
+1580758798.889321662 1 <Root> bvvnumfb 86388
+1580758801.891394237 1 ssl.gstatic.com ssl.gstatic.com 299
+1580758806.867075810 1 update.googleapis.com update.googleapis.com 299

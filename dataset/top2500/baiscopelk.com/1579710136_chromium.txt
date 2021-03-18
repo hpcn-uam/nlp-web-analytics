@@ -1,0 +1,8 @@
+1579710138.312847953 1 www.gstatic.com www.gstatic.com 144
+1579710138.447606390 1 baiscopelk.com baiscopelk.com 299
+1579710138.447606390 2 baiscopelk.com baiscopelk.com 299
+1579710138.544021518 1 accounts.google.com accounts.google.com 106
+1579710145.253520849 1 <Root> hpocjmwflptaiuc 86390
+1579710145.254033437 1 <Root> pnraihkvqbmo 86389
+1579710145.254566826 1 <Root> gktgjuticzr 86379
+1579710148.254381938 1 ssl.gstatic.com ssl.gstatic.com 264

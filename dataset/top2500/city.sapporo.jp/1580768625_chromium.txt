@@ -1,0 +1,7 @@
+1580768627.414551202 1 www.gstatic.com www.gstatic.com 299
+1580768627.583586805 1 accounts.google.com accounts.google.com 51
+1580768627.809373124 1 city.sapporo.jp city.sapporo.jp 299
+1580768634.354111507 1 <Root> ecfgcddpgqizb 86389
+1580768634.354170439 1 <Root> dymyloroxsmy 86389
+1580768634.354518925 1 <Root> unlawtaimc 86371
+1580768637.352748883 1 ssl.gstatic.com ssl.gstatic.com 165

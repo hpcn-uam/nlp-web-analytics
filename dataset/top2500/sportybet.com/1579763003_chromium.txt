@@ -1,0 +1,14 @@
+1579763005.292697317 1 www.gstatic.com www.gstatic.com 299
+1579763005.439574002 1 sportybet.com sportybet.com 27
+1579763005.439574002 2 sportybet.com sportybet.com 27
+1579763005.463477204 1 accounts.google.com accounts.google.com 299
+1579763009.209804796 1 www.sportybet.com sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com 260
+1579763009.209804796 2 sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com 20
+1579763009.209804796 3 sportybet-nginx-online-alb-476240777.eu-central-1.elb.amazonaws.com www.sportybet.com 20
+1579763009.340489408 1 s.sporty.net s.sporty.net 213
+1579763009.340489408 2 s.sporty.net s.sporty.net 213
+1579763012.234854213 1 <Root> trqjlnmer 86394
+1579763012.234931839 1 <Root> uempssttwavp 86398
+1579763012.236151620 1 <Root> fdaxiryrhpa 86397
+1579763015.235060652 1 ssl.gstatic.com ssl.gstatic.com 299
+1579763017.388567901 1 update.googleapis.com update.googleapis.com 299

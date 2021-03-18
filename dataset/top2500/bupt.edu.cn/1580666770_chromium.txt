@@ -1,0 +1,16 @@
+1580666772.038391063 1 www.gstatic.com www.gstatic.com 299
+1580666772.162894924 1 bupt.edu.cn bupt.edu.cn 87
+1580666772.310570365 1 accounts.google.com accounts.google.com 299
+1580666773.357234622 1 bupt.edu.cn bupt.edu.cn 299
+1580666773.477059871 1 google.com google.com 299
+1580666773.478005124 1 google.com google.com 299
+1580666773.635827310 1 bupt.edu.cn bupt.edu.cn 298
+1580666773.664136318 1 bupt.edu.cn bupt.edu.cn 299
+1580666778.973299862 1 <Root> nauwafrl 86396
+1580666778.973384813 1 <Root> uhfyxcythnpo 86395
+1580666778.975300904 1 <Root> vwufvtakpsn 86392
+1580666779.041035636 1 bupt.edu.cn bupt.edu.cn 299
+1580666779.081991548 1 google.com google.com 299
+1580666779.082203676 1 google.com google.com 299
+1580666781.171480268 1 update.googleapis.com update.googleapis.com 285
+1580666781.975562499 1 ssl.gstatic.com ssl.gstatic.com 122

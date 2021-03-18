@@ -1,0 +1,16 @@
+1579815954.613875771 1 www.gstatic.com www.gstatic.com 299
+1579815954.641463655 1 www.kutxabank.com www.kutxabank.com.edgesuite.net 17443
+1579815954.641463655 2 www.kutxabank.com.edgesuite.net a1989.r.akamai.net 20368
+1579815954.641463655 3 a1989.r.akamai.net a1989.r.akamai.net 19
+1579815954.641463655 4 a1989.r.akamai.net www.kutxabank.com 19
+1579815954.752004910 1 accounts.google.com accounts.google.com 299
+1579815959.264943621 1 portal.kutxabank.es portal.kutxabank.es.edgekey.net 19381
+1579815959.264943621 2 portal.kutxabank.es.edgekey.net e16871.a.akamaiedge.net 20010
+1579815959.264943621 3 e16871.a.akamaiedge.net portal.kutxabank.es 19
+1579815959.295763981 1 www.cajasur.es www.cajasur.es 29
+1579815959.307468350 1 portalproveedor.kutxabank.es portalproveedor.kutxabank.es 0
+1579815961.438982175 1 <Root> epjwgaapzjzjmj 86394
+1579815961.439327281 1 <Root> hppdezl 86398
+1579815961.439715838 1 <Root> wdzltujjvyki 86389
+1579815964.438847322 1 ssl.gstatic.com ssl.gstatic.com 195
+1579815970.373066980 1 update.googleapis.com update.googleapis.com 299

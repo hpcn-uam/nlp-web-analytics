@@ -1,0 +1,17 @@
+1579672564.942682811 1 pusan.ac.kr pusan.ac.kr 3599
+1579672566.265542792 1 www.pusan.ac.kr www.pusan.ac.kr 3599
+1579672571.138091584 1 www.googletagmanager.com www-googletagmanager.l.google.com 21580
+1579672571.138091584 2 www-googletagmanager.l.google.com www.googletagmanager.com 280
+1579672572.493205779 1 cdn.jsdelivr.net jsdelivr.a7e454.flexbalancer.net 12
+1579672572.493205779 2 jsdelivr.a7e454.flexbalancer.net dualstack.f3.shared.global.fastly.net 9
+1579672572.493205779 3 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579672572.493205779 4 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579672572.493205779 5 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579672572.493205779 6 dualstack.f3.shared.global.fastly.net cdn.jsdelivr.net 29
+1579672575.575723971 1 graph.facebook.com api.facebook.com 3249
+1579672575.575723971 2 api.facebook.com star.c10r.facebook.com 3516
+1579672575.575723971 3 star.c10r.facebook.com graph.facebook.com 16
+1579672575.598061883 1 www.googleapis.com www.googleapis.com 193
+1579672585.573908791 1 www.google-analytics.com www-google-analytics.l.google.com 21550
+1579672585.573908791 2 www-google-analytics.l.google.com www.google-analytics.com 250
+1579672585.577986502 1 i.ytimg.com i.ytimg.com 299

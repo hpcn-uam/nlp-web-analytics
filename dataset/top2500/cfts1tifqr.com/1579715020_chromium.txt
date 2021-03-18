@@ -1,0 +1,11 @@
+1579715021.906670186 1 www.gstatic.com www.gstatic.com 115
+1579715022.028352171 1 cfts1tifqr.com cfts1tifqr.com 2462
+1579715022.028352171 2 cfts1tifqr.com cfts1tifqr.com 2462
+1579715022.028352171 3 cfts1tifqr.com cfts1tifqr.com 2462
+1579715022.028352171 4 cfts1tifqr.com cfts1tifqr.com 2462
+1579715022.061763630 1 accounts.google.com accounts.google.com 12
+1579715029.490213544 1 update.googleapis.com update.googleapis.com 299
+1579715029.491314751 1 <Root> uvkrguwhwxem 86379
+1579715029.494681256 1 <Root> hgxwaorimszw 86396
+1579715029.495243564 1 <Root> ssoalvlwtzuelk 86395
+1579715032.589181123 1 ssl.gstatic.com ssl.gstatic.com 299

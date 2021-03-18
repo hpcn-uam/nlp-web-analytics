@@ -1,0 +1,13 @@
+1580745502.156761850 1 www.gstatic.com www.gstatic.com 299
+1580745502.398584749 1 vetrf.ru vetrf.ru 3599
+1580745502.424501901 1 accounts.google.com accounts.google.com 299
+1580745506.453689950 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580745506.453689950 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580745506.843999280 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580745506.843999280 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580745507.142683021 1 translate.googleapis.com translate.googleapis.com 200
+1580745509.091094266 1 <Root> cvzdjchfqcg 86388
+1580745509.092939909 1 <Root> uhhxhapzvfmj 86390
+1580745509.095389570 1 <Root> oueodtq 86398
+1580745513.152587915 1 update.googleapis.com update.googleapis.com 299
+1580745513.176362041 1 ssl.gstatic.com ssl.gstatic.com 203

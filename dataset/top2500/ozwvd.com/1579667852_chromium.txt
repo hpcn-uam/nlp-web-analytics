@@ -1,0 +1,15 @@
+1579667854.040483120 1 www.gstatic.com www.gstatic.com 178
+1579667854.186727531 1 ozwvd.com ozwvd.com 1767
+1579667854.213934899 1 accounts.google.com accounts.google.com 143
+1579667854.525822209 1 ozwvd.com ozwvd.com 1767
+1579667854.715875589 1 google.com google.com 299
+1579667854.716176739 1 google.com google.com 299
+1579667854.919117673 1 ozwvd.com ozwvd.com 1799
+1579667859.565739733 1 update.googleapis.com update.googleapis.com 299
+1579667860.020228072 1 ozwvd.com ozwvd.com 1799
+1579667860.060089222 1 google.com google.com 212
+1579667860.060705036 1 google.com google.com 299
+1579667860.972041407 1 <Root> veeiqpnnmordjon 86398
+1579667860.972215150 1 <Root> pfynmdafnvv 86398
+1579667860.972576410 1 <Root> jmofizqey 86391
+1579667863.975692176 1 ssl.gstatic.com ssl.gstatic.com 299

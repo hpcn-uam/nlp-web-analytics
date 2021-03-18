@@ -1,0 +1,10 @@
+1579668468.504863834 1 www.gstatic.com www.gstatic.com 299
+1579668468.642141536 1 list.am list.am 253
+1579668468.642141536 2 list.am list.am 253
+1579668468.681808768 1 accounts.google.com accounts.google.com 68
+1579668472.340260739 1 www.list.am www.list.am 215
+1579668472.340260739 2 www.list.am www.list.am 215
+1579668475.452049456 1 <Root> rfckykpx 86395
+1579668475.452202512 1 <Root> ucgfwtfpm 86365
+1579668475.452479620 1 <Root> qyylqnttzff 86389
+1579668478.450344425 1 ssl.gstatic.com ssl.gstatic.com 136

@@ -1,0 +1,13 @@
+1579815393.327903067 1 www.gstatic.com www.gstatic.com 299
+1579815393.486806829 1 www.ingdirect.es www.ingdirect.es 3227
+1579815393.514687483 1 accounts.google.com accounts.google.com 299
+1579815397.255087100 1 ocsp.digicert.com cs9.wac.phicdn.net 19573
+1579815397.255087100 2 cs9.wac.phicdn.net ocsp.digicert.com 978
+1579815397.427509833 1 www.ing.es www.ing.es 2640
+1579815398.005217013 1 tags.tiqcdn.com cs2005.wpc.alphacdn.net 56
+1579815398.005217013 2 cs2005.wpc.alphacdn.net tags.tiqcdn.com 2405
+1579815400.271295345 1 <Root> mkxiamttnquvi 86373
+1579815400.271806881 1 <Root> irthsicibsisbua 86387
+1579815400.272108548 1 <Root> hxmzpjtn 86379
+1579815403.339959561 1 ssl.gstatic.com ssl.gstatic.com 208
+1579815407.202291083 1 update.googleapis.com update.googleapis.com 299

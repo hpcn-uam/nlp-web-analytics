@@ -1,0 +1,10 @@
+1579685610.601616543 1 www.gstatic.com www.gstatic.com 26
+1579685610.743661571 1 tvm.com.mt tvm.com.mt 299
+1579685610.743661571 2 tvm.com.mt tvm.com.mt 299
+1579685610.992748365 1 accounts.google.com accounts.google.com 299
+1579685614.386100469 1 www.tvm.com.mt www.tvm.com.mt 266
+1579685614.386100469 2 www.tvm.com.mt www.tvm.com.mt 266
+1579685617.538698420 1 <Root> emzenqogicpajbr 86397
+1579685617.539099361 1 <Root> jazmsdtwlh 86395
+1579685617.539348507 1 <Root> uxwlkcdllfq 86395
+1579685620.540544286 1 ssl.gstatic.com ssl.gstatic.com 229

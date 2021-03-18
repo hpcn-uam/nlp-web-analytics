@@ -1,0 +1,14 @@
+1580722020.768722888 1 www.gstatic.com www.gstatic.com 299
+1580722021.043285571 1 accounts.google.com accounts.google.com 223
+1580722021.054735336 1 dian.gov.co dian.gov.co 1799
+1580722021.284495872 1 google.com google.com 22
+1580722021.284525707 1 google.com google.com 206
+1580722021.927849817 1 dian.gov.co dian.gov.co 1799
+1580722026.989824363 1 dian.gov.co dian.gov.co 1518
+1580722027.026569470 1 google.com google.com 277
+1580722027.026726959 1 google.com google.com 277
+1580722027.679950782 1 <Root> tkxplxlltutpt 86397
+1580722027.680562679 1 <Root> uawpykosraoddg 86398
+1580722027.693784227 1 <Root> zxfoibzglcajua 86399
+1580722030.184020757 1 update.googleapis.com update.googleapis.com 197
+1580722030.661984398 1 ssl.gstatic.com ssl.gstatic.com 75

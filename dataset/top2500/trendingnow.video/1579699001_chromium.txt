@@ -1,0 +1,10 @@
+1579699003.482708620 1 www.gstatic.com www.gstatic.com 90
+1579699003.620864487 1 accounts.google.com accounts.google.com 44
+1579699003.624208785 1 trendingnow.video trendingnow.video 599
+1579699010.121829200 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 512
+1579699010.121829200 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 512
+1579699010.121954108 1 ubuntu.com connectivity-check.ubuntu.com 328
+1579699010.418098815 1 <Root> jvcagaibayvm 86397
+1579699010.419058313 1 <Root> catwctvdbutjf 86396
+1579699010.421652775 1 <Root> cbxbeeftxidnwj 86396
+1579699013.420515454 1 ssl.gstatic.com ssl.gstatic.com 208

@@ -1,0 +1,12 @@
+1579669793.628646817 1 www.gstatic.com www.gstatic.com 60
+1579669793.853342888 1 accounts.google.com accounts.google.com 299
+1579669794.104297129 1 bkn.go.id bkn.go.id 899
+1579669799.684594255 1 cacerts.digicert.com cdn.digicertcdn.com 654
+1579669799.684594255 2 cdn.digicertcdn.com cdn.digicertcdn.com 178
+1579669799.684594255 3 cdn.digicertcdn.com cacerts.digicert.com 178
+1579669800.586216381 1 <Root> afqxhccuzxlv 86367
+1579669800.587051210 1 <Root> sfemlmrwrbe 86398
+1579669800.588818091 1 <Root> fshmlfkdvuet 86366
+1579669800.709190401 1 www.bkn.go.id bkn.go.id 863
+1579669800.709190401 2 bkn.go.id www.bkn.go.id 899
+1579669803.586733443 1 ssl.gstatic.com ssl.gstatic.com 299

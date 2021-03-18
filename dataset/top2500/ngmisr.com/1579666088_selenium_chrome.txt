@@ -1,0 +1,13 @@
+1579666091.531688026 1 ngmisr.com ngmisr.com 299
+1579666091.531688026 2 ngmisr.com ngmisr.com 299
+1579666091.740968849 1 www.ngmisr.com www.ngmisr.com 237
+1579666091.740968849 2 www.ngmisr.com www.ngmisr.com 237
+1579666092.024212363 1 ajax.cloudflare.com ajax.cloudflare.com 230
+1579666092.024212363 2 ajax.cloudflare.com ajax.cloudflare.com 230
+1579666092.037568741 1 fonts.googleapis.com fonts.googleapis.com 234
+1579666092.164524961 1 cdn.foxpush.net cdn.foxpush.net 234
+1579666092.164524961 2 cdn.foxpush.net cdn.foxpush.net 234
+1579666092.516132143 1 pagead2.googlesyndication.com pagead46.l.doubleclick.net 299
+1579666092.516132143 2 pagead46.l.doubleclick.net pagead2.googlesyndication.com 299
+1579666092.516253668 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579666092.516253668 2 gstaticadssl.l.google.com fonts.gstatic.com 299

@@ -1,0 +1,12 @@
+1580692882.772215205 1 www.gstatic.com www.gstatic.com 299
+1580692882.946546644 1 accounts.google.com accounts.google.com 299
+1580692883.645711503 1 nta.nic.in nta.nic.in 1799
+1580692888.271479957 1 fonts.googleapis.com fonts.googleapis.com 299
+1580692888.385034672 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1580692888.385034672 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1580692889.705312499 1 <Root> xrnxhwnnk 86398
+1580692889.705523374 1 <Root> vsmohmqirttib 86388
+1580692889.705549654 1 <Root> qrlptitvccfhhm 86334
+1580692893.181026327 1 update.googleapis.com update.googleapis.com 299
+1580692894.811612620 1 ssl.gstatic.com ssl.gstatic.com 299
+1580692897.492189682 1 api.results.nic.in api.results.nic.in 1799

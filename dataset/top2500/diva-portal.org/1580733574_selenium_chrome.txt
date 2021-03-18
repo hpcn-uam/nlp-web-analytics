@@ -1,0 +1,5 @@
+1580733578.498525138 1 diva-portal.org diva-portal.org 3564
+1580733578.675118351 1 www.diva-portal.org www.diva-portal.org 3568
+1580733590.454964442 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 523
+1580733590.454964442 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 523
+1580733590.455045475 1 ubuntu.com connectivity-check.ubuntu.com 1777

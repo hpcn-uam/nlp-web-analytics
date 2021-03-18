@@ -1,0 +1,13 @@
+1580712286.958687287 1 www.gstatic.com www.gstatic.com 299
+1580712287.075441560 1 gd.gov.cn gd.gov.cn 368
+1580712287.075441560 2 gd.gov.cn gd.gov.cn 368
+1580712287.117459864 1 accounts.google.com accounts.google.com 299
+1580712290.448755062 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 263
+1580712290.448755062 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 263
+1580712290.448840889 1 ubuntu.com connectivity-check.ubuntu.com 288
+1580712292.731156858 1 www.gstatic.com www.gstatic.com 299
+1580712293.891118915 1 <Root> zdeotjctywukc 86388
+1580712293.891921144 1 <Root> wmnzdcljyflmmio 86391
+1580712293.891979660 1 <Root> xkkvankgm 86394
+1580712296.874166264 1 ssl.gstatic.com ssl.gstatic.com 246
+1580712301.523154825 1 update.googleapis.com update.googleapis.com 299

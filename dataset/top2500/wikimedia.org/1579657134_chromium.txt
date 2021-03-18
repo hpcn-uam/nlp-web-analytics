@@ -1,0 +1,17 @@
+1579657135.950033462 1 www.gstatic.com www.gstatic.com 160
+1579657136.111339363 1 wikimedia.org wikimedia.org 599
+1579657136.118765324 1 accounts.google.com accounts.google.com 124
+1579657136.573672863 1 www.wikimedia.org dyna.wikimedia.org 21553
+1579657136.573672863 2 dyna.wikimedia.org www.wikimedia.org 567
+1579657136.765699350 1 meta.wikimedia.org dyna.wikimedia.org 5883
+1579657136.765699350 2 dyna.wikimedia.org meta.wikimedia.org 599
+1579657136.784884184 1 upload.wikimedia.org upload.wikimedia.org 568
+1579657136.801953992 1 commons.wikimedia.org dyna.wikimedia.org 21525
+1579657136.801953992 2 dyna.wikimedia.org commons.wikimedia.org 599
+1579657137.132892472 1 foundation.wikimedia.org dyna.wikimedia.org 21593
+1579657137.132892472 2 dyna.wikimedia.org foundation.wikimedia.org 599
+1579657142.896631119 1 <Root> ecmmklruu 86380
+1579657142.896704926 1 <Root> jpuvycmnxrutdl 86363
+1579657142.897981073 1 <Root> xfyyddxfe 86387
+1579657145.897402157 1 ssl.gstatic.com ssl.gstatic.com 48
+1579657147.724873727 1 update.googleapis.com update.googleapis.com 213

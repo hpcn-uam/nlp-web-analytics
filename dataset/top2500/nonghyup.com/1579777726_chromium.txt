@@ -1,0 +1,9 @@
+1579777727.977601888 1 www.gstatic.com www.gstatic.com 112
+1579777728.280359133 1 accounts.google.com accounts.google.com 299
+1579777728.485494888 1 nonghyup.com nonghyup.com 299
+1579777736.881240489 1 update.googleapis.com update.googleapis.com 8
+1579777738.466218694 1 <Root> goyxrozaanwvc 86398
+1579777738.467293831 1 <Root> enyvkuxrk 86389
+1579777738.468055033 1 <Root> evbnjayw 86398
+1579777738.523875881 1 ssl.gstatic.com ssl.gstatic.com 299
+1579777742.168363777 1 translate.googleapis.com translate.googleapis.com 299

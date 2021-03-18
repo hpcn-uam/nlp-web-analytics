@@ -1,0 +1,17 @@
+1580657953.734679456 1 pusan.ac.kr pusan.ac.kr 2209
+1580657955.133175073 1 www.pusan.ac.kr www.pusan.ac.kr 3599
+1580657960.412281094 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580657960.412281094 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580657961.121017679 1 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net 36
+1580657961.121017679 2 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 99
+1580657961.121017679 3 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 99
+1580657961.121017679 4 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 99
+1580657961.121017679 5 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 99
+1580657961.121017679 6 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net 99
+1580657965.165629649 1 www.googleapis.com www.googleapis.com 299
+1580657965.168981812 1 graph.facebook.com api.facebook.com 2725
+1580657965.168981812 2 api.facebook.com star.c10r.facebook.com 3063
+1580657965.168981812 3 star.c10r.facebook.com graph.facebook.com 59
+1580657975.286013106 1 www.google-analytics.com www-google-analytics.l.google.com 21522
+1580657975.286013106 2 www-google-analytics.l.google.com www.google-analytics.com 222
+1580657975.286188523 1 i.ytimg.com i.ytimg.com 222

@@ -1,0 +1,14 @@
+1580724193.598719486 1 www.gstatic.com www.gstatic.com 107
+1580724193.688955004 1 ac-bordeaux.fr ac-bordeaux.fr 567
+1580724193.762149429 1 accounts.google.com accounts.google.com 13
+1580724193.911115263 1 ac-bordeaux.fr ac-bordeaux.fr 599
+1580724194.174563250 1 google.com google.com 299
+1580724194.575036815 1 ac-bordeaux.fr ac-bordeaux.fr 599
+1580724199.157463389 1 update.googleapis.com update.googleapis.com 129
+1580724199.655139761 1 ac-bordeaux.fr ac-bordeaux.fr 561
+1580724199.699338835 1 google.com google.com 287
+1580724199.699996686 1 google.com google.com 294
+1580724200.515181329 1 <Root> rgzpesgpdgh 86388
+1580724200.517287597 1 <Root> rwldoiyvelpgzl 86393
+1580724200.518472362 1 <Root> pvozkyh 86384
+1580724203.519674615 1 ssl.gstatic.com ssl.gstatic.com 37

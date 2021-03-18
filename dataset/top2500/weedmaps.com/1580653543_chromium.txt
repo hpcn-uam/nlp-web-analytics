@@ -1,0 +1,11 @@
+1580653545.145758058 1 www.gstatic.com www.gstatic.com 299
+1580653545.316064257 1 weedmaps.com weedmaps.com 59
+1580653545.316064257 2 weedmaps.com weedmaps.com 59
+1580653545.316064257 3 weedmaps.com weedmaps.com 59
+1580653545.316064257 4 weedmaps.com weedmaps.com 59
+1580653545.341814814 1 accounts.google.com accounts.google.com 299
+1580653554.548889370 1 <Root> wzloxcvahehapim 86396
+1580653554.549756268 1 <Root> fagbsibfntytvc 86393
+1580653554.550649241 1 <Root> mqpljtrxhg 86382
+1580653554.551288823 1 update.googleapis.com update.googleapis.com 299
+1580653555.089434584 1 ssl.gstatic.com ssl.gstatic.com 299

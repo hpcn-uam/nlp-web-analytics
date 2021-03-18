@@ -1,0 +1,17 @@
+1579763580.709738498 1 www.gstatic.com www.gstatic.com 299
+1579763580.847882796 1 ubuntuforums.org ubuntuforums.org 94
+1579763580.847882796 2 ubuntuforums.org ubuntuforums.org 94
+1579763580.881321307 1 accounts.google.com accounts.google.com 203
+1579763584.914543484 1 fonts.googleapis.com fonts.googleapis.com 265
+1579763585.010791292 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579763585.010791292 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579763585.118808230 1 www.googletagmanager.com www-googletagmanager.l.google.com 21564
+1579763585.118808230 2 www-googletagmanager.l.google.com www.googletagmanager.com 264
+1579763585.431405213 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579763585.431405213 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579763585.470999955 1 translate.googleapis.com translate.googleapis.com 299
+1579763587.630062730 1 <Root> djfaekpqpvhmzxa 86392
+1579763587.630505091 1 <Root> jlvdjov 86378
+1579763587.631472593 1 <Root> jpqsipokkr 86396
+1579763590.630283333 1 ssl.gstatic.com ssl.gstatic.com 299
+1579763595.194159515 1 update.googleapis.com update.googleapis.com 299

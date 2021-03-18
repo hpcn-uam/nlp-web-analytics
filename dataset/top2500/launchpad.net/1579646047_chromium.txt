@@ -1,0 +1,13 @@
+1579646048.644275699 1 www.gstatic.com www.gstatic.com 145
+1579646048.778201593 1 launchpad.net launchpad.net 535
+1579646048.778201593 2 launchpad.net launchpad.net 535
+1579646048.814130908 1 accounts.google.com accounts.google.com 203
+1579646052.975948231 1 launchpadlibrarian.net launchpadlibrarian.net 25
+1579646052.975948231 2 launchpadlibrarian.net launchpadlibrarian.net 25
+1579646053.406632737 1 clients1.google.com clients.l.google.com 20
+1579646053.406632737 2 clients.l.google.com clients1.google.com 20
+1579646055.602258228 1 update.googleapis.com update.googleapis.com 119
+1579646055.606958419 1 <Root> ggmrbqwyc 86394
+1579646055.607173081 1 <Root> colwpwg 86396
+1579646055.608023150 1 <Root> paubanzs 86391
+1579646058.743308320 1 ssl.gstatic.com ssl.gstatic.com 147

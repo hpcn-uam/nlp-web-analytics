@@ -1,0 +1,15 @@
+1579741341.517478271 1 www.gstatic.com www.gstatic.com 299
+1579741341.658402000 1 publicisgroupe.net publicisgroupe.net 420
+1579741341.691293577 1 accounts.google.com accounts.google.com 299
+1579741342.184152070 1 publicisgroupe.net publicisgroupe.net 899
+1579741342.341735113 1 google.com google.com 299
+1579741342.343318585 1 google.com google.com 299
+1579741342.676083591 1 publicisgroupe.net publicisgroupe.net 899
+1579741347.755006497 1 publicisgroupe.net publicisgroupe.net 125
+1579741347.797095131 1 google.com google.com 299
+1579741347.797331351 1 google.com google.com 299
+1579741348.450138112 1 <Root> dfrvusjvqqotkm 86396
+1579741348.450196333 1 <Root> vtjwaxm 86374
+1579741348.450512443 1 <Root> xlfyanbe 86385
+1579741350.172031518 1 update.googleapis.com update.googleapis.com 299
+1579741351.451107368 1 ssl.gstatic.com ssl.gstatic.com 20

@@ -1,0 +1,10 @@
+1580674123.499381051 1 www.gstatic.com www.gstatic.com 202
+1580674123.687771812 1 wallethub.com wallethub.com 267
+1580674123.687771812 2 wallethub.com wallethub.com 267
+1580674123.726834244 1 accounts.google.com accounts.google.com 299
+1580674127.750841230 1 translate.googleapis.com translate.googleapis.com 107
+1580674130.433787626 1 <Root> qbkfpfyfacehqd 86398
+1580674130.434581332 1 <Root> kzcvazbzwuk 86367
+1580674130.435403522 1 <Root> rjixedogijwdc 86390
+1580674133.441297574 1 ssl.gstatic.com ssl.gstatic.com 299
+1580674140.899210234 1 update.googleapis.com update.googleapis.com 16

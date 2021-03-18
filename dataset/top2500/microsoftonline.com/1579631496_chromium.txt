@@ -1,0 +1,11 @@
+1579631498.066827880 1 www.gstatic.com www.gstatic.com 299
+1579631498.193524171 1 microsoftonline.com microsoftonline.com 3070
+1579631498.193524171 2 microsoftonline.com microsoftonline.com 3070
+1579631498.248725371 1 accounts.google.com accounts.google.com 51
+1579631505.006481224 1 <Root> xhtockcafkxpkdl 86373
+1579631505.007899173 1 <Root> mikdpchokm 86397
+1579631505.008088540 1 <Root> vtztcndvwdijz 86397
+1579631508.007209205 1 ssl.gstatic.com ssl.gstatic.com 202
+1579631510.126413508 1 ubuntu.com connectivity-check.ubuntu.com 196
+1579631510.126518743 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 281
+1579631510.126518743 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 281

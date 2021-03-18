@@ -1,0 +1,17 @@
+1579752960.833237740 1 www.gstatic.com www.gstatic.com 299
+1579752961.008536632 1 accounts.google.com accounts.google.com 299
+1579752961.152732189 1 web2edu.ru web2edu.ru 21599
+1579752966.034500802 1 i.web2edu.ru i.web2edu.ru 21564
+1579752966.163739387 1 s.web2edu.ru s.web2edu.ru 21599
+1579752967.169196910 1 files.web2edu.ru files.web2edu.ru 21599
+1579752967.391349261 1 translate.googleapis.com translate.googleapis.com 299
+1579752967.520436370 1 stats.g.doubleclick.net stats.l.doubleclick.net 21401
+1579752967.520436370 2 stats.l.doubleclick.net stats.l.doubleclick.net 101
+1579752967.520436370 3 stats.l.doubleclick.net stats.l.doubleclick.net 101
+1579752967.520436370 4 stats.l.doubleclick.net stats.l.doubleclick.net 101
+1579752967.520436370 5 stats.l.doubleclick.net stats.g.doubleclick.net 101
+1579752967.763254264 1 <Root> ngtdeiqaahoor 86370
+1579752967.763861692 1 <Root> mhtfxmdnsmf 86397
+1579752967.764213002 1 <Root> ruqsehohcgfs 86393
+1579752970.767209812 1 ssl.gstatic.com ssl.gstatic.com 299
+1579752981.418953746 1 update.googleapis.com update.googleapis.com 125

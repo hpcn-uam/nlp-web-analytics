@@ -1,0 +1,16 @@
+1579787095.384897209 1 www.gstatic.com www.gstatic.com 299
+1579787095.384925423 1 www.gstatic.com www.gstatic.com 134
+1579787095.538804982 1 accounts.google.com accounts.google.com 299
+1579787095.546263403 1 marketodesigner.com marketodesigner.com 21599
+1579787099.540774061 1 use.typekit.net use.typekit.net-v3.edgekey.net 41
+1579787099.540774061 2 use.typekit.net-v3.edgekey.net e6653.f.akamaiedge.net 129
+1579787099.540774061 3 e6653.f.akamaiedge.net use.typekit.net 19
+1579787099.942749397 1 translate.googleapis.com translate.googleapis.com 299
+1579787099.948954519 1 www.marketo.com live.mktoapps.com 326
+1579787099.948954519 2 live.mktoapps.com live.mktoapps.com 299
+1579787099.948954519 3 live.mktoapps.com www.marketo.com 299
+1579787102.236288548 1 <Root> blkbkwsnoev 86398
+1579787102.238273991 1 <Root> ppuffyjrfos 86398
+1579787102.239894697 1 <Root> iowehdhrrjbvbef 86393
+1579787105.238729432 1 ssl.gstatic.com ssl.gstatic.com 299
+1579787108.433040623 1 update.googleapis.com update.googleapis.com 209

@@ -1,0 +1,15 @@
+1580647633.328882484 1 www.gstatic.com www.gstatic.com 299
+1580647633.476983026 1 kent.edu kent.edu 430
+1580647633.568340642 1 accounts.google.com accounts.google.com 299
+1580647633.702084694 1 kent.edu kent.edu 786
+1580647633.986531173 1 google.com google.com 299
+1580647633.987153330 1 google.com google.com 299
+1580647634.266720247 1 kent.edu kent.edu 899
+1580647639.583971458 1 update.googleapis.com update.googleapis.com 69
+1580647639.601956589 1 kent.edu kent.edu 894
+1580647639.641522282 1 google.com google.com 293
+1580647639.641568082 1 google.com google.com 293
+1580647640.241253533 1 <Root> salalbjhrdt 86366
+1580647640.241361170 1 <Root> bslldzc 86395
+1580647640.242517700 1 <Root> umenzcmawtapxym 86370
+1580647643.245027742 1 ssl.gstatic.com ssl.gstatic.com 299

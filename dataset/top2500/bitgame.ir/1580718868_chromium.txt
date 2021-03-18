@@ -1,0 +1,16 @@
+1580718870.600819567 1 www.gstatic.com www.gstatic.com 291
+1580718870.752742131 1 bitgame.ir bitgame.ir 21567
+1580718870.776166833 1 accounts.google.com accounts.google.com 106
+1580718874.489484464 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580718874.489484464 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580718874.840621654 1 translate.googleapis.com translate.googleapis.com 299
+1580718874.861391950 1 www.softiran.org www.softiran.org 21566
+1580718874.892471104 1 up44.ir up44.ir 21599
+1580718877.548387842 1 <Root> hfmnyllmmvv 86398
+1580718877.548858380 1 <Root> waxpcwlm 86397
+1580718877.549295110 1 <Root> aawldxtn 86395
+1580718880.548865867 1 ssl.gstatic.com ssl.gstatic.com 145
+1580718886.442036818 1 update.googleapis.com update.googleapis.com 299
+1580718890.450261464 1 ubuntu.com connectivity-check.ubuntu.com 292
+1580718890.450364485 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 248
+1580718890.450364485 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 248

@@ -1,0 +1,7 @@
+1579661319.642885236 1 uupload.ir uupload.ir 216
+1579661320.369182405 1 www.googletagmanager.com www-googletagmanager.l.google.com 21504
+1579661320.369182405 2 www-googletagmanager.l.google.com www.googletagmanager.com 204
+1579661320.369236590 1 cdn.yektanet.com cdn.yektanet.com 130
+1579661320.369236590 2 cdn.yektanet.com cdn.yektanet.com 130
+1579661320.677212740 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579661320.677212740 2 www-google-analytics.l.google.com www.google-analytics.com 299

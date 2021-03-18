@@ -1,0 +1,13 @@
+1579826529.903933704 1 www.gstatic.com www.gstatic.com 299
+1579826530.058159897 1 www.whatsapp.com mmx-ds.cdn.whatsapp.net 3539
+1579826530.058159897 2 mmx-ds.cdn.whatsapp.net www.whatsapp.com 38
+1579826530.085719968 1 accounts.google.com accounts.google.com 299
+1579826530.828523752 1 static.whatsapp.net mmx-ds.cdn.whatsapp.net 1516
+1579826530.828523752 2 mmx-ds.cdn.whatsapp.net static.whatsapp.net 59
+1579826532.006642250 1 www.facebook.com star-mini.c10r.facebook.com 3173
+1579826532.006642250 2 star-mini.c10r.facebook.com www.facebook.com 50
+1579826536.845556809 1 <Root> klvjkkrwub 86383
+1579826536.845827706 1 <Root> ygidczmcjqybag 86395
+1579826536.846064827 1 <Root> ntobyuelld 86360
+1579826539.849416814 1 ssl.gstatic.com ssl.gstatic.com 208
+1579826546.018727287 1 update.googleapis.com update.googleapis.com 299

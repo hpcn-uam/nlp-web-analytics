@@ -1,0 +1,6 @@
+1579669829.042952677 1 bkn.go.id bkn.go.id 899
+1579669830.834660379 1 cacerts.digicert.com cdn.digicertcdn.com 692
+1579669830.834660379 2 cdn.digicertcdn.com cdn.digicertcdn.com 92
+1579669830.834660379 3 cdn.digicertcdn.com cacerts.digicert.com 92
+1579669832.246333673 1 www.bkn.go.id bkn.go.id 831
+1579669832.246333673 2 bkn.go.id www.bkn.go.id 831

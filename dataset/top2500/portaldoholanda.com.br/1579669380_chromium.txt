@@ -1,0 +1,8 @@
+1579669382.207910398 1 www.gstatic.com www.gstatic.com 116
+1579669382.315008735 1 portaldoholanda.com.br portaldoholanda.com.br 299
+1579669382.315008735 2 portaldoholanda.com.br portaldoholanda.com.br 299
+1579669382.356463783 1 accounts.google.com accounts.google.com 299
+1579669389.150503758 1 <Root> agcsvwoalypzhe 86390
+1579669389.150615269 1 <Root> jlhweoiocuvgoeh 86383
+1579669389.150647398 1 <Root> fpznpaj 86381
+1579669392.151084807 1 ssl.gstatic.com ssl.gstatic.com 299

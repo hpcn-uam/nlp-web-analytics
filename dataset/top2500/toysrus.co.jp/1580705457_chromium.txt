@@ -1,0 +1,14 @@
+1580705459.383694473 1 www.gstatic.com www.gstatic.com 180
+1580705459.702304889 1 accounts.google.com accounts.google.com 181
+1580705460.109028751 1 toysrus.co.jp toysrus.co.jp 1799
+1580705460.231568782 1 google.com google.com 299
+1580705460.231928296 1 google.com google.com 299
+1580705460.661485920 1 toysrus.co.jp toysrus.co.jp 1799
+1580705465.747647122 1 toysrus.co.jp toysrus.co.jp 1794
+1580705465.791432530 1 google.com google.com 294
+1580705465.792863693 1 google.com google.com 299
+1580705466.330443788 1 <Root> kttrujcbmy 86397
+1580705466.330636003 1 <Root> aakemmvcuphoguo 86392
+1580705466.332345955 1 <Root> jbbwvwaeelodiy 86305
+1580705468.972119924 1 update.googleapis.com update.googleapis.com 299
+1580705469.333478048 1 ssl.gstatic.com ssl.gstatic.com 299

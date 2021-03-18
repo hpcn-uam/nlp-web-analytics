@@ -1,0 +1,11 @@
+1580804169.671528478 1 www.gstatic.com www.gstatic.com 155
+1580804169.847854181 1 www.primeralinea.es www.grupozeta.es.edgesuite.net 799
+1580804169.847854181 2 www.grupozeta.es.edgesuite.net a1726.g1.akamai.net 21499
+1580804169.847854181 3 a1726.g1.akamai.net a1726.g1.akamai.net 19
+1580804169.847854181 4 a1726.g1.akamai.net www.primeralinea.es 19
+1580804169.953243952 1 accounts.google.com accounts.google.com 299
+1580804176.628349115 1 <Root> doxxhypy 86398
+1580804176.630397873 1 <Root> ixxxnuqalqzgwsf 86398
+1580804176.632235514 1 <Root> kktfrwmh 86396
+1580804179.630139561 1 ssl.gstatic.com ssl.gstatic.com 285
+1580804184.604210553 1 update.googleapis.com update.googleapis.com 299

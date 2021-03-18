@@ -1,0 +1,16 @@
+1580641381.909415656 1 www.gstatic.com www.gstatic.com 299
+1580641382.153609787 1 montre-pour-femmes.myshopify.com shops.myshopify.com 3599
+1580641382.153609787 2 shops.myshopify.com montre-pour-femmes.myshopify.com 1799
+1580641382.165191555 1 accounts.google.com accounts.google.com 299
+1580641382.929157165 1 cdn.shopify.com cdn.tm.shopifysvc.com 2945
+1580641382.929157165 2 cdn.tm.shopifysvc.com dualstack.shopify.map.fastly.net 14
+1580641382.929157165 3 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1580641382.929157165 4 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1580641382.929157165 5 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1580641382.929157165 6 dualstack.shopify.map.fastly.net cdn.shopify.com 29
+1580641383.305819984 1 translate.googleapis.com translate.googleapis.com 299
+1580641389.081232626 1 update.googleapis.com update.googleapis.com 114
+1580641390.654409436 1 <Root> rajtplbb 86346
+1580641390.654472818 1 <Root> wnwnxglyx 86391
+1580641390.655202149 1 <Root> qevfwhjgjaaj 86396
+1580641391.857765169 1 ssl.gstatic.com ssl.gstatic.com 299

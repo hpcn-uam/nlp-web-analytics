@@ -1,0 +1,14 @@
+1580689039.926420798 1 www.gstatic.com www.gstatic.com 299
+1580689040.098027771 1 xn--90adear.xn--p1ai xn--90adear.xn--p1ai 6248
+1580689040.098027771 2 xn--90adear.xn--p1ai xn--90adear.xn--p1ai 6248
+1580689040.227429604 1 accounts.google.com accounts.google.com 299
+1580689045.172148508 1 clients1.google.com clients.l.google.com 299
+1580689045.172148508 2 clients.l.google.com clients1.google.com 299
+1580689045.182851528 1 stat.sputnik.ru stat.sputnik.ru 899
+1580689045.203956190 1 translate.googleapis.com translate.googleapis.com 299
+1580689045.821158917 1 cnt.sputnik.ru cnt.sputnik.ru 899
+1580689046.841280117 1 <Root> wxnxfyrdrwdpo 86390
+1580689046.841652278 1 <Root> edhxcwhhmm 86393
+1580689046.841831281 1 <Root> siwsrjooz 86382
+1580689049.841660864 1 ssl.gstatic.com ssl.gstatic.com 131
+1580689057.951641940 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579713050.806764573 1 pertanian.go.id pertanian.go.id 865
+1579713050.806764573 2 pertanian.go.id pertanian.go.id 865
+1579713055.183441212 1 fonts.googleapis.com fonts.googleapis.com 71
+1579713056.658663282 1 fonts.gstatic.com gstaticadssl.l.google.com 231
+1579713056.658663282 2 gstaticadssl.l.google.com fonts.gstatic.com 231
+1579713077.427306065 1 s7.addthis.com s8.addthis.com 39
+1579713077.427306065 2 s8.addthis.com ds-s7.addthis.com.edgekey.net 40
+1579713077.427306065 3 ds-s7.addthis.com.edgekey.net e3615.a.akamaiedge.net 158
+1579713077.427306065 4 e3615.a.akamaiedge.net s7.addthis.com 19
+1579713077.473359678 1 translate.google.com www3.l.google.com 21599
+1579713077.473359678 2 www3.l.google.com translate.google.com 299
+1579713077.580329342 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579713077.580329342 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579713078.095893158 1 platform.twitter.com platform.twitter.map.fastly.net 18
+1579713078.095893158 2 platform.twitter.map.fastly.net platform.twitter.com 29

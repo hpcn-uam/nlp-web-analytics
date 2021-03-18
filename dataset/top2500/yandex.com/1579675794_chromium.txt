@@ -1,0 +1,15 @@
+1579675795.654474251 1 www.gstatic.com www.gstatic.com 299
+1579675795.811073599 1 yandex.com yandex.com 599
+1579675795.905497617 1 accounts.google.com accounts.google.com 299
+1579675796.413372585 1 yastatic.net yastatic.net 515
+1579675796.413372585 2 yastatic.net yastatic.net 515
+1579675796.413372585 3 yastatic.net yastatic.net 515
+1579675796.474929769 1 mc.yandex.ru mc.yandex.ru 235
+1579675796.474929769 2 mc.yandex.ru mc.yandex.ru 235
+1579675796.474929769 3 mc.yandex.ru mc.yandex.ru 235
+1579675796.474929769 4 mc.yandex.ru mc.yandex.ru 235
+1579675802.577565449 1 <Root> dckzktkldzrr 86382
+1579675802.577612416 1 <Root> drmrufsbhtidig 86384
+1579675802.578374403 1 <Root> ytkrusywsuttdg 86398
+1579675807.221536227 1 update.googleapis.com update.googleapis.com 299
+1579675807.238888494 1 ssl.gstatic.com ssl.gstatic.com 201

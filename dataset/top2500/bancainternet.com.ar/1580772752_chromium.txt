@@ -1,0 +1,14 @@
+1580772753.679362455 1 www.gstatic.com www.gstatic.com 299
+1580772753.930701425 1 accounts.google.com accounts.google.com 299
+1580772754.240150498 1 bancainternet.com.ar bancainternet.com.ar 1799
+1580772754.442585186 1 google.com google.com 273
+1580772754.444198174 1 google.com google.com 299
+1580772754.889018079 1 bancainternet.com.ar bancainternet.com.ar 1799
+1580772760.137689071 1 update.googleapis.com update.googleapis.com 299
+1580772760.415465896 1 bancainternet.com.ar bancainternet.com.ar 1799
+1580772760.462835543 1 google.com google.com 299
+1580772760.463353964 1 google.com google.com 299
+1580772760.583027705 1 <Root> ecwcyemj 86395
+1580772760.584930563 1 <Root> cotgaygda 86385
+1580772760.587004310 1 <Root> hznueyrjq 86387
+1580772763.585728399 1 ssl.gstatic.com ssl.gstatic.com 299

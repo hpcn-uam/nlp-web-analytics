@@ -1,0 +1,12 @@
+1579704933.575017265 1 www.gstatic.com www.gstatic.com 111
+1579704933.721697262 1 fazenda.gov.br fazenda.gov.br 23
+1579704933.755419946 1 accounts.google.com accounts.google.com 299
+1579704934.424152282 1 barra.brasil.gov.br barra.brasil.gov.br 2485
+1579704934.435784942 1 connect.facebook.net scontent.xx.fbcdn.net 3247
+1579704934.435784942 2 scontent.xx.fbcdn.net connect.facebook.net 53
+1579704934.589095054 1 apis.google.com plus.l.google.com 21411
+1579704934.589095054 2 plus.l.google.com apis.google.com 147
+1579704940.518105848 1 <Root> cejxlohdmer 86394
+1579704940.518371813 1 <Root> mtasytstydzzgy 86391
+1579704940.542834454 1 <Root> zwjrjmj 86399
+1579704943.498330113 1 ssl.gstatic.com ssl.gstatic.com 82

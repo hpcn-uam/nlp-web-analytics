@@ -1,0 +1,8 @@
+1580728918.197964623 1 www.gstatic.com www.gstatic.com 299
+1580728918.370542883 1 accounts.google.com accounts.google.com 209
+1580728918.469409023 1 walmartmexico.com.mx walmartmexico.com.mx 3599
+1580728925.126577999 1 <Root> qwdektsy 86384
+1580728925.127672266 1 <Root> yeiftegha 86385
+1580728925.129101878 1 <Root> umsaqbbhwxb 86393
+1580728928.127168901 1 ssl.gstatic.com ssl.gstatic.com 274
+1580728941.382012082 1 update.googleapis.com update.googleapis.com 299

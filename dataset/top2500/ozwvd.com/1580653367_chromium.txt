@@ -1,0 +1,15 @@
+1580653369.331674469 1 www.gstatic.com www.gstatic.com 95
+1580653369.556481269 1 ozwvd.com ozwvd.com 1799
+1580653369.602274230 1 accounts.google.com accounts.google.com 299
+1580653369.797687400 1 ozwvd.com ozwvd.com 683
+1580653370.008893340 1 google.com google.com 216
+1580653370.009803253 1 google.com google.com 299
+1580653370.316689127 1 ozwvd.com ozwvd.com 1766
+1580653375.417221152 1 ozwvd.com ozwvd.com 1799
+1580653375.461981237 1 google.com google.com 299
+1580653375.462049626 1 google.com google.com 299
+1580653376.248310833 1 <Root> sacmynnoak 86369
+1580653376.252549487 1 <Root> cvlxjoykoscdcei 86393
+1580653376.254718893 1 <Root> ctnwzedcwp 86396
+1580653377.837807827 1 update.googleapis.com update.googleapis.com 299
+1580653379.251393962 1 ssl.gstatic.com ssl.gstatic.com 100

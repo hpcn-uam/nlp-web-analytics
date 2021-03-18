@@ -1,0 +1,15 @@
+1580753115.260586187 1 www.gstatic.com www.gstatic.com 200
+1580753115.417016967 1 cronruph.info cronruph.info 1799
+1580753115.485375857 1 accounts.google.com accounts.google.com 299
+1580753115.783976297 1 cronruph.info cronruph.info 1767
+1580753115.987310065 1 google.com google.com 299
+1580753115.987532436 1 google.com google.com 299
+1580753116.226347806 1 cronruph.info cronruph.info 1766
+1580753121.310757833 1 cronruph.info cronruph.info 1799
+1580753121.333260363 1 google.com google.com 293
+1580753121.352048093 1 google.com google.com 293
+1580753122.201113801 1 <Root> azmrmmgkz 86393
+1580753122.201468656 1 <Root> sznpboxipul 86386
+1580753122.202417933 1 <Root> eiwgmftvftxbvv 86396
+1580753125.202196718 1 ssl.gstatic.com ssl.gstatic.com 57
+1580753127.738826714 1 update.googleapis.com update.googleapis.com 112

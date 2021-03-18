@@ -1,0 +1,16 @@
+1579740133.545029871 1 www.gstatic.com www.gstatic.com 299
+1579740133.747144109 1 gisher.org gisher.org 299
+1579740133.747144109 2 gisher.org gisher.org 299
+1579740133.803708893 1 accounts.google.com accounts.google.com 299
+1579740137.807610210 1 www.google.com www.google.com 299
+1579740137.835623611 1 translate.googleapis.com translate.googleapis.com 299
+1579740137.915589992 1 www.gstatic.com www.gstatic.com 299
+1579740138.349536811 1 clients1.google.com clients.l.google.com 299
+1579740138.349536811 2 clients.l.google.com clients1.google.com 299
+1579740138.467820137 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579740138.467820137 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579740140.481560418 1 <Root> ytbfwbqhqb 86330
+1579740140.482856899 1 <Root> mjnduaeedhwbu 86398
+1579740140.485165591 1 <Root> lxunltdbdgcau 86354
+1579740143.484274572 1 ssl.gstatic.com ssl.gstatic.com 203
+1579740146.440345412 1 update.googleapis.com update.googleapis.com 233

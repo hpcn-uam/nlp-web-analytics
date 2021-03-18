@@ -1,0 +1,12 @@
+1579769335.532600852 1 www.gstatic.com www.gstatic.com 299
+1579769335.685695925 1 qwant.com qwant.com 21599
+1579769335.694351950 1 accounts.google.com accounts.google.com 191
+1579769336.228730385 1 www.qwant.com www.qwant.com 17639
+1579769337.226632596 1 api.qwant.com api.qwant.com 12460
+1579769337.721909347 1 clients1.google.com clients.l.google.com 299
+1579769337.721909347 2 clients.l.google.com clients1.google.com 299
+1579769342.472627917 1 <Root> ycayphxwwgt 86388
+1579769342.476697843 1 <Root> vvcykprtfrujk 86390
+1579769342.480264980 1 <Root> pmofixsuqzlc 86396
+1579769347.178703119 1 update.googleapis.com update.googleapis.com 299
+1579769348.790865490 1 ssl.gstatic.com ssl.gstatic.com 50

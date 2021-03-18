@@ -1,0 +1,7 @@
+1579711141.831773616 1 www.gstatic.com www.gstatic.com 185
+1579711141.942539531 1 tci.ir tci.ir 2222
+1579711142.035618965 1 accounts.google.com accounts.google.com 299
+1579711148.771516399 1 <Root> gtdegwwkrtxck 86390
+1579711148.773021238 1 <Root> osloffifr 86391
+1579711148.775172690 1 <Root> adbgfexduliziq 86393
+1579711151.773804678 1 ssl.gstatic.com ssl.gstatic.com 206

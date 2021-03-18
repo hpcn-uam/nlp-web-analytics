@@ -1,0 +1,12 @@
+1579627762.485110215 1 www.gstatic.com www.gstatic.com 299
+1579627762.618190045 1 sendgrid.net sendgrid.net 53
+1579627762.618190045 2 sendgrid.net sendgrid.net 53
+1579627762.762180193 1 accounts.google.com accounts.google.com 236
+1579627769.428527724 1 <Root> flqbasnyvmfhyk 86386
+1579627769.429977636 1 <Root> bjwjndelooobs 86395
+1579627769.430192997 1 <Root> zaubkkperwiwwx 86397
+1579627772.432321937 1 ssl.gstatic.com ssl.gstatic.com 239
+1579627779.004353732 1 update.googleapis.com update.googleapis.com 299
+1579627790.457310489 1 ubuntu.com connectivity-check.ubuntu.com 887
+1579627790.463037029 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 404
+1579627790.463037029 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 404

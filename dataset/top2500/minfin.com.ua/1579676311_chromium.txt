@@ -1,0 +1,8 @@
+1579676313.297030321 1 www.gstatic.com www.gstatic.com 299
+1579676313.441462534 1 minfin.com.ua minfin.com.ua 299
+1579676313.441462534 2 minfin.com.ua minfin.com.ua 299
+1579676313.458115276 1 accounts.google.com accounts.google.com 96
+1579676320.233769982 1 <Root> pyuxxzkza 86396
+1579676320.235333548 1 <Root> bkoizjrzshw 86397
+1579676320.235730049 1 <Root> onkchglmlcp 86396
+1579676323.236304957 1 ssl.gstatic.com ssl.gstatic.com 299

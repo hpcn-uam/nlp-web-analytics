@@ -1,0 +1,11 @@
+1579715324.172635989 1 www.gstatic.com www.gstatic.com 299
+1579715324.406936042 1 accounts.google.com accounts.google.com 299
+1579715324.462909554 1 sarsefiling.co.za sarsefiling.co.za 21599
+1579715329.204945678 1 www.sarsefiling.co.za www.sarsefiling.co.za 21599
+1579715331.028846261 1 <Root> obtkqnzflhiurs 86381
+1579715331.029130607 1 <Root> lgyqeheyuxkpcey 86389
+1579715331.030174314 1 <Root> hfyziizbrlt 86391
+1579715332.036506936 1 www.sars.gov.za www.sars.gov.za 21345
+1579715332.895998600 1 translate.googleapis.com translate.googleapis.com 299
+1579715334.033720098 1 ssl.gstatic.com ssl.gstatic.com 299
+1579715339.746734347 1 update.googleapis.com update.googleapis.com 299

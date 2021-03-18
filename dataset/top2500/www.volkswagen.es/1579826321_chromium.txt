@@ -1,0 +1,16 @@
+1579826322.917208635 1 www.gstatic.com www.gstatic.com 299
+1579826323.061212997 1 www.volkswagen.es live.vwng.lighthouselabs.eu 89
+1579826323.061212997 2 live.vwng.lighthouselabs.eu cs1.wac.etacdn.net 301
+1579826323.061212997 3 cs1.wac.etacdn.net www.volkswagen.es 3599
+1579826323.138557948 1 accounts.google.com accounts.google.com 299
+1579826326.985168805 1 tam.volkswagen.com vwd6.edge.nc0.co 1003
+1579826326.985168805 2 vwd6.edge.nc0.co edge-geo.nc0.co 588
+1579826326.985168805 3 edge-geo.nc0.co tam.volkswagen.com 85
+1579826327.011043659 1 s7g10.scene7.com wildcard.scene7.com.edgekey.net 1295
+1579826327.011043659 2 wildcard.scene7.com.edgekey.net e2486.dscg.akamaiedge.net 10167
+1579826327.011043659 3 e2486.dscg.akamaiedge.net s7g10.scene7.com 19
+1579826329.860790354 1 <Root> udcmlekogtguiwg 86391
+1579826329.860959760 1 <Root> gfretfedeghfo 86397
+1579826329.861462208 1 <Root> ekicscxany 86366
+1579826332.876711221 1 ssl.gstatic.com ssl.gstatic.com 299
+1579826336.459042953 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,14 @@
+1579771406.562297687 1 unila.ac.id unila.ac.id 3599
+1579771408.074833437 1 www.unila.ac.id www.unila.ac.id 3599
+1579771409.820489275 1 fonts.googleapis.com fonts.googleapis.com 299
+1579771417.384851099 1 cdnjs.cloudflare.com cdnjs.cloudflare.com 172
+1579771417.384851099 2 cdnjs.cloudflare.com cdnjs.cloudflare.com 172
+1579771417.394556733 1 maps.googleapis.com maps.googleapis.com 299
+1579771418.012492070 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1579771418.012492070 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1579771418.820031926 1 platform.twitter.com platform.twitter.map.fastly.net 26
+1579771418.820031926 2 platform.twitter.map.fastly.net platform.twitter.com 29
+1579771420.196088556 1 syndication.twitter.com syndication.twitter.com 1451
+1579771420.196088556 2 syndication.twitter.com syndication.twitter.com 1451
+1579771420.196088556 3 syndication.twitter.com syndication.twitter.com 1451
+1579771420.196088556 4 syndication.twitter.com syndication.twitter.com 1451

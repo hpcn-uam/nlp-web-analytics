@@ -1,0 +1,17 @@
+1580787572.243697764 1 www.gstatic.com www.gstatic.com 299
+1580787572.431447473 1 accounts.google.com accounts.google.com 299
+1580787572.683707826 1 nu.edu.bd nu.edu.bd 1799
+1580787572.883852819 1 google.com google.com 299
+1580787572.884155594 1 google.com google.com 299
+1580787573.141370274 1 nu.edu.bd nu.edu.bd 1766
+1580787578.554789550 1 nu.edu.bd nu.edu.bd 1799
+1580787578.596915841 1 google.com google.com 299
+1580787578.597088304 1 google.com google.com 299
+1580787579.162942762 1 <Root> pakiows 86385
+1580787579.165090375 1 <Root> qbyyzdp 86372
+1580787579.167305612 1 <Root> zpafzkcvevdjtun 86356
+1580787583.583710173 1 update.googleapis.com update.googleapis.com 60
+1580787583.602012941 1 ssl.gstatic.com ssl.gstatic.com 299
+1580787590.456023243 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 469
+1580787590.456023243 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 469
+1580787590.456146486 1 ubuntu.com connectivity-check.ubuntu.com 893

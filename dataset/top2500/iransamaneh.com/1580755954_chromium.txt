@@ -1,0 +1,12 @@
+1580755956.300541992 1 www.gstatic.com www.gstatic.com 299
+1580755956.408465714 1 iransamaneh.com iransamaneh.com 24
+1580755956.482229326 1 accounts.google.com accounts.google.com 14
+1580755961.414939410 1 trustseal.enamad.ir trustseal.enamad.ir 558
+1580755961.522647112 1 clients1.google.com clients.l.google.com 299
+1580755961.522647112 2 clients.l.google.com clients1.google.com 299
+1580755961.718190086 1 translate.googleapis.com translate.googleapis.com 299
+1580755963.238022660 1 <Root> huzogdbrkihrfh 86397
+1580755963.240433447 1 <Root> rxmfxeh 86374
+1580755963.242724101 1 <Root> wmznfvzz 86391
+1580755966.240509162 1 ssl.gstatic.com ssl.gstatic.com 151
+1580755969.794349932 1 update.googleapis.com update.googleapis.com 201

@@ -1,0 +1,16 @@
+1580783055.565581871 1 www.gstatic.com www.gstatic.com 84
+1580783055.751661370 1 dumpert.nl dumpert.nl 299
+1580783055.751661370 2 dumpert.nl dumpert.nl 299
+1580783055.815931359 1 accounts.google.com accounts.google.com 299
+1580783059.391849383 1 www.dumpert.nl www.dumpert.nl 299
+1580783059.391849383 2 www.dumpert.nl www.dumpert.nl 299
+1580783059.702851386 1 cookies.dumpert.nl cookies.dumpert.nl 180
+1580783059.702851386 2 cookies.dumpert.nl cookies.dumpert.nl 180
+1580783059.955290668 1 www.google-analytics.com www-google-analytics.l.google.com 21481
+1580783059.955290668 2 www-google-analytics.l.google.com www.google-analytics.com 181
+1580783059.970027699 1 translate.googleapis.com translate.googleapis.com 299
+1580783062.507288981 1 <Root> mavehamep 86388
+1580783062.508070898 1 <Root> bjrdgjrphlvrsae 86353
+1580783062.508821677 1 <Root> gjvvtmav 86389
+1580783065.510442675 1 ssl.gstatic.com ssl.gstatic.com 193
+1580783071.235121885 1 update.googleapis.com update.googleapis.com 299

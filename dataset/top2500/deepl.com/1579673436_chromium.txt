@@ -1,0 +1,16 @@
+1579673438.160605688 1 www.gstatic.com www.gstatic.com 54
+1579673438.293476752 1 deepl.com deepl.com 288
+1579673438.346938020 1 accounts.google.com accounts.google.com 299
+1579673438.627141523 1 www.deepl.com www.deepl.com 57
+1579673439.108506770 1 fonts.googleapis.com fonts.googleapis.com 149
+1579673439.226005165 1 fonts.gstatic.com gstaticadssl.l.google.com 60
+1579673439.226005165 2 gstaticadssl.l.google.com fonts.gstatic.com 60
+1579673439.338152815 1 www.google-analytics.com www-google-analytics.l.google.com 21394
+1579673439.338152815 2 www-google-analytics.l.google.com www.google-analytics.com 94
+1579673440.216903873 1 clients1.google.com clients.l.google.com 299
+1579673440.216903873 2 clients.l.google.com clients1.google.com 299
+1579673445.096234887 1 <Root> cfqoovupxcxa 86398
+1579673445.098399408 1 <Root> ztnyudmhzc 86364
+1579673445.099170636 1 <Root> nuowjefi 86389
+1579673448.424626156 1 update.googleapis.com update.googleapis.com 254
+1579673449.833183125 1 ssl.gstatic.com ssl.gstatic.com 260

@@ -1,0 +1,17 @@
+1579700356.173434929 1 www.gstatic.com www.gstatic.com 130
+1579700356.320140270 1 kemdikbud.go.id kemdikbud.go.id 12993
+1579700356.339419111 1 accounts.google.com accounts.google.com 299
+1579700357.514929906 1 www.kemdikbud.go.id www.kemdikbud.go.id 4894
+1579700358.713383095 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579700358.713383095 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579700359.056133268 1 stats.g.doubleclick.net stats.l.doubleclick.net 21523
+1579700359.056133268 2 stats.l.doubleclick.net stats.l.doubleclick.net 223
+1579700359.056133268 3 stats.l.doubleclick.net stats.l.doubleclick.net 223
+1579700359.056133268 4 stats.l.doubleclick.net stats.l.doubleclick.net 223
+1579700359.056133268 5 stats.l.doubleclick.net stats.g.doubleclick.net 223
+1579700359.304098041 1 translate.googleapis.com translate.googleapis.com 299
+1579700363.117668872 1 <Root> tbemkfaz 86391
+1579700363.118671340 1 <Root> teudhozsdqnd 86397
+1579700363.120789060 1 <Root> dzaprzxx 86394
+1579700366.124433013 1 ssl.gstatic.com ssl.gstatic.com 15
+1579700378.093149734 1 update.googleapis.com update.googleapis.com 184

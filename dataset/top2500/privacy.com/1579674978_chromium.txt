@@ -1,0 +1,17 @@
+1579674980.327371619 1 www.gstatic.com www.gstatic.com 299
+1579674980.473183204 1 privacy.com privacy.com 299
+1579674980.473183204 2 privacy.com privacy.com 299
+1579674980.554262487 1 accounts.google.com accounts.google.com 206
+1579674980.841261252 1 ocsp.digicert.com cs9.wac.phicdn.net 16466
+1579674980.841261252 2 cs9.wac.phicdn.net ocsp.digicert.com 1934
+1579674984.435131075 1 fonts.googleapis.com fonts.googleapis.com 207
+1579674984.525809582 1 fonts.gstatic.com gstaticadssl.l.google.com 101
+1579674984.525809582 2 gstaticadssl.l.google.com fonts.gstatic.com 144
+1579674987.156855529 1 clients1.google.com clients.l.google.com 299
+1579674987.156855529 2 clients.l.google.com clients1.google.com 299
+1579674987.252861564 1 <Root> npseyuco 86397
+1579674987.253022830 1 <Root> whmrhqjwijip 86389
+1579674987.253210976 1 <Root> ttafyyaojadw 86389
+1579674987.494877229 1 translate.googleapis.com translate.googleapis.com 299
+1579674990.252623077 1 ssl.gstatic.com ssl.gstatic.com 171
+1579674997.376289414 1 update.googleapis.com update.googleapis.com 137

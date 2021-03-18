@@ -1,0 +1,15 @@
+1580727057.305670917 1 www.gstatic.com www.gstatic.com 299
+1580727057.484141141 1 esteri.it esteri.it 619
+1580727057.533765683 1 accounts.google.com accounts.google.com 299
+1580727057.767141449 1 esteri.it esteri.it 1799
+1580727057.983660373 1 google.com google.com 215
+1580727058.003204421 1 google.com google.com 263
+1580727058.355818807 1 esteri.it esteri.it 97
+1580727062.760318955 1 update.googleapis.com update.googleapis.com 224
+1580727063.432944347 1 esteri.it esteri.it 734
+1580727063.481442097 1 google.com google.com 257
+1580727063.482600430 1 google.com google.com 299
+1580727064.238477190 1 <Root> dcdkpfri 86383
+1580727064.239809592 1 <Root> qgvnteduduhsv 86388
+1580727064.240079690 1 <Root> jjkjgvygdoa 86398
+1580727067.240270018 1 ssl.gstatic.com ssl.gstatic.com 226

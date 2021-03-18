@@ -1,0 +1,15 @@
+1580769570.073715434 1 www.gstatic.com www.gstatic.com 299
+1580769570.270151579 1 apeareand.club 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 59
+1580769570.270151579 2 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 59
+1580769570.270151579 3 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 59
+1580769570.270151579 4 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com 59
+1580769570.270151579 5 373e5bb3963908d9d6c13306e1d355e3.zinphyra.com apeareand.club 59
+1580769570.329777921 1 accounts.google.com accounts.google.com 299
+1580769577.015519848 1 <Root> fxjpjyoiefd 86388
+1580769577.015786591 1 <Root> jgkogpwv 86383
+1580769577.029123601 1 <Root> axouuuyqoocfnam 86399
+1580769580.019934644 1 ssl.gstatic.com ssl.gstatic.com 299
+1580769584.970625372 1 update.googleapis.com update.googleapis.com 299
+1580769590.459649301 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 499
+1580769590.459649301 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 499
+1580769590.459747546 1 ubuntu.com connectivity-check.ubuntu.com 893

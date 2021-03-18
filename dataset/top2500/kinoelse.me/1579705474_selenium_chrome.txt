@@ -1,0 +1,14 @@
+1579705477.360901761 1 kinoelse.me kinoelse.me 233
+1579705477.470470098 1 moviebar.me moviebar.me 299
+1579705477.470470098 2 moviebar.me moviebar.me 299
+1579705477.861904460 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579705477.861904460 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579705478.078184301 1 www.google-analytics.com www-google-analytics.l.google.com 21505
+1579705478.078184301 2 www-google-analytics.l.google.com www.google-analytics.com 205
+1579705478.126194783 1 counter.yadro.ru counter.yadro.ru 376
+1579705478.126194783 2 counter.yadro.ru counter.yadro.ru 376
+1579705478.126194783 3 counter.yadro.ru counter.yadro.ru 376
+1579705478.126194783 4 counter.yadro.ru counter.yadro.ru 376
+1579705490.449872580 1 ubuntu.com connectivity-check.ubuntu.com 1290
+1579705490.449929680 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 24
+1579705490.449929680 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 24

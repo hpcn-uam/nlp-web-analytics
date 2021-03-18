@@ -1,0 +1,17 @@
+1580772285.083869700 1 www.gstatic.com www.gstatic.com 299
+1580772285.326663518 1 accounts.google.com accounts.google.com 299
+1580772285.506430288 1 customs.go.jp customs.go.jp 599
+1580772285.770591344 1 google.com google.com 149
+1580772285.771496356 1 google.com google.com 299
+1580772286.473582112 1 customs.go.jp customs.go.jp 599
+1580772290.453885537 1 ubuntu.com connectivity-check.ubuntu.com 1797
+1580772290.453930866 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 178
+1580772290.453930866 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 178
+1580772291.541608996 1 customs.go.jp customs.go.jp 594
+1580772291.585273011 1 google.com google.com 143
+1580772291.586544216 1 google.com google.com 299
+1580772292.026687412 1 <Root> hzqldjxdqaxglto 86359
+1580772292.027036269 1 <Root> baueitejgsfxwaf 86358
+1580772292.027305404 1 <Root> jymticzbtvprwbg 86398
+1580772295.465477019 1 update.googleapis.com update.googleapis.com 299
+1580772295.467031453 1 ssl.gstatic.com ssl.gstatic.com 155

@@ -1,0 +1,10 @@
+1580720074.741128314 1 www.gstatic.com www.gstatic.com 183
+1580720074.898501173 1 accounts.google.com accounts.google.com 24
+1580720075.100794914 1 uqwimax.jp uqwimax.jp 21599
+1580720081.672632488 1 <Root> yqwzfhypioluojd 86395
+1580720081.673026577 1 <Root> muyqkjzgn 86397
+1580720081.673062965 1 <Root> gzkydgjirw 86396
+1580720084.675923283 1 ssl.gstatic.com ssl.gstatic.com 299
+1580720090.458518838 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 246
+1580720090.458518838 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 246
+1580720090.458880654 1 ubuntu.com connectivity-check.ubuntu.com 1418

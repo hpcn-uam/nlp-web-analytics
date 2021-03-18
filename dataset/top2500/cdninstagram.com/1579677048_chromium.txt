@@ -1,0 +1,17 @@
+1579677049.550858820 1 www.gstatic.com www.gstatic.com 259
+1579677049.550894014 1 www.gstatic.com www.gstatic.com 20
+1579677049.552568722 1 www.gstatic.com www.gstatic.com 299
+1579677049.625646369 1 cdninstagram.com cdninstagram.com 267
+1579677049.792303326 1 accounts.google.com accounts.google.com 12
+1579677049.854421705 1 cdninstagram.com cdninstagram.com 299
+1579677050.150280146 1 google.com google.com 134
+1579677050.166873510 1 google.com google.com 299
+1579677050.326613917 1 cdninstagram.com cdninstagram.com 299
+1579677056.607970274 1 update.googleapis.com update.googleapis.com 25
+1579677056.634773815 1 <Root> eyighmzhhmmktu 86396
+1579677056.635220282 1 cdninstagram.com cdninstagram.com 299
+1579677056.635700542 1 <Root> qcmqzfwef 86398
+1579677056.636407291 1 <Root> ncieprctrunfx 86392
+1579677056.680581028 1 google.com google.com 122
+1579677056.680787743 1 google.com google.com 122
+1579677059.446998093 1 ssl.gstatic.com ssl.gstatic.com 237

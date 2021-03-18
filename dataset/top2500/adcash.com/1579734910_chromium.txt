@@ -1,0 +1,9 @@
+1579734912.558246439 1 www.gstatic.com www.gstatic.com 3
+1579734912.788949969 1 adcash.com adcash.com 299
+1579734912.788949969 2 adcash.com adcash.com 299
+1579734912.832643610 1 accounts.google.com accounts.google.com 202
+1579734920.375998294 1 update.googleapis.com update.googleapis.com 299
+1579734920.379881702 1 <Root> mhayltq 86382
+1579734920.380172236 1 <Root> gnpigbvcazhykmy 86397
+1579734920.380184523 1 <Root> jkahwfc 86367
+1579734922.488102413 1 ssl.gstatic.com ssl.gstatic.com 41

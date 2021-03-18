@@ -1,0 +1,6 @@
+1579704968.817120047 1 fazenda.gov.br fazenda.gov.br 194
+1579704969.365367527 1 barra.brasil.gov.br barra.brasil.gov.br 3470
+1579704969.371994664 1 connect.facebook.net scontent.xx.fbcdn.net 1242
+1579704969.371994664 2 scontent.xx.fbcdn.net connect.facebook.net 31
+1579704969.530928169 1 apis.google.com plus.l.google.com 21533
+1579704969.530928169 2 plus.l.google.com apis.google.com 261

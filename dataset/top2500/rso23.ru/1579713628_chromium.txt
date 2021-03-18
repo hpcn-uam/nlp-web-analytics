@@ -1,0 +1,13 @@
+1579713630.273417511 1 www.gstatic.com www.gstatic.com 299
+1579713630.436728283 1 rso23.ru rso23.ru 21567
+1579713630.467005118 1 accounts.google.com accounts.google.com 299
+1579713634.269634703 1 fonts.googleapis.com fonts.googleapis.com 299
+1579713634.377900072 1 sgo.rso23.ru sgo.rso23.ru 21599
+1579713634.385529462 1 fonts.gstatic.com gstaticadssl.l.google.com 267
+1579713634.385529462 2 gstaticadssl.l.google.com fonts.gstatic.com 267
+1579713634.655625329 1 translate.googleapis.com translate.googleapis.com 299
+1579713637.204885531 1 <Root> urvxlzefew 86394
+1579713637.206816460 1 <Root> vsmkgqg 86398
+1579713637.207825617 1 <Root> rgvkvtxcbllbkdu 86385
+1579713640.206598862 1 ssl.gstatic.com ssl.gstatic.com 25
+1579713644.650092195 1 update.googleapis.com update.googleapis.com 218

@@ -1,0 +1,11 @@
+1579640634.084804741 1 www.gstatic.com www.gstatic.com 207
+1579640634.305539561 1 openwrt.org openwrt.org 1478
+1579640634.404454640 1 accounts.google.com accounts.google.com 269
+1579640638.941968142 1 clients1.google.com clients.l.google.com 204
+1579640638.941968142 2 clients.l.google.com clients1.google.com 204
+1579640638.970695599 1 translate.googleapis.com translate.googleapis.com 299
+1579640642.299586442 1 update.googleapis.com update.googleapis.com 299
+1579640643.909286279 1 <Root> thrtwix 86388
+1579640643.911838743 1 <Root> gekqrilvjepo 86395
+1579640643.913754250 1 <Root> pbgqxsen 86397
+1579640644.029179488 1 ssl.gstatic.com ssl.gstatic.com 151

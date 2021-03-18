@@ -1,0 +1,15 @@
+1579651310.963205105 1 www.gstatic.com www.gstatic.com 129
+1579651311.151271413 1 nii.ac.jp nii.ac.jp 1767
+1579651311.206061385 1 accounts.google.com accounts.google.com 37
+1579651311.620996093 1 nii.ac.jp nii.ac.jp 1799
+1579651311.790264952 1 google.com google.com 299
+1579651311.790486642 1 google.com google.com 299
+1579651312.255938109 1 nii.ac.jp nii.ac.jp 1799
+1579651316.471589157 1 update.googleapis.com update.googleapis.com 299
+1579651317.803860963 1 nii.ac.jp nii.ac.jp 1799
+1579651317.852262907 1 google.com google.com 299
+1579651317.852317884 1 google.com google.com 299
+1579651317.928597471 1 <Root> vgbbrprz 86383
+1579651317.929179966 1 <Root> ndoitzu 86382
+1579651317.930007995 1 <Root> qcgkycdrdo 86380
+1579651320.933851068 1 ssl.gstatic.com ssl.gstatic.com 299

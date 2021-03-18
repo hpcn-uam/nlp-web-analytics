@@ -1,0 +1,17 @@
+1579707923.792478336 1 www.gstatic.com www.gstatic.com 251
+1579707924.006033136 1 stalkfest.net stalkfest.net 3599
+1579707924.028628446 1 accounts.google.com accounts.google.com 299
+1579707927.741797564 1 bigsta.net bigsta.net 3306
+1579707928.011579106 1 scontent.cdninstagram.com scontent.cdninstagram.com 59
+1579707928.042009256 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579707928.042009256 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579707928.275911711 1 translate.googleapis.com translate.googleapis.com 299
+1579707928.290223070 1 clients1.google.com clients.l.google.com 101
+1579707928.290223070 2 clients.l.google.com clients1.google.com 101
+1579707928.341280204 1 www.google-analytics.com www-google-analytics.l.google.com 21346
+1579707928.341280204 2 www-google-analytics.l.google.com www.google-analytics.com 46
+1579707933.183714615 1 update.googleapis.com update.googleapis.com 299
+1579707934.727892093 1 <Root> bblricfvrglnpj 86382
+1579707934.728646971 1 <Root> jfzxwqrjkrmd 86390
+1579707934.729396883 1 <Root> hhstjdwz 86392
+1579707934.742245596 1 ssl.gstatic.com ssl.gstatic.com 19

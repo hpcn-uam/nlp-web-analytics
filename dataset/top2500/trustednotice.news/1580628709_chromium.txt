@@ -1,0 +1,8 @@
+1580628710.747832151 1 www.gstatic.com www.gstatic.com 77
+1580628710.945998981 1 trustednotice.news trustednotice.news 3521
+1580628710.985401146 1 accounts.google.com accounts.google.com 299
+1580628719.897715804 1 update.googleapis.com update.googleapis.com 299
+1580628719.898952373 1 <Root> pitxmsnijuoauoa 86384
+1580628719.899650757 1 <Root> zmqvlfbckijh 86394
+1580628719.900676049 1 <Root> ntnhdgcqphrrv 86398
+1580628722.041781694 1 ssl.gstatic.com ssl.gstatic.com 299

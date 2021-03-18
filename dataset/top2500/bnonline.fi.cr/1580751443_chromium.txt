@@ -1,0 +1,15 @@
+1580751445.393697221 1 www.gstatic.com www.gstatic.com 299
+1580751445.635442215 1 bnonline.fi.cr bnonline.fi.cr 1768
+1580751445.742254923 1 accounts.google.com accounts.google.com 166
+1580751446.124611208 1 bnonline.fi.cr bnonline.fi.cr 1799
+1580751446.249925800 1 google.com google.com 245
+1580751446.251403880 1 google.com google.com 299
+1580751446.604137775 1 bnonline.fi.cr bnonline.fi.cr 1799
+1580751451.927396833 1 update.googleapis.com update.googleapis.com 299
+1580751452.321028283 1 <Root> gaufeovxynspvn 86395
+1580751452.322568713 1 <Root> ktaahxjsokxmdr 86385
+1580751452.324234107 1 <Root> iflwldvwkeylej 86396
+1580751452.437790093 1 bnonline.fi.cr bnonline.fi.cr 1799
+1580751452.479521913 1 google.com google.com 293
+1580751452.481098193 1 google.com google.com 299
+1580751455.324370921 1 ssl.gstatic.com ssl.gstatic.com 200

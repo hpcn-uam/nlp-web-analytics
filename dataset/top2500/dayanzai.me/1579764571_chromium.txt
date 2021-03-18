@@ -1,0 +1,10 @@
+1579764572.922140073 1 www.gstatic.com www.gstatic.com 299
+1579764573.087184147 1 accounts.google.com accounts.google.com 299
+1579764573.361085136 1 dayanzai.me dayanzai.me 599
+1579764579.862014990 1 <Root> garhwdjpe 86379
+1579764579.864083553 1 <Root> rnyahzmm 86379
+1579764579.868274969 1 <Root> pwktzdwygjbc 86395
+1579764582.863504957 1 ssl.gstatic.com ssl.gstatic.com 40
+1579764590.459840897 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 274
+1579764590.459840897 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 274
+1579764590.460000384 1 ubuntu.com connectivity-check.ubuntu.com 1337

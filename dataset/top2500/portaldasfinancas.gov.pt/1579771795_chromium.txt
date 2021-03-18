@@ -1,0 +1,15 @@
+1579771797.339495760 1 www.gstatic.com www.gstatic.com 84
+1579771797.446751946 1 portaldasfinancas.gov.pt portaldasfinancas.gov.pt 187
+1579771797.540569545 1 accounts.google.com accounts.google.com 299
+1579771797.758719240 1 portaldasfinancas.gov.pt portaldasfinancas.gov.pt 123
+1579771798.013505096 1 google.com google.com 299
+1579771798.013555039 1 google.com google.com 299
+1579771798.339591114 1 portaldasfinancas.gov.pt portaldasfinancas.gov.pt 203
+1579771803.010480564 1 update.googleapis.com update.googleapis.com 299
+1579771803.398857911 1 portaldasfinancas.gov.pt portaldasfinancas.gov.pt 199
+1579771803.439327003 1 google.com google.com 299
+1579771803.458734050 1 google.com google.com 299
+1579771804.268013644 1 <Root> keqomhdd 86397
+1579771804.268785501 1 <Root> oamqxmnqon 86398
+1579771804.273538276 1 <Root> aapjitvndzvzie 86397
+1579771807.271023448 1 ssl.gstatic.com ssl.gstatic.com 299

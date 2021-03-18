@@ -1,0 +1,10 @@
+1579825954.792336749 1 www.gstatic.com www.gstatic.com 121
+1579825955.069449547 1 accounts.google.com accounts.google.com 299
+1579825955.125396190 1 www.vanguardia.es www.lavanguardia.es 21599
+1579825955.125396190 2 www.lavanguardia.es httpd-org-gs77bw.grupogodo.com.akadns.net 3599
+1579825955.125396190 3 httpd-org-gs77bw.grupogodo.com.akadns.net www.vanguardia.es 29
+1579825961.938562557 1 update.googleapis.com update.googleapis.com 299
+1579825963.504911229 1 <Root> mcvykpvsmoxpas 86385
+1579825963.505227595 1 <Root> jjzfkllk 86390
+1579825963.505473198 1 <Root> kldclporyupz 86386
+1579825964.743912716 1 ssl.gstatic.com ssl.gstatic.com 299

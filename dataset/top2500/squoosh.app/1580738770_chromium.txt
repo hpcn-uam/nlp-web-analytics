@@ -1,0 +1,11 @@
+1580738772.188086608 1 www.gstatic.com www.gstatic.com 299
+1580738772.236209161 1 squoosh.app squoosh.app 19
+1580738772.333755050 1 accounts.google.com accounts.google.com 299
+1580738776.076281395 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580738776.076281395 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580738776.190002857 1 translate.googleapis.com translate.googleapis.com 299
+1580738779.445942146 1 update.googleapis.com update.googleapis.com 216
+1580738779.446689879 1 <Root> bmdocnaxnjrgkea 86396
+1580738779.447502829 1 <Root> afhutsopdfvsasb 86374
+1580738779.448006037 1 <Root> nmsvbnxmbpeenk 86395
+1580738782.016400276 1 ssl.gstatic.com ssl.gstatic.com 84

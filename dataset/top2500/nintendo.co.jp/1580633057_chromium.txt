@@ -1,0 +1,14 @@
+1580633059.552243097 1 www.gstatic.com www.gstatic.com 299
+1580633059.770753046 1 accounts.google.com accounts.google.com 299
+1580633059.957726428 1 nintendo.co.jp nintendo.co.jp 299
+1580633060.160639817 1 google.com google.com 299
+1580633060.161281706 1 google.com google.com 299
+1580633060.425795694 1 nintendo.co.jp nintendo.co.jp 267
+1580633063.531627637 1 update.googleapis.com update.googleapis.com 99
+1580633065.539068512 1 nintendo.co.jp nintendo.co.jp 262
+1580633065.580150511 1 google.com google.com 294
+1580633065.580240316 1 google.com google.com 299
+1580633066.491703756 1 <Root> ejhfxzadnw 86390
+1580633066.491988878 1 <Root> kdsxqxqspa 86377
+1580633066.492941061 1 <Root> azsphjvln 86395
+1580633069.494584036 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,11 @@
+1579672529.469876574 1 www.gstatic.com www.gstatic.com 299
+1579672529.623276404 1 pusan.ac.kr pusan.ac.kr 3567
+1579672529.674896653 1 accounts.google.com accounts.google.com 167
+1579672534.136828077 1 www.pusan.ac.kr www.pusan.ac.kr 3599
+1579672536.412665194 1 <Root> qkpvsdlgun 86395
+1579672536.412707572 1 <Root> mfjhgvfmiw 86396
+1579672536.412717962 1 <Root> nlvfkvazef 86369
+1579672538.660463325 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1579672538.660463325 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579672540.146008072 1 update.googleapis.com update.googleapis.com 199
+1579672541.735131872 1 ssl.gstatic.com ssl.gstatic.com 267

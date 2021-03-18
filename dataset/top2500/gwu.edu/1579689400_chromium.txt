@@ -1,0 +1,15 @@
+1579689401.702214096 1 www.gstatic.com www.gstatic.com 81
+1579689401.828415131 1 gwu.edu gwu.edu 1768
+1579689401.970262010 1 accounts.google.com accounts.google.com 1
+1579689402.217461731 1 gwu.edu gwu.edu 900
+1579689402.404260701 1 google.com google.com 261
+1579689402.405338682 1 google.com google.com 299
+1579689402.806888011 1 gwu.edu gwu.edu 1347
+1579689407.889587794 1 gwu.edu gwu.edu 1195
+1579689407.923713932 1 google.com google.com 294
+1579689407.924699722 1 google.com google.com 112
+1579689408.630563636 1 <Root> nxjunxpohncs 86386
+1579689408.632697645 1 <Root> umxnjkjderghg 86385
+1579689408.633773810 1 <Root> qjgqwnyhhrfwdtq 86395
+1579689412.269617587 1 update.googleapis.com update.googleapis.com 299
+1579689412.285885851 1 ssl.gstatic.com ssl.gstatic.com 295

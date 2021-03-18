@@ -1,0 +1,14 @@
+1580717336.114882938 1 www.gstatic.com www.gstatic.com 130
+1580717336.295245968 1 accounts.google.com accounts.google.com 299
+1580717336.550140188 1 bancobic.ao bancobic.ao 7199
+1580717340.597150277 1 www.bancobic.ao www.bancobic.ao 899
+1580717341.143416851 1 ocsp.digicert.com cs9.wac.phicdn.net 20734
+1580717341.143416851 2 cs9.wac.phicdn.net ocsp.digicert.com 2168
+1580717343.049461334 1 <Root> gstaokgm 86395
+1580717343.049656425 1 <Root> auzixeljysg 86390
+1580717343.050406549 1 <Root> xvwvlqrjiyjm 86390
+1580717344.038436729 1 translate.googleapis.com translate.googleapis.com 299
+1580717344.049889967 1 clients1.google.com clients.l.google.com 299
+1580717344.049889967 2 clients.l.google.com clients1.google.com 299
+1580717346.052683142 1 ssl.gstatic.com ssl.gstatic.com 231
+1580717354.937828236 1 update.googleapis.com update.googleapis.com 299

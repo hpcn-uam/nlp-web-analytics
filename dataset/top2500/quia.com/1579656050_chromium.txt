@@ -1,0 +1,14 @@
+1579656052.598863260 1 www.gstatic.com www.gstatic.com 299
+1579656052.756276976 1 quia.com quia.com 14
+1579656052.756276976 2 quia.com quia.com 14
+1579656052.909865326 1 accounts.google.com accounts.google.com 299
+1579656056.784493654 1 www.quia.com www.quia.com 43
+1579656056.784493654 2 www.quia.com www.quia.com 43
+1579656057.766180015 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21566
+1579656057.766180015 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 266
+1579656057.867294151 1 translate.googleapis.com translate.googleapis.com 237
+1579656059.519116340 1 <Root> fwzybdqyojcctqu 86381
+1579656059.519231444 1 <Root> uvyfvbtjsr 86354
+1579656059.521569592 1 <Root> arkndvemardgo 86378
+1579656065.111477109 1 update.googleapis.com update.googleapis.com 299
+1579656066.686288244 1 ssl.gstatic.com ssl.gstatic.com 299

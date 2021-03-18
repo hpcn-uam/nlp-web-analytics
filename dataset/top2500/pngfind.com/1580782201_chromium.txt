@@ -1,0 +1,15 @@
+1580782202.923137969 1 www.gstatic.com www.gstatic.com 299
+1580782203.088393166 1 pngfind.com pngfind.com 299
+1580782203.103347595 1 accounts.google.com accounts.google.com 299
+1580782206.596591848 1 www.pngfind.com www.pngfind.com 299
+1580782207.105478787 1 www.googletagmanager.com www-googletagmanager.l.google.com 21313
+1580782207.105478787 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580782207.936012026 1 spng.pngfind.com spng.pngfind.com 299
+1580782207.939897051 1 translate.googleapis.com translate.googleapis.com 14
+1580782207.963065949 1 www.google-analytics.com www-google-analytics.l.google.com 21409
+1580782207.963065949 2 www-google-analytics.l.google.com www.google-analytics.com 109
+1580782209.863600625 1 <Root> wablnnd 86391
+1580782209.865879574 1 <Root> rmkjzckphwuwh 86381
+1580782209.867836308 1 <Root> wmocjeehd 86298
+1580782212.865228830 1 ssl.gstatic.com ssl.gstatic.com 213
+1580782217.655408843 1 update.googleapis.com update.googleapis.com 12

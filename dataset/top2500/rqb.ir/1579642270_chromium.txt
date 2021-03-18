@@ -1,0 +1,9 @@
+1579642272.287527573 1 www.gstatic.com www.gstatic.com 74
+1579642272.501371799 1 accounts.google.com accounts.google.com 216
+1579642272.551588268 1 rqb.ir rqb.ir 1799
+1579642276.457501659 1 www.gstatic.com www.gstatic.com 299
+1579642279.227454967 1 <Root> epklzyztetqmw 86391
+1579642279.228876642 1 <Root> nxxurluk 86397
+1579642279.240391210 1 <Root> viaczrzhwdnpjdq 86399
+1579642282.229517489 1 ssl.gstatic.com ssl.gstatic.com 16
+1579642288.222413122 1 update.googleapis.com update.googleapis.com 115

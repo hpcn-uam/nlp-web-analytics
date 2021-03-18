@@ -1,0 +1,11 @@
+1580692181.165834178 1 www.gstatic.com www.gstatic.com 299
+1580692181.492115260 1 accounts.google.com accounts.google.com 299
+1580692181.747166308 1 gov.taipei gov.taipei 21599
+1580692189.166365521 1 update.googleapis.com update.googleapis.com 299
+1580692189.198184753 1 <Root> vyyoudizalfbikc 86393
+1580692189.199555091 1 <Root> uyhxwlhujretqoi 86392
+1580692189.200714156 1 <Root> rymwkupk 86385
+1580692190.454103365 1 ubuntu.com connectivity-check.ubuntu.com 271
+1580692190.454778204 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 566
+1580692190.454778204 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 566
+1580692191.031985169 1 ssl.gstatic.com ssl.gstatic.com 299

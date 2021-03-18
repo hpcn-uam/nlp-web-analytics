@@ -1,0 +1,15 @@
+1580715418.534997374 1 www.gstatic.com www.gstatic.com 151
+1580715418.792559154 1 amazon-adsystem.com amazon-adsystem.com 429
+1580715418.835630174 1 accounts.google.com accounts.google.com 77
+1580715418.947858343 1 amazon-adsystem.com amazon-adsystem.com 592
+1580715419.153578461 1 google.com google.com 299
+1580715419.153937465 1 google.com google.com 299
+1580715419.542807356 1 amazon-adsystem.com amazon-adsystem.com 428
+1580715424.047862136 1 update.googleapis.com update.googleapis.com 299
+1580715424.604501918 1 amazon-adsystem.com amazon-adsystem.com 416
+1580715424.646529398 1 google.com google.com 294
+1580715424.667637155 1 google.com google.com 299
+1580715425.469657839 1 <Root> zsrpmxftdiuoz 86378
+1580715425.470518538 1 <Root> ovvgiavjaepdzfw 86395
+1580715425.472267582 1 <Root> blhleak 86396
+1580715428.471671469 1 ssl.gstatic.com ssl.gstatic.com 249

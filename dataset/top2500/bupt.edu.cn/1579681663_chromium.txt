@@ -1,0 +1,14 @@
+1579681664.762600505 1 www.gstatic.com www.gstatic.com 299
+1579681664.914257893 1 accounts.google.com accounts.google.com 77
+1579681665.207737400 1 bupt.edu.cn bupt.edu.cn 299
+1579681665.448076952 1 google.com google.com 216
+1579681665.449645435 1 google.com google.com 299
+1579681666.125063093 1 bupt.edu.cn bupt.edu.cn 299
+1579681671.492713010 1 bupt.edu.cn bupt.edu.cn 299
+1579681671.530742358 1 google.com google.com 116
+1579681671.531435751 1 google.com google.com 293
+1579681671.701247483 1 <Root> nmwukytnwko 86355
+1579681671.702377590 1 <Root> qirygxbok 86397
+1579681671.702456889 1 <Root> xtjcdekloq 86393
+1579681674.766446704 1 ssl.gstatic.com ssl.gstatic.com 96
+1579681677.317650948 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579663754.412650885 1 www.gstatic.com www.gstatic.com 299
+1579663754.522008762 1 wixsite.com wixsite.com 1605
+1579663754.562565850 1 accounts.google.com accounts.google.com 299
+1579663754.749072902 1 wixsite.com wixsite.com 1176
+1579663755.017120110 1 google.com google.com 299
+1579663755.017164610 1 google.com google.com 299
+1579663755.336375174 1 wixsite.com wixsite.com 1766
+1579663760.555441331 1 update.googleapis.com update.googleapis.com 299
+1579663760.581563805 1 wixsite.com wixsite.com 1599
+1579663760.626155975 1 google.com google.com 294
+1579663760.627169892 1 google.com google.com 299
+1579663761.355564001 1 <Root> jwhuhyoiv 86373
+1579663761.356343105 1 <Root> ejcyowsbp 86379
+1579663761.356770626 1 <Root> rbbhztpnb 86362
+1579663764.358738186 1 ssl.gstatic.com ssl.gstatic.com 299

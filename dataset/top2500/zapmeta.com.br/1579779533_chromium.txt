@@ -1,0 +1,15 @@
+1579779535.309625029 1 www.gstatic.com www.gstatic.com 299
+1579779535.484911764 1 zapmeta.com.br zapmeta.com.br 21567
+1579779535.546252853 1 accounts.google.com accounts.google.com 299
+1579779539.307382151 1 www.zapmeta.com.br zapmeta.com.br 21563
+1579779539.307382151 2 zapmeta.com.br www.zapmeta.com.br 21599
+1579779539.699584587 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1579779539.699584587 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1579779539.758780724 1 clients1.google.com clients.l.google.com 299
+1579779539.758780724 2 clients.l.google.com clients1.google.com 299
+1579779539.799605810 1 translate.googleapis.com translate.googleapis.com 299
+1579779542.246988105 1 <Root> yxfddwtkgy 86391
+1579779542.248194091 1 <Root> ouakjssdy 86396
+1579779542.248914016 1 <Root> tyghmvcfw 86398
+1579779546.267866518 1 update.googleapis.com update.googleapis.com 287
+1579779547.840498244 1 ssl.gstatic.com ssl.gstatic.com 56

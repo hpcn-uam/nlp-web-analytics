@@ -1,0 +1,10 @@
+1580668916.188344755 1 www.gstatic.com www.gstatic.com 197
+1580668916.467515909 1 pay.ir pay.ir 59
+1580668916.496827178 1 accounts.google.com accounts.google.com 197
+1580668920.439154956 1 cdn.pay.ir cdn.pay.ir 4599
+1580668922.246931487 1 translate.googleapis.com translate.googleapis.com 198
+1580668923.114547231 1 <Root> spetxkuapjexgqe 86397
+1580668923.114615673 1 <Root> kogrvizz 86392
+1580668923.115583049 1 <Root> oklncsc 86397
+1580668928.429756939 1 update.googleapis.com update.googleapis.com 299
+1580668929.985257683 1 ssl.gstatic.com ssl.gstatic.com 194

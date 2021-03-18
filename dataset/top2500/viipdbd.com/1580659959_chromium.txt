@@ -1,0 +1,9 @@
+1580659961.145784232 1 www.gstatic.com www.gstatic.com 237
+1580659961.404958780 1 viipdbd.com viipdbd.com 1798
+1580659961.404958780 2 viipdbd.com viipdbd.com 1798
+1580659961.438485741 1 accounts.google.com accounts.google.com 299
+1580659968.075599227 1 <Root> uhiatfys 86383
+1580659968.076543774 1 <Root> vdtdoopxvbz 86392
+1580659968.078435058 1 <Root> rthvhtqg 86395
+1580659971.094424665 1 ssl.gstatic.com ssl.gstatic.com 299
+1580659973.825938725 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,13 @@
+1580739233.809391343 1 www.gstatic.com www.gstatic.com 299
+1580739233.999878449 1 accounts.google.com accounts.google.com 299
+1580739234.330583921 1 ewaybill.nic.in ewaybill.nic.in 299
+1580739238.989131701 1 docs.ewaybillgst.gov.in docs.ewaybillgst.gov.in-v1.akamaized.net 298
+1580739238.989131701 2 docs.ewaybillgst.gov.in-v1.akamaized.net a1876.dscd.akamai.net 21227
+1580739238.989131701 3 a1876.dscd.akamai.net a1876.dscd.akamai.net 19
+1580739238.989131701 4 a1876.dscd.akamai.net docs.ewaybillgst.gov.in 19
+1580739239.396416320 1 translate.googleapis.com translate.googleapis.com 299
+1580739240.751366077 1 <Root> jledwdwcjpt 86393
+1580739240.751636337 1 <Root> aglziknsdlte 86391
+1580739240.751665023 1 <Root> jrhzbul 86397
+1580739243.751170452 1 ssl.gstatic.com ssl.gstatic.com 299
+1580739252.028887657 1 update.googleapis.com update.googleapis.com 184

@@ -1,0 +1,17 @@
+1579673966.516884667 1 www.gstatic.com www.gstatic.com 273
+1579673966.729170545 1 accounts.google.com accounts.google.com 180
+1579673968.662724649 1 meb.k12.tr meb.k12.tr 1799
+1579673968.789015747 1 google.com google.com 299
+1579673968.789125981 1 google.com google.com 299
+1579673969.096930840 1 meb.k12.tr meb.k12.tr 1774
+1579673973.370486190 1 <Root> xeesvwse 86395
+1579673973.370571580 1 <Root> vvnjgtzegtv 86393
+1579673973.372217695 1 <Root> kaxyltxcrfh 86347
+1579673976.482177369 1 update.googleapis.com update.googleapis.com 115
+1579673976.536883414 1 ssl.gstatic.com ssl.gstatic.com 299
+1579673977.244298096 1 meb.k12.tr meb.k12.tr 1799
+1579673977.288913910 1 google.com google.com 290
+1579673977.290490793 1 google.com google.com 299
+1579673990.456290509 1 ubuntu.com connectivity-check.ubuntu.com 202
+1579673990.456373518 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 365
+1579673990.456373518 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 365

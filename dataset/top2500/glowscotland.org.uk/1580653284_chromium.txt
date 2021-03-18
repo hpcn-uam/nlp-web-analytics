@@ -1,0 +1,15 @@
+1580653286.368617783 1 www.gstatic.com www.gstatic.com 299
+1580653286.545989841 1 glowscotland.org.uk glowscotland.org.uk 1767
+1580653286.699170309 1 accounts.google.com accounts.google.com 184
+1580653286.699854143 1 glowscotland.org.uk glowscotland.org.uk 1767
+1580653286.870991552 1 google.com google.com 299
+1580653286.871857819 1 google.com google.com 299
+1580653287.317165907 1 glowscotland.org.uk glowscotland.org.uk 1766
+1580653292.399057626 1 glowscotland.org.uk glowscotland.org.uk 1761
+1580653292.436550443 1 google.com google.com 299
+1580653292.436589204 1 google.com google.com 299
+1580653293.295586153 1 <Root> gsnpotglw 86373
+1580653293.295691038 1 <Root> tmrnmpihrpkkyl 86389
+1580653293.296408558 1 <Root> ngfdxyvrzymlmi 86397
+1580653296.299850328 1 ssl.gstatic.com ssl.gstatic.com 299
+1580653298.736464798 1 update.googleapis.com update.googleapis.com 198

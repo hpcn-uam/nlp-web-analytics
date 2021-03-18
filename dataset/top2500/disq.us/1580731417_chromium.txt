@@ -1,0 +1,12 @@
+1580731419.234607290 1 www.gstatic.com www.gstatic.com 147
+1580731419.359568502 1 disq.us disq.us 2524
+1580731419.359568502 2 disq.us disq.us 2524
+1580731419.359568502 3 disq.us disq.us 2524
+1580731419.359568502 4 disq.us disq.us 2524
+1580731419.486089735 1 accounts.google.com accounts.google.com 229
+1580731423.217074899 1 translate.googleapis.com translate.googleapis.com 299
+1580731426.179156706 1 <Root> jievcec 86397
+1580731426.179330618 1 <Root> jlbwdvkkkrbof 86375
+1580731426.179977553 1 <Root> bijjftawr 86391
+1580731428.765078942 1 update.googleapis.com update.googleapis.com 299
+1580731429.178673173 1 ssl.gstatic.com ssl.gstatic.com 180

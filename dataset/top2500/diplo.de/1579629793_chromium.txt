@@ -1,0 +1,13 @@
+1579629794.625268263 1 www.gstatic.com www.gstatic.com 299
+1579629794.747280877 1 diplo.de diplo.de 10799
+1579629794.783747497 1 accounts.google.com accounts.google.com 299
+1579629798.290511936 1 www.auswaertiges-amt.de www.auswaertiges-amt.de 10491
+1579629799.676168652 1 piwik.auswaertiges-amt.de piwik.auswaertiges-amt.de 10270
+1579629799.716349795 1 clients1.google.com clients.l.google.com 116
+1579629799.716349795 2 clients.l.google.com clients1.google.com 116
+1579629799.952172515 1 translate.googleapis.com translate.googleapis.com 299
+1579629801.568003292 1 <Root> dbupoqoxn 86375
+1579629801.568726718 1 <Root> anqtwavdcnlgvev 86382
+1579629801.569287283 1 <Root> ewlzevxqftcbg 86393
+1579629804.568374148 1 ssl.gstatic.com ssl.gstatic.com 67
+1579629810.965163218 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1580709192.177930386 1 www.gstatic.com www.gstatic.com 299
+1580709192.304370751 1 zona.plus zona.plus 469
+1580709192.351282558 1 accounts.google.com accounts.google.com 299
+1580709192.553724338 1 zona.plus zona.plus 469
+1580709192.761535625 1 google.com google.com 299
+1580709192.762063999 1 google.com google.com 299
+1580709195.372758325 1 update.googleapis.com update.googleapis.com 299
+1580709195.375259595 1 zona.plus zona.plus 1799
+1580709199.112059672 1 <Root> rkiupglwyw 86394
+1580709199.112446261 1 <Root> opkirhpseru 86375
+1580709199.113009850 1 <Root> amvowgyjq 86375
+1580709200.461613882 1 zona.plus zona.plus 461
+1580709200.498943662 1 google.com google.com 299
+1580709200.499002262 1 google.com google.com 299
+1580709202.113419502 1 ssl.gstatic.com ssl.gstatic.com 136

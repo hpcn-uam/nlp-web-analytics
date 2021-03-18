@@ -1,0 +1,16 @@
+1579638444.691170481 1 www.gstatic.com www.gstatic.com 299
+1579638444.821068298 1 urssaf.fr urssaf.fr 1767
+1579638444.868445090 1 accounts.google.com accounts.google.com 299
+1579638445.011038988 1 urssaf.fr urssaf.fr 1799
+1579638445.333831538 1 google.com google.com 299
+1579638445.334541915 1 google.com google.com 299
+1579638445.449975223 1 urssaf.fr urssaf.fr 1798
+1579638445.478871943 1 urssaf.fr urssaf.fr 1798
+1579638450.536709298 1 urssaf.fr urssaf.fr 1761
+1579638450.571048347 1 google.com google.com 299
+1579638450.572079571 1 google.com google.com 299
+1579638451.626937408 1 <Root> esmmrwfllrg 86383
+1579638451.628240535 1 <Root> qemvbmy 86391
+1579638451.630687282 1 <Root> jfpdnwwv 86391
+1579638455.974540419 1 update.googleapis.com update.googleapis.com 159
+1579638455.997149976 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,15 @@
+1580631676.236272362 1 www.gstatic.com www.gstatic.com 299
+1580631676.437602886 1 fontmeme.com fontmeme.com 267
+1580631676.437602886 2 fontmeme.com fontmeme.com 267
+1580631676.468524324 1 accounts.google.com accounts.google.com 299
+1580631680.616150056 1 s.w.org s.w.org 142
+1580631680.748611841 1 www.google-analytics.com www-google-analytics.l.google.com 21473
+1580631680.748611841 2 www-google-analytics.l.google.com www.google-analytics.com 204
+1580631680.751094102 1 clients1.google.com clients.l.google.com 299
+1580631680.751094102 2 clients.l.google.com clients1.google.com 299
+1580631680.887056436 1 translate.googleapis.com translate.googleapis.com 299
+1580631683.828687730 1 <Root> xaqqyosnkewhh 86397
+1580631683.829348654 1 update.googleapis.com update.googleapis.com 299
+1580631683.829651519 1 <Root> srbxltfscgo 86388
+1580631683.831049316 1 <Root> wpybfeyeeaz 86391
+1580631686.160076641 1 ssl.gstatic.com ssl.gstatic.com 208

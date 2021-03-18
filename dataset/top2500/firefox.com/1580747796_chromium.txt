@@ -1,0 +1,16 @@
+1580747798.205932651 1 www.gstatic.com www.gstatic.com 194
+1580747798.413755066 1 firefox.com firefox.com 59
+1580747798.440097945 1 accounts.google.com accounts.google.com 299
+1580747801.973101659 1 www.mozilla.org www.mozilla.org.cdn.cloudflare.net 29
+1580747801.973101659 2 www.mozilla.org.cdn.cloudflare.net www.mozilla.org.cdn.cloudflare.net 134
+1580747801.973101659 3 www.mozilla.org.cdn.cloudflare.net www.mozilla.org 134
+1580747802.375764338 1 mozilla.org mozilla.org 39
+1580747802.397130597 1 www.googletagmanager.com www-googletagmanager.l.google.com 21599
+1580747802.397130597 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1580747803.223577771 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580747803.223577771 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580747805.167586845 1 <Root> ehplglhe 86398
+1580747805.167655114 1 <Root> cmezavaoansgwlv 86397
+1580747805.168554365 1 <Root> ixignwzgurbdq 86395
+1580747808.169819436 1 ssl.gstatic.com ssl.gstatic.com 293
+1580747813.359561153 1 update.googleapis.com update.googleapis.com 189

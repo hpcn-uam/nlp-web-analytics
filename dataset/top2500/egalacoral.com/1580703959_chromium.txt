@@ -1,0 +1,15 @@
+1580703960.662143598 1 www.gstatic.com www.gstatic.com 299
+1580703960.804692827 1 egalacoral.com egalacoral.com 268
+1580703960.891298088 1 accounts.google.com accounts.google.com 299
+1580703961.130805764 1 egalacoral.com egalacoral.com 299
+1580703961.401400481 1 google.com google.com 299
+1580703961.401958240 1 google.com google.com 299
+1580703961.674571088 1 egalacoral.com egalacoral.com 266
+1580703966.727098206 1 egalacoral.com egalacoral.com 261
+1580703966.768079899 1 google.com google.com 299
+1580703966.768207951 1 google.com google.com 299
+1580703967.598487103 1 <Root> drkcbpmgwpaon 86397
+1580703967.598797762 1 <Root> ilqkjzcdnslsyeu 86387
+1580703967.599973037 1 <Root> pxxoexkvo 86358
+1580703971.130350639 1 update.googleapis.com update.googleapis.com 299
+1580703971.154715927 1 ssl.gstatic.com ssl.gstatic.com 21

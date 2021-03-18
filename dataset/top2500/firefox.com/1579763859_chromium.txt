@@ -1,0 +1,16 @@
+1579763861.219754831 1 www.gstatic.com www.gstatic.com 172
+1579763861.422011424 1 firefox.com firefox.com 36
+1579763861.591614197 1 accounts.google.com accounts.google.com 299
+1579763865.177824308 1 www.mozilla.org www.mozilla.org.cdn.cloudflare.net 26
+1579763865.177824308 2 www.mozilla.org.cdn.cloudflare.net www.mozilla.org.cdn.cloudflare.net 125
+1579763865.177824308 3 www.mozilla.org.cdn.cloudflare.net www.mozilla.org 125
+1579763865.522467832 1 mozilla.org mozilla.org 16
+1579763865.525844508 1 www.googletagmanager.com www-googletagmanager.l.google.com 21408
+1579763865.525844508 2 www-googletagmanager.l.google.com www.googletagmanager.com 227
+1579763866.463930870 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579763866.463930870 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579763868.158265249 1 <Root> kiqmqfgpaxrck 86394
+1579763868.158337988 1 <Root> plyhlry 86395
+1579763868.159906314 1 <Root> enmaszyoyhaf 86396
+1579763871.144485211 1 ssl.gstatic.com ssl.gstatic.com 214
+1579763875.311135878 1 update.googleapis.com update.googleapis.com 299

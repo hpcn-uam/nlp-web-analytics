@@ -1,0 +1,17 @@
+1580722290.322240689 1 www.gstatic.com www.gstatic.com 29
+1580722290.467086327 1 agenciatributaria.gob.es agenciatributaria.gob.es 165
+1580722290.637954765 1 accounts.google.com accounts.google.com 201
+1580722290.703549942 1 agenciatributaria.gob.es agenciatributaria.gob.es 172
+1580722290.949912988 1 google.com google.com 84
+1580722290.950184369 1 google.com google.com 82
+1580722291.268171595 1 agenciatributaria.gob.es agenciatributaria.gob.es 192
+1580722291.287980342 1 agenciatributaria.gob.es agenciatributaria.gob.es 291
+1580722296.337963227 1 agenciatributaria.gob.es agenciatributaria.gob.es 209
+1580722296.351954234 1 agenciatributaria.gob.es agenciatributaria.gob.es 286
+1580722296.398492797 1 google.com google.com 37
+1580722296.398716365 1 google.com google.com 8
+1580722297.251006828 1 <Root> ukxfzwutrzfjn 86386
+1580722297.251093434 1 <Root> xriyhtgqgglxa 86384
+1580722297.251359256 1 <Root> wdtakmxojns 86397
+1580722300.252321776 1 ssl.gstatic.com ssl.gstatic.com 252
+1580722302.754447974 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579759630.680314448 1 www.gstatic.com www.gstatic.com 299
+1579759630.796376228 1 mapnwea.org mapnwea.org 867
+1579759630.848106384 1 accounts.google.com accounts.google.com 299
+1579759631.197817315 1 mapnwea.org mapnwea.org 866
+1579759631.391407608 1 google.com google.com 299
+1579759631.392023963 1 google.com google.com 299
+1579759631.761330853 1 mapnwea.org mapnwea.org 866
+1579759636.832571685 1 mapnwea.org mapnwea.org 861
+1579759636.878400014 1 google.com google.com 299
+1579759636.878510607 1 google.com google.com 299
+1579759637.617315622 1 <Root> ovmlcxbulsksy 86370
+1579759637.618849831 1 <Root> cqwpuybac 86385
+1579759637.620344876 1 <Root> jwfxbhqi 86394
+1579759640.619752326 1 ssl.gstatic.com ssl.gstatic.com 197
+1579759643.175296548 1 update.googleapis.com update.googleapis.com 299

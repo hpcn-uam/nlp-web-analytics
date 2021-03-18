@@ -1,0 +1,9 @@
+1580778818.972669348 1 www.gstatic.com www.gstatic.com 299
+1580778819.125363776 1 pearson-intl.com pearson-intl.com 599
+1580778819.153905235 1 accounts.google.com accounts.google.com 58
+1580778822.769759454 1 www.pearson-intl.com www.pearson-intl.com 599
+1580778824.853826888 1 update.googleapis.com update.googleapis.com 299
+1580778825.889967889 1 <Root> famiwadlcte 86385
+1580778825.890049199 1 <Root> hegyvldetnswvqs 86397
+1580778825.890301821 1 <Root> gvjjlaenjvahc 86291
+1580778828.893750301 1 ssl.gstatic.com ssl.gstatic.com 299

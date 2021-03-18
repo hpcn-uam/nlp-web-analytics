@@ -1,0 +1,14 @@
+1579778560.564679299 1 www.gstatic.com www.gstatic.com 299
+1579778560.887255673 1 accounts.google.com accounts.google.com 168
+1579778561.465669244 1 sej.co.jp sej.co.jp 1799
+1579778561.573343848 1 google.com google.com 299
+1579778561.573790541 1 google.com google.com 299
+1579778562.019753956 1 sej.co.jp sej.co.jp 1799
+1579778567.328341816 1 sej.co.jp sej.co.jp 1799
+1579778567.371777414 1 google.com google.com 229
+1579778567.373224223 1 google.com google.com 299
+1579778567.504326299 1 <Root> hclhbmc 86397
+1579778567.505416654 1 <Root> oynuuvqnacic 86389
+1579778567.506991046 1 <Root> adbzuwulftekw 86392
+1579778569.298103742 1 update.googleapis.com update.googleapis.com 299
+1579778570.508073686 1 ssl.gstatic.com ssl.gstatic.com 299

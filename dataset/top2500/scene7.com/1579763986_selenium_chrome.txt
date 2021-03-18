@@ -1,0 +1,4 @@
+1579763989.664447596 1 scene7.com scene7.com 1799
+1579763990.449407107 1 ubuntu.com connectivity-check.ubuntu.com 121
+1579763990.449469398 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 277
+1579763990.449469398 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 277

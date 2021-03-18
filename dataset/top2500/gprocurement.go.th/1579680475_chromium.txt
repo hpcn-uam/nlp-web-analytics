@@ -1,0 +1,14 @@
+1579680476.870867835 1 www.gstatic.com www.gstatic.com 96
+1579680477.142548856 1 accounts.google.com accounts.google.com 43
+1579680477.339390139 1 gprocurement.go.th gprocurement.go.th 299
+1579680477.647539604 1 google.com google.com 299
+1579680477.648000057 1 google.com google.com 299
+1579680480.161365620 1 gprocurement.go.th gprocurement.go.th 264
+1579680480.174269638 1 update.googleapis.com update.googleapis.com 114
+1579680483.808652653 1 <Root> ihzmjftivzt 86382
+1579680483.808736786 1 <Root> ihwazmcglq 86377
+1579680483.808754167 1 <Root> zsgjwhcpcmmi 86396
+1579680485.898487295 1 gprocurement.go.th gprocurement.go.th 299
+1579680485.952543293 1 google.com google.com 299
+1579680485.952597201 1 google.com google.com 299
+1579680486.808456823 1 ssl.gstatic.com ssl.gstatic.com 204

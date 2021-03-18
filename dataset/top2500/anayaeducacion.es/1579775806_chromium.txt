@@ -1,0 +1,16 @@
+1579775808.360151034 1 www.gstatic.com www.gstatic.com 28
+1579775808.467852592 1 anayaeducacion.es anayaeducacion.es 4437
+1579775808.568375004 1 accounts.google.com accounts.google.com 166
+1579775812.629584832 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1579775812.629584832 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1579775812.916689025 1 stats.g.doubleclick.net stats.l.doubleclick.net 21337
+1579775812.916689025 2 stats.l.doubleclick.net stats.l.doubleclick.net 37
+1579775812.916689025 3 stats.l.doubleclick.net stats.l.doubleclick.net 37
+1579775812.916689025 4 stats.l.doubleclick.net stats.l.doubleclick.net 37
+1579775812.916689025 5 stats.l.doubleclick.net stats.g.doubleclick.net 37
+1579775816.340577508 1 update.googleapis.com update.googleapis.com 299
+1579775817.947779756 1 <Root> nxhszvzvijtw 86392
+1579775817.952190910 1 <Root> jldqxvtyoot 86397
+1579775817.954745682 1 <Root> pyahvcvoticjyp 86381
+1579775817.993697776 1 www.foroanaya.es www.foroanaya.es 13296
+1579775818.310104923 1 ssl.gstatic.com ssl.gstatic.com 44

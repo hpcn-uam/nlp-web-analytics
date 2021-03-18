@@ -1,0 +1,15 @@
+1580757015.534563916 1 www.gstatic.com www.gstatic.com 299
+1580757015.656319866 1 viabcp.com viabcp.com 1767
+1580757015.754738697 1 accounts.google.com accounts.google.com 299
+1580757016.170599667 1 viabcp.com viabcp.com 1799
+1580757016.319010385 1 google.com google.com 101
+1580757016.320801050 1 google.com google.com 299
+1580757016.552296944 1 viabcp.com viabcp.com 1766
+1580757021.814331506 1 viabcp.com viabcp.com 1799
+1580757021.832373897 1 google.com google.com 120
+1580757021.852140631 1 google.com google.com 120
+1580757022.470072183 1 <Root> yryhoewgkw 86385
+1580757022.470323805 1 <Root> ruezncgjyedanc 86398
+1580757022.471864634 1 <Root> ddfkgigzxwyh 86390
+1580757026.099105099 1 update.googleapis.com update.googleapis.com 299
+1580757026.118734453 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,17 @@
+1579773649.069679310 1 www.gstatic.com www.gstatic.com 189
+1579773649.223327974 1 qaemhost.ir qaemhost.ir 299
+1579773649.455192579 1 accounts.google.com accounts.google.com 299
+1579773653.368046954 1 www.qaemhost.ir qaemhost.ir 264
+1579773653.368046954 2 qaemhost.ir www.qaemhost.ir 264
+1579773653.988138665 1 www.googletagmanager.com www-googletagmanager.l.google.com 21345
+1579773653.988138665 2 www-googletagmanager.l.google.com www.googletagmanager.com 45
+1579773654.660925408 1 clients1.google.com clients.l.google.com 189
+1579773654.660925408 2 clients.l.google.com clients1.google.com 189
+1579773654.688819483 1 translate.googleapis.com translate.googleapis.com 299
+1579773654.877719393 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579773654.877719393 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579773656.004765035 1 <Root> bghqxvidia 86393
+1579773656.005434406 1 <Root> pqkykutoivwatuo 86393
+1579773656.005888722 1 <Root> qzquutrhozvihb 86398
+1579773659.025958428 1 ssl.gstatic.com ssl.gstatic.com 299
+1579773661.491060509 1 update.googleapis.com update.googleapis.com 285

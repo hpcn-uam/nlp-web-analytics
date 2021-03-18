@@ -1,0 +1,15 @@
+1580749031.093718889 1 www.gstatic.com www.gstatic.com 299
+1580749031.211947922 1 bithumen.be bithumen.be 539
+1580749031.307904253 1 accounts.google.com accounts.google.com 79
+1580749034.943287626 1 media.bithumen.be media.bithumen.be 1799
+1580749035.111090878 1 bhstatic.imageservecdn.com bhstatic.imageservecdn.com 299
+1580749035.111090878 2 bhstatic.imageservecdn.com bhstatic.imageservecdn.com 299
+1580749035.140198638 1 clients1.google.com clients.l.google.com 211
+1580749035.140198638 2 clients.l.google.com clients1.google.com 211
+1580749035.211975398 1 www.google-analytics.com www-google-analytics.l.google.com 21417
+1580749035.211975398 2 www-google-analytics.l.google.com www.google-analytics.com 265
+1580749038.038118365 1 <Root> pyakmavm 86383
+1580749038.039453844 1 <Root> drivqif 86396
+1580749038.041324219 1 <Root> adqpmuumkik 86373
+1580749042.500532840 1 update.googleapis.com update.googleapis.com 299
+1580749044.032985087 1 ssl.gstatic.com ssl.gstatic.com 102

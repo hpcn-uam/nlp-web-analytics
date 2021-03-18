@@ -1,0 +1,10 @@
+1579652217.730203137 1 www.gstatic.com www.gstatic.com 146
+1579652217.945926818 1 accounts.google.com accounts.google.com 215
+1579652218.020623664 1 sdsu.edu sdsu.edu 359
+1579652221.753800837 1 www.sdsu.edu www.sdsu.edu.cdn.cloudflare.net 11621
+1579652221.753800837 2 www.sdsu.edu.cdn.cloudflare.net www.sdsu.edu.cdn.cloudflare.net 299
+1579652221.753800837 3 www.sdsu.edu.cdn.cloudflare.net www.sdsu.edu 299
+1579652224.664603431 1 <Root> fvuqqfkbq 86360
+1579652224.664964492 1 <Root> nnhtwaseil 86390
+1579652224.665426992 1 <Root> ooxogfgvsfqojr 86344
+1579652227.666546099 1 ssl.gstatic.com ssl.gstatic.com 299

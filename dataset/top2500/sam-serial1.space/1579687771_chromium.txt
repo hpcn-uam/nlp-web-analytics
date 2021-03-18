@@ -1,0 +1,11 @@
+1579687772.936489059 1 www.gstatic.com www.gstatic.com 46
+1579687773.078926368 1 sam-serial1.space sam-serial1.space 299
+1579687773.078926368 2 sam-serial1.space sam-serial1.space 299
+1579687773.152948922 1 accounts.google.com accounts.google.com 283
+1579687779.830110387 1 <Root> xilcwkybhnbfo 86395
+1579687779.830281309 1 <Root> moupshavntmcfh 86396
+1579687779.844791284 1 <Root> zxpgtsh 86399
+1579687782.810793382 1 ssl.gstatic.com ssl.gstatic.com 124
+1579687790.449670423 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 350
+1579687790.449670423 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 350
+1579687790.449982071 1 ubuntu.com connectivity-check.ubuntu.com 755

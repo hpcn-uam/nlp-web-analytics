@@ -1,0 +1,8 @@
+1580805742.384573788 1 www.gstatic.com www.gstatic.com 108
+1580805742.579994947 1 www.simply.es www.simply.es 299
+1580805742.613674355 1 accounts.google.com accounts.google.com 299
+1580805749.328838211 1 <Root> fvgxuegtps 86383
+1580805749.330874015 1 <Root> cbajenkitbiyg 86397
+1580805749.331553145 1 <Root> vfnydwji 86395
+1580805752.333193057 1 ssl.gstatic.com ssl.gstatic.com 299
+1580805756.883687272 1 update.googleapis.com update.googleapis.com 159

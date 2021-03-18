@@ -1,0 +1,10 @@
+1580625828.377457928 1 www.gstatic.com www.gstatic.com 299
+1580625828.524782141 1 webuntis.com webuntis.com 3599
+1580625828.539570421 1 accounts.google.com accounts.google.com 299
+1580625832.910049877 1 clients1.google.com clients.l.google.com 107
+1580625832.910049877 2 clients.l.google.com clients1.google.com 107
+1580625836.586619840 1 update.googleapis.com update.googleapis.com 299
+1580625836.587364993 1 <Root> mfdqgdugbusczss 86391
+1580625836.588699175 1 <Root> eboffvgzavmflcc 86353
+1580625836.589589396 1 <Root> cdgmdqlq 86376
+1580625838.746259058 1 ssl.gstatic.com ssl.gstatic.com 247

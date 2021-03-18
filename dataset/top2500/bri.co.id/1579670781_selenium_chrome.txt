@@ -1,0 +1,12 @@
+1579670785.238934072 1 bri.co.id bri.co.id 3599
+1579670786.544612490 1 ocsp.digicert.com cs9.wac.phicdn.net 4569
+1579670786.544612490 2 cs9.wac.phicdn.net ocsp.digicert.com 3170
+1579670803.756155192 1 www.google-analytics.com www-google-analytics.l.google.com 21410
+1579670803.756155192 2 www-google-analytics.l.google.com www.google-analytics.com 110
+1579670804.231930879 1 stats.g.doubleclick.net stats.l.doubleclick.net 21564
+1579670804.231930879 2 stats.l.doubleclick.net stats.l.doubleclick.net 264
+1579670804.231930879 3 stats.l.doubleclick.net stats.l.doubleclick.net 264
+1579670804.231930879 4 stats.l.doubleclick.net stats.l.doubleclick.net 264
+1579670804.231930879 5 stats.l.doubleclick.net stats.g.doubleclick.net 264
+1579670804.335203993 1 www.google.com www.google.com 299
+1579670804.420249300 1 www.google.es www.google.es 42

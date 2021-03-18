@@ -1,0 +1,17 @@
+1579698404.121328592 1 www.gstatic.com www.gstatic.com 253
+1579698404.289211737 1 turkiye.gov.tr turkiye.gov.tr 8014
+1579698404.319547097 1 accounts.google.com accounts.google.com 275
+1579698404.632047463 1 www.turkiye.gov.tr www.turkiye.gov.tr 14713
+1579698405.051912272 1 giris.turkiye.gov.tr giris.turkiye.gov.tr 7974
+1579698405.057340109 1 static.turkiye.gov.tr static.turkiye.gov.tr 20126
+1579698408.211164285 1 clients1.google.com clients.l.google.com 299
+1579698408.211164285 2 clients.l.google.com clients1.google.com 299
+1579698408.230668834 1 translate.googleapis.com translate.googleapis.com 299
+1579698410.124215292 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 518
+1579698410.124215292 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 518
+1579698410.124362063 1 ubuntu.com connectivity-check.ubuntu.com 451
+1579698411.065175383 1 <Root> vytzjegsjsoel 86397
+1579698411.065226337 1 <Root> qfjurahcslm 86398
+1579698411.066326948 1 <Root> ioxdrpfbkgc 86391
+1579698414.067098949 1 ssl.gstatic.com ssl.gstatic.com 209
+1579698419.920379483 1 update.googleapis.com update.googleapis.com 299

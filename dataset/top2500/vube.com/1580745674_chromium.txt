@@ -1,0 +1,14 @@
+1580745676.103887441 1 www.gstatic.com www.gstatic.com 299
+1580745676.390407859 1 accounts.google.com accounts.google.com 7
+1580745676.570882703 1 vube.com vube.com 299
+1580745676.896527636 1 google.com google.com 299
+1580745676.897407959 1 google.com google.com 299
+1580745677.109690663 1 vube.com vube.com 266
+1580745682.475303501 1 vube.com vube.com 299
+1580745682.521419866 1 google.com google.com 299
+1580745682.522777996 1 google.com google.com 69
+1580745683.047681241 1 <Root> uflilxaxsargovb 86388
+1580745683.049479186 1 <Root> ubzyefj 86391
+1580745683.064031037 1 <Root> evrqijaedtgb 86399
+1580745684.645645271 1 update.googleapis.com update.googleapis.com 299
+1580745686.048733405 1 ssl.gstatic.com ssl.gstatic.com 99

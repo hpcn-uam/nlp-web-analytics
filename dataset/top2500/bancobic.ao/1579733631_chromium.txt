@@ -1,0 +1,13 @@
+1579733633.064002001 1 www.gstatic.com www.gstatic.com 299
+1579733633.375279335 1 accounts.google.com accounts.google.com 299
+1579733633.570123066 1 bancobic.ao bancobic.ao 7199
+1579733637.664066488 1 www.bancobic.ao www.bancobic.ao 899
+1579733638.206712144 1 ocsp.digicert.com cs9.wac.phicdn.net 15947
+1579733638.206712144 2 cs9.wac.phicdn.net ocsp.digicert.com 3527
+1579733639.991939100 1 <Root> iawgndtvxsoookl 86398
+1579733639.992026963 1 <Root> jeummhzwi 86394
+1579733639.992285344 1 <Root> yemronsipvdt 86386
+1579733641.860064168 1 translate.googleapis.com translate.googleapis.com 299
+1579733641.862667658 1 clients1.google.com clients.l.google.com 299
+1579733641.862667658 2 clients.l.google.com clients1.google.com 299
+1579733642.997382621 1 ssl.gstatic.com ssl.gstatic.com 227

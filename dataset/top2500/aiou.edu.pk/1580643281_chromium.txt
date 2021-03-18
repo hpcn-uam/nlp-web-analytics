@@ -1,0 +1,11 @@
+1580643282.830331517 1 www.gstatic.com www.gstatic.com 120
+1580643283.006110363 1 aiou.edu.pk aiou.edu.pk 3478
+1580643283.079613348 1 accounts.google.com accounts.google.com 299
+1580643289.771080186 1 <Root> hoiqvgvqiznh 86376
+1580643289.771324427 1 <Root> pqvolifvfap 86395
+1580643289.771890327 1 <Root> rvmdryojh 86398
+1580643290.452911032 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 291
+1580643290.452911032 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 291
+1580643290.453004954 1 ubuntu.com connectivity-check.ubuntu.com 1232
+1580643292.771644253 1 ssl.gstatic.com ssl.gstatic.com 299
+1580643298.431148021 1 update.googleapis.com update.googleapis.com 208

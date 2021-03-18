@@ -1,0 +1,8 @@
+1579676207.925517388 1 www.gstatic.com www.gstatic.com 77
+1579676208.111600226 1 accounts.google.com accounts.google.com 299
+1579676213.077080184 1 shofteph.com shofteph.com 261
+1579676213.077080184 2 shofteph.com shofteph.com 261
+1579676214.862289788 1 <Root> orssacqn 86397
+1579676214.863451627 1 <Root> lucqtubg 86392
+1579676214.865490616 1 <Root> rilkjgchwe 86396
+1579676217.866297647 1 ssl.gstatic.com ssl.gstatic.com 299

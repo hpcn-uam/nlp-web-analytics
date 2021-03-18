@@ -1,0 +1,15 @@
+1580667556.502313158 1 www.gstatic.com www.gstatic.com 299
+1580667556.685953190 1 adyieldoptimizer.com adyieldoptimizer.com 867
+1580667556.746403235 1 accounts.google.com accounts.google.com 299
+1580667556.984340488 1 adyieldoptimizer.com adyieldoptimizer.com 899
+1580667557.164276990 1 google.com google.com 221
+1580667557.165179183 1 google.com google.com 299
+1580667557.470038912 1 adyieldoptimizer.com adyieldoptimizer.com 866
+1580667562.551250804 1 adyieldoptimizer.com adyieldoptimizer.com 899
+1580667562.589407964 1 google.com google.com 216
+1580667562.590119264 1 google.com google.com 299
+1580667563.434988133 1 <Root> rgcvbntl 86394
+1580667563.436022087 1 <Root> wemzpuhvkitir 86392
+1580667563.436356598 1 <Root> plvhzjzymba 86394
+1580667565.905770679 1 update.googleapis.com update.googleapis.com 235
+1580667566.437612369 1 ssl.gstatic.com ssl.gstatic.com 299

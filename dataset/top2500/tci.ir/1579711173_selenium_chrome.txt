@@ -1,0 +1,4 @@
+1579711177.185327474 1 tci.ir tci.ir 3599
+1579711190.452680260 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 318
+1579711190.452680260 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 318
+1579711190.452725393 1 ubuntu.com connectivity-check.ubuntu.com 747

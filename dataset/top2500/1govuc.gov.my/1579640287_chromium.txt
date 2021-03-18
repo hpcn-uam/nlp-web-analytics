@@ -1,0 +1,14 @@
+1579640289.272518107 1 www.gstatic.com www.gstatic.com 299
+1579640289.413830202 1 accounts.google.com accounts.google.com 299
+1579640289.692436964 1 1govuc.gov.my 1govuc.gov.my 299
+1579640289.978892231 1 google.com google.com 219
+1579640290.000144940 1 google.com google.com 299
+1579640291.927083160 1 1govuc.gov.my 1govuc.gov.my 267
+1579640291.934346353 1 update.googleapis.com update.googleapis.com 127
+1579640296.213131549 1 <Root> tjjcxfyywrxec 86392
+1579640296.213714408 1 <Root> ewlpzmthfnso 86378
+1579640296.214155037 1 <Root> ryokvrezrzgx 86398
+1579640297.325480762 1 1govuc.gov.my 1govuc.gov.my 299
+1579640297.367861369 1 google.com google.com 60
+1579640297.369087947 1 google.com google.com 299
+1579640299.215813567 1 ssl.gstatic.com ssl.gstatic.com 299

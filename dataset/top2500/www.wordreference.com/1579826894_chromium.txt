@@ -1,0 +1,17 @@
+1579826895.607459819 1 www.gstatic.com www.gstatic.com 299
+1579826895.794842630 1 www.wordreference.com www.wordreference.com 299
+1579826895.888398127 1 accounts.google.com accounts.google.com 299
+1579826896.487256965 1 www.google-analytics.com www-google-analytics.l.google.com 21568
+1579826896.487256965 2 www-google-analytics.l.google.com www.google-analytics.com 268
+1579826896.737912784 1 clients1.google.com clients.l.google.com 299
+1579826896.737912784 2 clients.l.google.com clients1.google.com 299
+1579826896.869753424 1 stats.g.doubleclick.net stats.l.doubleclick.net 21599
+1579826896.869753424 2 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1579826896.869753424 3 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1579826896.869753424 4 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1579826896.869753424 5 stats.l.doubleclick.net stats.g.doubleclick.net 299
+1579826902.541273633 1 <Root> uxcazdivotah 86325
+1579826902.541623687 1 <Root> jcdwqiliyuc 86339
+1579826902.542938778 1 <Root> zawbbqcep 86360
+1579826907.236604939 1 update.googleapis.com update.googleapis.com 113
+1579826908.809589873 1 ssl.gstatic.com ssl.gstatic.com 299

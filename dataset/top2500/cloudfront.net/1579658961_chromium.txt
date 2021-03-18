@@ -1,0 +1,15 @@
+1579658962.757823259 1 www.gstatic.com www.gstatic.com 299
+1579658962.902424784 1 cloudfront.net cloudfront.net 53
+1579658962.948645432 1 accounts.google.com accounts.google.com 89
+1579658963.203978870 1 cloudfront.net cloudfront.net 52
+1579658963.386300518 1 google.com google.com 299
+1579658963.386559052 1 google.com google.com 299
+1579658963.676607442 1 cloudfront.net cloudfront.net 23
+1579658968.788310621 1 cloudfront.net cloudfront.net 46
+1579658968.823400788 1 google.com google.com 294
+1579658968.824448422 1 google.com google.com 299
+1579658969.699785533 1 <Root> znnglzf 86386
+1579658969.702108703 1 <Root> pijxcoqoewvb 86398
+1579658969.702367560 1 <Root> mvslxjixzvqbya 86376
+1579658973.956813443 1 update.googleapis.com update.googleapis.com 299
+1579658973.968722061 1 ssl.gstatic.com ssl.gstatic.com 75

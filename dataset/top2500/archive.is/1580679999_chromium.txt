@@ -1,0 +1,17 @@
+1580680000.729530768 1 www.gstatic.com www.gstatic.com 299
+1580680000.810968752 1 archive.is archive.is 299
+1580680001.008860385 1 accounts.google.com accounts.google.com 121
+1580680004.537958027 1 top-fwz1.mail.ru top-fwz1.mail.ru 55
+1580680004.573801078 1 clients1.google.com clients.l.google.com 299
+1580680004.573801078 2 clients.l.google.com clients1.google.com 299
+1580680004.586676168 1 liberapay.com liberapay.com 118
+1580680004.586676168 2 liberapay.com liberapay.com 118
+1580680004.593791837 1 blog.archive.today domains.tumblr.com 299
+1580680004.593791837 2 domains.tumblr.com domains.tumblr.com 89
+1580680004.593791837 3 domains.tumblr.com blog.archive.today 89
+1580680004.596025288 1 archive.today archive.today 299
+1580680007.599898545 1 <Root> xbiwalrck 86375
+1580680007.600351124 1 <Root> igjcgxekokw 86394
+1580680007.602402337 1 <Root> kagqpjqggvtjmqv 86385
+1580680010.600926095 1 ssl.gstatic.com ssl.gstatic.com 83
+1580680016.409844822 1 update.googleapis.com update.googleapis.com 114

@@ -1,0 +1,15 @@
+1580754470.265176923 1 www.gstatic.com www.gstatic.com 78
+1580754470.511308524 1 accounts.google.com accounts.google.com 299
+1580754470.619929539 1 pref.kanagawa.jp pref.kanagawa.jp 899
+1580754470.691176581 1 pref.kanagawa.jp pref.kanagawa.jp 867
+1580754470.840537263 1 google.com google.com 299
+1580754470.840835335 1 google.com google.com 299
+1580754471.485353311 1 pref.kanagawa.jp pref.kanagawa.jp 899
+1580754475.851356311 1 update.googleapis.com update.googleapis.com 299
+1580754476.803544576 1 pref.kanagawa.jp pref.kanagawa.jp 899
+1580754476.849297780 1 google.com google.com 299
+1580754476.849388848 1 google.com google.com 299
+1580754477.207901429 1 <Root> nfwjdjswi 86385
+1580754477.209616473 1 <Root> gsmdybldnczhy 86380
+1580754477.211450029 1 <Root> sleeoqywwslg 86393
+1580754480.210319866 1 ssl.gstatic.com ssl.gstatic.com 299

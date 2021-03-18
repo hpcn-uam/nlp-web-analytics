@@ -1,0 +1,11 @@
+1579796374.276566877 1 www.gstatic.com www.gstatic.com 44
+1579796374.479329678 1 posecoug.pro posecoug.pro 1799
+1579796374.503434874 1 accounts.google.com accounts.google.com 205
+1579796381.209955112 1 <Root> ectjvybcnxru 86392
+1579796381.211546134 1 <Root> cypikzghzn 86394
+1579796381.212974416 1 <Root> hlqrpjfgriwfu 86393
+1579796383.798809392 1 update.googleapis.com update.googleapis.com 215
+1579796384.210667908 1 ssl.gstatic.com ssl.gstatic.com 24
+1579796390.449271350 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 235
+1579796390.449271350 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 235
+1579796390.463088882 1 ubuntu.com connectivity-check.ubuntu.com 332

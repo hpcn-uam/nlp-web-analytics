@@ -1,0 +1,10 @@
+1579716982.915106813 1 www.gstatic.com www.gstatic.com 63
+1579716983.118311377 1 impactserving.com impactserving.com 149
+1579716983.118311377 2 impactserving.com impactserving.com 149
+1579716983.276109052 1 accounts.google.com accounts.google.com 7
+1579716986.969566046 1 translate.googleapis.com translate.googleapis.com 299
+1579716992.136437042 1 update.googleapis.com update.googleapis.com 299
+1579716993.695456217 1 <Root> xioeepsqkqn 86392
+1579716993.696507206 1 <Root> whkaoejexxvox 86391
+1579716993.696759425 1 <Root> cocuaukzmitrpmp 86392
+1579716993.719368416 1 ssl.gstatic.com ssl.gstatic.com 272

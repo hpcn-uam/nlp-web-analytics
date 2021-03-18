@@ -1,0 +1,14 @@
+1579699439.860081471 1 www.gstatic.com www.gstatic.com 31
+1579699440.015131216 1 accounts.google.com accounts.google.com 299
+1579699440.355705773 1 epfindia.gov.in epfindia.gov.in 1799
+1579699443.906380787 1 www.epfindia.gov.in www.epfindia.gov.in 1799
+1579699446.795041183 1 <Root> dstnkgzqpbybioc 86390
+1579699446.795253605 1 <Root> chcixfwdzn 86394
+1579699446.796458184 1 <Root> wssiaaxjekn 86396
+1579699449.794707633 1 ssl.gstatic.com ssl.gstatic.com 268
+1579699452.098834408 1 ocsp.digicert.com cs9.wac.phicdn.net 13342
+1579699452.098834408 2 cs9.wac.phicdn.net ocsp.digicert.com 2316
+1579699452.190594392 1 status.geotrust.com ocsp.digicert.com 57
+1579699452.190594392 2 ocsp.digicert.com cs9.wac.phicdn.net 1743
+1579699452.190594392 3 cs9.wac.phicdn.net status.geotrust.com 2356
+1579699459.542249934 1 translate.googleapis.com translate.googleapis.com 299

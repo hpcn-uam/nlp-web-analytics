@@ -1,0 +1,14 @@
+1580799130.051458993 1 www.gstatic.com www.gstatic.com 299
+1580799130.247095916 1 www.ingdirect.es www.ingdirect.es 2891
+1580799130.275195287 1 accounts.google.com accounts.google.com 299
+1580799133.887370062 1 ocsp.digicert.com cs9.wac.phicdn.net 14414
+1580799133.887370062 2 cs9.wac.phicdn.net ocsp.digicert.com 2221
+1580799134.095939031 1 www.ing.es www.ing.es 3366
+1580799134.691656962 1 tags.tiqcdn.com tags.tiqcdn.com.edgekey.net 299
+1580799134.691656962 2 tags.tiqcdn.com.edgekey.net e8091.a.akamaiedge.net 151
+1580799134.691656962 3 e8091.a.akamaiedge.net tags.tiqcdn.com 19
+1580799136.997229075 1 <Root> hynmkqefqq 86396
+1580799136.998544889 1 <Root> vroadplwa 86373
+1580799136.999371448 1 <Root> awohrneebaqotcy 86373
+1580799139.999861879 1 ssl.gstatic.com ssl.gstatic.com 213
+1580799150.178599437 1 update.googleapis.com update.googleapis.com 200

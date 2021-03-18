@@ -1,0 +1,15 @@
+1579722819.334547218 1 www.gstatic.com www.gstatic.com 299
+1579722819.512329852 1 accounts.google.com accounts.google.com 299
+1579722819.586224641 1 textfixer.com textfixer.com 14399
+1579722823.727090960 1 www.textfixer.com textfixer.com 14131
+1579722823.727090960 2 textfixer.com www.textfixer.com 14131
+1579722823.974150866 1 www.googletagmanager.com www-googletagmanager.l.google.com 21467
+1579722823.974150866 2 www-googletagmanager.l.google.com www.googletagmanager.com 167
+1579722824.128385853 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579722824.128385853 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579722824.322635282 1 translate.googleapis.com translate.googleapis.com 15
+1579722827.064920614 1 update.googleapis.com update.googleapis.com 299
+1579722827.067397469 1 <Root> eejdqdwf 86393
+1579722827.068502701 1 <Root> qllyhtbwhiofgee 86393
+1579722827.071571267 1 <Root> xxtchvfg 86384
+1579722830.192270252 1 ssl.gstatic.com ssl.gstatic.com 72

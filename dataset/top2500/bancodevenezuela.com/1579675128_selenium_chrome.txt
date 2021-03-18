@@ -1,0 +1,12 @@
+1579675132.363612523 1 bancodevenezuela.com bancodevenezuela.com 3562
+1579675133.656932655 1 fonts.googleapis.com fonts.googleapis.com 35
+1579675158.869374753 1 detectportal.firefox.com detectportal.prod.mozaws.net 58
+1579675158.869374753 2 detectportal.prod.mozaws.net detectportal.firefox.com-v2.edgesuite.net 34
+1579675158.869374753 3 detectportal.firefox.com-v2.edgesuite.net a1089.dscd.akamai.net 21357
+1579675158.869374753 4 a1089.dscd.akamai.net a1089.dscd.akamai.net 13
+1579675158.869374753 5 a1089.dscd.akamai.net detectportal.firefox.com 13
+1579675158.869413325 1 detectportal.firefox.com detectportal.prod.mozaws.net 58
+1579675158.869413325 2 detectportal.prod.mozaws.net detectportal.firefox.com-v2.edgesuite.net 34
+1579675158.869413325 3 detectportal.firefox.com-v2.edgesuite.net a1089.dscd.akamai.net 21357
+1579675158.869413325 4 a1089.dscd.akamai.net a1089.dscd.akamai.net 13
+1579675158.869413325 5 a1089.dscd.akamai.net detectportal.firefox.com 13

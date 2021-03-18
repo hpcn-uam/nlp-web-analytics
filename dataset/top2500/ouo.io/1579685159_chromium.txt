@@ -1,0 +1,17 @@
+1579685161.057098183 1 www.gstatic.com www.gstatic.com 152
+1579685161.230218257 1 ouo.io ouo.io 195
+1579685161.230218257 2 ouo.io ouo.io 195
+1579685161.252518853 1 accounts.google.com accounts.google.com 280
+1579685162.152936330 1 fonts.googleapis.com fonts.googleapis.com 279
+1579685162.246749814 1 fonts.gstatic.com gstaticadssl.l.google.com 19
+1579685162.246749814 2 gstaticadssl.l.google.com fonts.gstatic.com 246
+1579685162.694346978 1 clients1.google.com clients.l.google.com 108
+1579685162.694346978 2 clients.l.google.com clients1.google.com 108
+1579685162.714133761 1 translate.googleapis.com translate.googleapis.com 299
+1579685162.784464707 1 www.google-analytics.com www-google-analytics.l.google.com 21551
+1579685162.784464707 2 www-google-analytics.l.google.com www.google-analytics.com 251
+1579685168.005993484 1 <Root> gmdzsnfhrj 86398
+1579685168.006918690 1 <Root> dopkchviwhrb 86391
+1579685168.008496701 1 <Root> xfjyacc 86392
+1579685171.670303526 1 ssl.gstatic.com ssl.gstatic.com 175
+1579685171.671396161 1 update.googleapis.com update.googleapis.com 299

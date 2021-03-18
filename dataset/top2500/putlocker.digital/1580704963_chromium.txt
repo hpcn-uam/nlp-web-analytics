@@ -1,0 +1,14 @@
+1580704964.686454186 1 www.gstatic.com www.gstatic.com 299
+1580704964.854932931 1 putlocker.digital putlocker.digital 299
+1580704964.854932931 2 putlocker.digital putlocker.digital 299
+1580704964.884070534 1 accounts.google.com accounts.google.com 79
+1580704968.420903116 1 movies.cab movies.cab 299
+1580704968.420903116 2 movies.cab movies.cab 299
+1580704968.865435778 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580704968.865435778 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580704968.964915550 1 translate.googleapis.com translate.googleapis.com 299
+1580704971.622611822 1 <Root> pdsbryt 86383
+1580704971.623837072 1 <Root> luftxov 86380
+1580704971.625667936 1 <Root> pmimzaqehoqkr 86392
+1580704974.036856569 1 update.googleapis.com update.googleapis.com 299
+1580704974.624417144 1 ssl.gstatic.com ssl.gstatic.com 299

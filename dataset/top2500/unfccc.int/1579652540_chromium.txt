@@ -1,0 +1,17 @@
+1579652542.199285298 1 www.gstatic.com www.gstatic.com 299
+1579652542.307933163 1 unfccc.int unfccc.int 2952
+1579652542.307933163 2 unfccc.int unfccc.int 2952
+1579652542.439478931 1 accounts.google.com accounts.google.com 70
+1579652546.380331764 1 cdn.onesignal.com cdn.onesignal.com 78
+1579652546.380331764 2 cdn.onesignal.com cdn.onesignal.com 78
+1579652547.305531913 1 www.google-analytics.com www-google-analytics.l.google.com 21333
+1579652547.305531913 2 www-google-analytics.l.google.com www.google-analytics.com 33
+1579652547.394751064 1 stats.g.doubleclick.net stats.l.doubleclick.net 21510
+1579652547.394751064 2 stats.l.doubleclick.net stats.l.doubleclick.net 210
+1579652547.394751064 3 stats.l.doubleclick.net stats.l.doubleclick.net 210
+1579652547.394751064 4 stats.l.doubleclick.net stats.l.doubleclick.net 210
+1579652547.394751064 5 stats.l.doubleclick.net stats.g.doubleclick.net 210
+1579652549.112174211 1 <Root> hzohyxrbmgjtky 86349
+1579652549.112382164 1 <Root> oxhnyzosfpqkiy 86379
+1579652549.112422088 1 <Root> kpnqsolzfvuyo 86374
+1579652552.114086415 1 ssl.gstatic.com ssl.gstatic.com 119

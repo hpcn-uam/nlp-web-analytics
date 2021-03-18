@@ -1,0 +1,10 @@
+1579681449.501390290 1 www.gstatic.com www.gstatic.com 115
+1579681449.637778286 1 french-bookys.com french-bookys.com 299
+1579681449.637778286 2 french-bookys.com french-bookys.com 299
+1579681449.722817765 1 accounts.google.com accounts.google.com 182
+1579681453.359806901 1 ww2.french-bookys.com ww2.french-bookys.com 264
+1579681453.359806901 2 ww2.french-bookys.com ww2.french-bookys.com 264
+1579681456.440527399 1 <Root> xkklosbgs 86390
+1579681456.441539730 1 <Root> fzijwqiu 86396
+1579681456.443181502 1 <Root> qreycqhzdwwbemd 86388
+1579681459.442599322 1 ssl.gstatic.com ssl.gstatic.com 299

@@ -1,0 +1,10 @@
+1580793782.533999930 1 www.gstatic.com www.gstatic.com 209
+1580793782.680042458 1 www.boe.es www.boe.es 17747
+1580793782.736372657 1 accounts.google.com accounts.google.com 34
+1580793786.360829745 1 ocsp.digicert.com cs9.wac.phicdn.net 13653
+1580793786.360829745 2 cs9.wac.phicdn.net ocsp.digicert.com 3380
+1580793789.476275496 1 <Root> bfrqwkhqonizf 86373
+1580793789.476314786 1 <Root> rpicqzqfuxlg 86389
+1580793789.477493350 1 <Root> kaneomflqsee 86397
+1580793792.493149207 1 ssl.gstatic.com ssl.gstatic.com 299
+1580793798.704558473 1 update.googleapis.com update.googleapis.com 123

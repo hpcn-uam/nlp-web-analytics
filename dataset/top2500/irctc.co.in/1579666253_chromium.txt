@@ -1,0 +1,10 @@
+1579666255.096779934 1 www.gstatic.com www.gstatic.com 299
+1579666255.226095798 1 irctc.co.in irctc.co.in 10093
+1579666255.226095798 2 irctc.co.in irctc.co.in 10093
+1579666255.226095798 3 irctc.co.in irctc.co.in 10093
+1579666255.240188926 1 accounts.google.com accounts.google.com 299
+1579666262.035098170 1 <Root> oevnzpofgcb 86390
+1579666262.037038189 1 <Root> bwmvwllhcccp 86339
+1579666262.037695715 1 <Root> pbdwzbnvxfr 86390
+1579666264.402509396 1 update.googleapis.com update.googleapis.com 299
+1579666265.037328129 1 ssl.gstatic.com ssl.gstatic.com 88

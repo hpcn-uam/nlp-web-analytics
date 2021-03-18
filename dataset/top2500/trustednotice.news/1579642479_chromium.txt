@@ -1,0 +1,11 @@
+1579642481.006789502 1 www.gstatic.com www.gstatic.com 43
+1579642481.143027996 1 trustednotice.news trustednotice.news 846
+1579642481.214043187 1 accounts.google.com accounts.google.com 299
+1579642490.450819515 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 110
+1579642490.450819515 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 110
+1579642490.450842030 1 ubuntu.com connectivity-check.ubuntu.com 1072
+1579642490.647973355 1 update.googleapis.com update.googleapis.com 204
+1579642492.213712538 1 <Root> vxjazvov 86398
+1579642492.215959381 1 <Root> fgudoazjuq 86391
+1579642492.218006421 1 <Root> isvnvnesneko 86366
+1579642492.244349022 1 ssl.gstatic.com ssl.gstatic.com 193

@@ -1,0 +1,9 @@
+1580665809.121988022 1 www.gstatic.com www.gstatic.com 203
+1580665809.261630065 1 thepennyhoarder.com thepennyhoarder.com 59
+1580665809.335143604 1 accounts.google.com accounts.google.com 121
+1580665813.067420079 1 translate.googleapis.com translate.googleapis.com 299
+1580665816.059645066 1 <Root> ckqqxmjqusi 86394
+1580665816.060498467 1 <Root> fotsmbwe 86394
+1580665816.061442451 1 <Root> nhlflmr 86344
+1580665820.591977351 1 update.googleapis.com update.googleapis.com 299
+1580665820.611189901 1 ssl.gstatic.com ssl.gstatic.com 29

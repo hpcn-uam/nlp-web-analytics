@@ -1,0 +1,15 @@
+1580721743.956472381 1 www.gstatic.com www.gstatic.com 139
+1580721744.192806573 1 accounts.google.com accounts.google.com 299
+1580721744.266653711 1 marinmommies.com marinmommies.com 1799
+1580721744.589647395 1 marinmommies.com marinmommies.com 1799
+1580721744.728966222 1 google.com google.com 297
+1580721744.730588055 1 google.com google.com 299
+1580721744.924112794 1 marinmommies.com marinmommies.com 1799
+1580721750.007611497 1 marinmommies.com marinmommies.com 1794
+1580721750.047815617 1 google.com google.com 293
+1580721750.049686696 1 google.com google.com 299
+1580721750.895400433 1 <Root> yupuyujciorye 86397
+1580721750.895458126 1 <Root> qwfaluaxvctygtd 86394
+1580721750.897194567 1 <Root> pjpadshlu 86390
+1580721753.876283931 1 ssl.gstatic.com ssl.gstatic.com 283
+1580721756.402550949 1 update.googleapis.com update.googleapis.com 299

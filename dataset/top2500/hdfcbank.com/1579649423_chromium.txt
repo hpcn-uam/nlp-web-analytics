@@ -1,0 +1,12 @@
+1579649424.879542432 1 www.gstatic.com www.gstatic.com 211
+1579649425.018787502 1 hdfcbank.com hdfcbank.com 266
+1579649425.018787502 2 hdfcbank.com hdfcbank.com 266
+1579649425.070183470 1 accounts.google.com accounts.google.com 210
+1579649425.609286728 1 translate.googleapis.com translate.googleapis.com 31
+1579649429.613877745 1 update.googleapis.com update.googleapis.com 299
+1579649432.325002718 1 <Root> glkzdcrpuus 86386
+1579649432.325558694 1 <Root> yalziprhddkdcv 86358
+1579649432.325799168 1 <Root> ftqehjx 86383
+1579649432.384917473 1 www.hdfcbank.com www.hdfcbank.com 299
+1579649432.384917473 2 www.hdfcbank.com www.hdfcbank.com 299
+1579649434.817847791 1 ssl.gstatic.com ssl.gstatic.com 299

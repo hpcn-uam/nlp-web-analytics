@@ -1,0 +1,10 @@
+1579680153.617350604 1 www.gstatic.com www.gstatic.com 73
+1579680153.750887374 1 crunchyroll.com crunchyroll.com 299
+1579680153.750887374 2 crunchyroll.com crunchyroll.com 299
+1579680153.776965990 1 accounts.google.com accounts.google.com 203
+1579680154.141997363 1 www.crunchyroll.com www.crunchyroll.com 95
+1579680154.141997363 2 www.crunchyroll.com www.crunchyroll.com 95
+1579680160.513838710 1 <Root> bfhxacp 86376
+1579680160.515861377 1 <Root> rfcmwydvito 86398
+1579680160.516235407 1 <Root> cytaihyb 86397
+1579680163.513472163 1 ssl.gstatic.com ssl.gstatic.com 200

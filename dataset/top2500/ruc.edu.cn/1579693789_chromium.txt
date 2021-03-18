@@ -1,0 +1,7 @@
+1579693791.441582405 1 www.gstatic.com www.gstatic.com 258
+1579693791.672789294 1 accounts.google.com accounts.google.com 299
+1579693791.860163756 1 ruc.edu.cn ruc.edu.cn 3599
+1579693798.356921870 1 <Root> hdztuaophvfhn 86396
+1579693798.357910042 1 <Root> njznqjrdruaqsgo 86398
+1579693798.362090908 1 <Root> aagitfreimq 86397
+1579693801.358614061 1 ssl.gstatic.com ssl.gstatic.com 235

@@ -1,0 +1,16 @@
+1580730476.652368253 1 www.gstatic.com www.gstatic.com 299
+1580730476.791943409 1 piraeusbank.gr piraeusbank.gr 13017
+1580730476.791943409 2 piraeusbank.gr piraeusbank.gr 13017
+1580730476.817743345 1 accounts.google.com accounts.google.com 299
+1580730480.492425094 1 www.piraeusbank.gr 5pavv.x.incapdns.net 17832
+1580730480.492425094 2 5pavv.x.incapdns.net www.piraeusbank.gr 29
+1580730481.486735518 1 www.google-analytics.com www-google-analytics.l.google.com 21319
+1580730481.486735518 2 www-google-analytics.l.google.com www.google-analytics.com 19
+1580730482.307766670 1 clients1.google.com clients.l.google.com 208
+1580730482.307766670 2 clients.l.google.com clients1.google.com 208
+1580730482.343913749 1 translate.googleapis.com translate.googleapis.com 299
+1580730483.591017018 1 <Root> xojsgmtpjxv 86396
+1580730483.592046825 1 <Root> sbyidudsbjczx 86396
+1580730483.593188146 1 <Root> erljbqs 86398
+1580730486.575603144 1 ssl.gstatic.com ssl.gstatic.com 221
+1580730496.416435691 1 update.googleapis.com update.googleapis.com 299

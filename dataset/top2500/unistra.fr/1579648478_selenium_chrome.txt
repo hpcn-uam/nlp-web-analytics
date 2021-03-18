@@ -1,0 +1,16 @@
+1579648481.564086039 1 unistra.fr unistra.fr 1799
+1579648481.681091775 1 www.unistra.fr www.unistra.fr 1799
+1579648483.107040685 1 cdn.jsdelivr.net jsdelivr.a7e454.flexbalancer.net 47
+1579648483.107040685 2 jsdelivr.a7e454.flexbalancer.net dualstack.f3.shared.global.fastly.net 9
+1579648483.107040685 3 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579648483.107040685 4 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579648483.107040685 5 dualstack.f3.shared.global.fastly.net dualstack.f3.shared.global.fastly.net 29
+1579648483.107040685 6 dualstack.f3.shared.global.fastly.net cdn.jsdelivr.net 29
+1579648483.110673917 1 ajax.googleapis.com ajax.googleapis.com 113
+1579648483.153741898 1 pod.unistra.fr pod.unistra.fr 1231
+1579648483.199607080 1 vod-stream.di.unistra.fr stream.di.unistra.fr 1799
+1579648483.199607080 2 stream.di.unistra.fr vod-stream.di.unistra.fr 1799
+1579648483.429894359 1 scontent.cdninstagram.com scontent.cdninstagram.com 59
+1579648490.448867169 1 ubuntu.com connectivity-check.ubuntu.com 1780
+1579648490.448916262 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 82
+1579648490.448916262 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 82

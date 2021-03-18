@@ -1,0 +1,9 @@
+1579749758.521496942 1 www.gstatic.com www.gstatic.com 299
+1579749758.731684300 1 accounts.google.com accounts.google.com 299
+1579749758.775915844 1 diva-portal.org diva-portal.org 3599
+1579749762.529817915 1 www.diva-portal.org www.diva-portal.org 2994
+1579749765.455741292 1 <Root> otwojbxoifsz 86355
+1579749765.456075471 1 <Root> sxhgsophlio 86392
+1579749765.456103380 1 <Root> bokfrucdttiaeg 86354
+1579749768.457054808 1 ssl.gstatic.com ssl.gstatic.com 186
+1579749772.966854563 1 update.googleapis.com update.googleapis.com 299

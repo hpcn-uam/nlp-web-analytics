@@ -1,0 +1,10 @@
+1579756550.745401838 1 www.gstatic.com www.gstatic.com 299
+1579756550.946952869 1 ac-montpellier.fr ac-montpellier.fr 3599
+1579756550.993647321 1 accounts.google.com accounts.google.com 299
+1579756554.845926326 1 footprint.net www.footprint.net 1799
+1579756554.855031366 1 translate.googleapis.com translate.googleapis.com 299
+1579756557.688062008 1 <Root> iyqygmyiimybw 86384
+1579756557.688311785 1 <Root> htlvfimpkoud 86381
+1579756557.689929227 1 <Root> pmhgkov 86372
+1579756560.689629843 1 ssl.gstatic.com ssl.gstatic.com 299
+1579756566.933240709 1 update.googleapis.com update.googleapis.com 299

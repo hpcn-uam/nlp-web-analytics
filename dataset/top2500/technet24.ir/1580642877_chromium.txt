@@ -1,0 +1,12 @@
+1580642879.318219829 1 www.gstatic.com www.gstatic.com 299
+1580642879.598153408 1 accounts.google.com accounts.google.com 299
+1580642879.818357900 1 technet24.ir technet24.ir 14399
+1580642885.296838442 1 s.w.org s.w.org 264
+1580642886.252618444 1 <Root> plrhmyfel 86376
+1580642886.252670860 1 <Root> gatfqkobo 86360
+1580642886.253268815 1 <Root> cnmprymvw 86367
+1580642889.235968737 1 ssl.gstatic.com ssl.gstatic.com 118
+1580642890.191727823 1 clients1.google.com clients.l.google.com 17
+1580642890.191727823 2 clients.l.google.com clients1.google.com 17
+1580642890.238823771 1 translate.googleapis.com translate.googleapis.com 299
+1580642906.275940337 1 update.googleapis.com update.googleapis.com 194

@@ -1,0 +1,13 @@
+1579648573.680860623 1 www.gstatic.com www.gstatic.com 299
+1579648573.944882859 1 accounts.google.com accounts.google.com 299
+1579648574.161311585 1 jioconnect.com jioconnect.com 299
+1579648574.322326390 1 google.com google.com 299
+1579648574.639914235 1 jioconnect.com jioconnect.com 299
+1579648577.868040109 1 update.googleapis.com update.googleapis.com 81
+1579648579.760279253 1 jioconnect.com jioconnect.com 294
+1579648579.796522871 1 google.com google.com 210
+1579648579.798404462 1 google.com google.com 299
+1579648580.592953409 1 <Root> ycccwwgsn 86392
+1579648580.595208666 1 <Root> vikxvmpwqfk 86385
+1579648580.597036836 1 <Root> wfopenlb 86389
+1579648583.595582644 1 ssl.gstatic.com ssl.gstatic.com 299

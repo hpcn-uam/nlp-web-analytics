@@ -1,0 +1,11 @@
+1580799225.235373913 1 www.gstatic.com www.gstatic.com 1
+1580799225.414741145 1 www.interviu.es estaticos.grupozeta.es.edgesuite.net 899
+1580799225.414741145 2 estaticos.grupozeta.es.edgesuite.net a1869.g2.akamai.net 20679
+1580799225.414741145 3 a1869.g2.akamai.net a1869.g2.akamai.net 19
+1580799225.414741145 4 a1869.g2.akamai.net www.interviu.es 19
+1580799225.503458620 1 accounts.google.com accounts.google.com 204
+1580799232.580457390 1 update.googleapis.com update.googleapis.com 299
+1580799232.586829574 1 <Root> xgocxwurg 86379
+1580799232.587604363 1 <Root> ruptgsluc 86386
+1580799232.588336623 1 <Root> rhkfyekbxekhg 86396
+1580799235.571996401 1 ssl.gstatic.com ssl.gstatic.com 299

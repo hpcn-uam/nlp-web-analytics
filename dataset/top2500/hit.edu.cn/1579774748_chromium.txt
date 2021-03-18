@@ -1,0 +1,14 @@
+1579774750.356862561 1 www.gstatic.com www.gstatic.com 299
+1579774750.525798829 1 accounts.google.com accounts.google.com 50
+1579774750.877272084 1 hit.edu.cn hit.edu.cn 899
+1579774751.094774434 1 google.com google.com 299
+1579774751.095049214 1 google.com google.com 299
+1579774751.735199373 1 hit.edu.cn hit.edu.cn 899
+1579774756.812105841 1 hit.edu.cn hit.edu.cn 751
+1579774756.848912168 1 google.com google.com 299
+1579774756.867451420 1 google.com google.com 299
+1579774757.266079810 1 <Root> hwbxznhxhjnvqz 86388
+1579774757.266887431 1 <Root> dxwemnnmldp 86398
+1579774757.267673093 1 <Root> hwbtyupd 86386
+1579774760.935152701 1 update.googleapis.com update.googleapis.com 299
+1579774760.955488166 1 ssl.gstatic.com ssl.gstatic.com 299

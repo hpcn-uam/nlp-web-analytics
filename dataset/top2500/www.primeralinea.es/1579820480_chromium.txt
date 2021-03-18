@@ -1,0 +1,11 @@
+1579820482.379795289 1 www.gstatic.com www.gstatic.com 299
+1579820482.524044599 1 www.primeralinea.es www.grupozeta.es.edgesuite.net 102
+1579820482.524044599 2 www.grupozeta.es.edgesuite.net a1726.g1.akamai.net 21143
+1579820482.524044599 3 a1726.g1.akamai.net a1726.g1.akamai.net 19
+1579820482.524044599 4 a1726.g1.akamai.net www.primeralinea.es 19
+1579820482.567842951 1 accounts.google.com accounts.google.com 299
+1579820489.312072442 1 <Root> bbuqvtwiptwbzg 86387
+1579820489.313993316 1 <Root> mfixlxgh 86343
+1579820489.315289955 1 <Root> dpggmtw 86386
+1579820492.313225571 1 ssl.gstatic.com ssl.gstatic.com 128
+1579820495.956221197 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,16 @@
+1579655318.417768912 1 www.gstatic.com www.gstatic.com 299
+1579655318.566759444 1 montre-pour-femmes.myshopify.com shops.myshopify.com 3599
+1579655318.566759444 2 shops.myshopify.com montre-pour-femmes.myshopify.com 1799
+1579655318.581697180 1 accounts.google.com accounts.google.com 204
+1579655319.493907047 1 cdn.shopify.com cdn.tm.shopifysvc.com 3484
+1579655319.493907047 2 cdn.tm.shopifysvc.com dualstack.shopify.map.fastly.net 7
+1579655319.493907047 3 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1579655319.493907047 4 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1579655319.493907047 5 dualstack.shopify.map.fastly.net dualstack.shopify.map.fastly.net 29
+1579655319.493907047 6 dualstack.shopify.map.fastly.net cdn.shopify.com 29
+1579655319.826737723 1 translate.googleapis.com translate.googleapis.com 299
+1579655325.360692534 1 <Root> myrntnwzjht 86384
+1579655325.361799127 1 <Root> oevjcwv 86382
+1579655325.363147482 1 <Root> fbsprglmukbclpd 86363
+1579655328.341976504 1 ssl.gstatic.com ssl.gstatic.com 69
+1579655330.795827999 1 update.googleapis.com update.googleapis.com 113

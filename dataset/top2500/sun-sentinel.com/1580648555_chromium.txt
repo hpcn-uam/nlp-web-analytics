@@ -1,0 +1,17 @@
+1580648557.322894706 1 www.gstatic.com www.gstatic.com 299
+1580648557.601929638 1 accounts.google.com accounts.google.com 192
+1580648557.623401265 1 sun-sentinel.com sun-sentinel.com 299
+1580648557.623401265 2 sun-sentinel.com sun-sentinel.com 299
+1580648557.623401265 3 sun-sentinel.com sun-sentinel.com 299
+1580648561.346692491 1 www.sun-sentinel.com 55301.edgekey.net 59
+1580648561.346692491 2 55301.edgekey.net e24866.f.akamaiedge.net 20220
+1580648561.346692491 3 e24866.f.akamaiedge.net e24866.f.akamaiedge.net 19
+1580648561.346692491 4 e24866.f.akamaiedge.net www.sun-sentinel.com 19
+1580648561.388238384 1 www.tribpub.com tribpub.wpengine.com 3405
+1580648561.388238384 2 tribpub.wpengine.com www.tribpub.com 48
+1580648562.202301977 1 translate.googleapis.com translate.googleapis.com 299
+1580648564.232867826 1 <Root> vcoohvtfxl 86392
+1580648564.235106028 1 <Root> cvbvnnxu 86397
+1580648564.244773441 1 <Root> uumyhsxcpw 86392
+1580648567.235396308 1 ssl.gstatic.com ssl.gstatic.com 299
+1580648571.353419821 1 update.googleapis.com update.googleapis.com 299

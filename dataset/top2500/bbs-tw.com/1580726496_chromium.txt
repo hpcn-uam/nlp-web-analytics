@@ -1,0 +1,13 @@
+1580726497.735823791 1 www.gstatic.com www.gstatic.com 108
+1580726497.946695937 1 bbs-tw.com bbs-tw.com 14399
+1580726497.974119864 1 accounts.google.com accounts.google.com 170
+1580726501.566856062 1 whos.amung.us whos.amung.us 185
+1580726501.566856062 2 whos.amung.us whos.amung.us 185
+1580726501.566856062 3 whos.amung.us whos.amung.us 185
+1580726501.841858132 1 widgets.amung.us widgets.amung.us 107
+1580726501.851710606 1 translate.googleapis.com translate.googleapis.com 299
+1580726504.677568458 1 <Root> rohydppemfag 86363
+1580726504.677638562 1 <Root> uiclmmumfjllecg 86396
+1580726504.678100825 1 <Root> ofsdtlneflnrn 86393
+1580726507.680591797 1 ssl.gstatic.com ssl.gstatic.com 87
+1580726512.049511861 1 update.googleapis.com update.googleapis.com 299

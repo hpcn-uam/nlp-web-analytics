@@ -1,0 +1,17 @@
+1579806736.886915361 1 www.gstatic.com www.gstatic.com 156
+1579806737.105229588 1 uta-net.com uta-net.com 299
+1579806737.127173277 1 accounts.google.com accounts.google.com 299
+1579806737.722428121 1 www.uta-net.com www.uta-net.com 299
+1579806739.034979281 1 www.googletagservices.com pagead46.l.doubleclick.net 21599
+1579806739.034979281 2 pagead46.l.doubleclick.net www.googletagservices.com 299
+1579806739.243895315 1 adservice.google.es pagead46.l.doubleclick.net 57
+1579806739.243895315 2 pagead46.l.doubleclick.net adservice.google.es 57
+1579806739.245225392 1 adservice.google.com pagead46.l.doubleclick.net 299
+1579806739.245225392 2 pagead46.l.doubleclick.net adservice.google.com 299
+1579806739.245561629 1 securepubads.g.doubleclick.net partnerad.l.doubleclick.net 20527
+1579806739.245561629 2 partnerad.l.doubleclick.net securepubads.g.doubleclick.net 299
+1579806745.422757172 1 update.googleapis.com update.googleapis.com 299
+1579806746.992374503 1 <Root> hfswgtqkfpvik 86393
+1579806746.992894250 1 <Root> pfexjmzzxffebxw 86389
+1579806746.993515460 1 <Root> xvrondryuej 86377
+1579806747.016938075 1 ssl.gstatic.com ssl.gstatic.com 299

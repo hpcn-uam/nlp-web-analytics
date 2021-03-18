@@ -1,0 +1,17 @@
+1580732333.321865317 1 www.gstatic.com www.gstatic.com 82
+1580732333.510239537 1 perrduto.tumblr.com perrduto.tumblr.com 299
+1580732333.510239537 2 perrduto.tumblr.com perrduto.tumblr.com 299
+1580732333.510239537 3 perrduto.tumblr.com perrduto.tumblr.com 299
+1580732333.536505339 1 accounts.google.com accounts.google.com 299
+1580732334.111271599 1 www.tumblr.com cs1143.wpc.chicdn.net 8
+1580732334.111271599 2 cs1143.wpc.chicdn.net www.tumblr.com 3567
+1580732334.219839770 1 ocsp.digicert.com cs9.wac.phicdn.net 6415
+1580732334.219839770 2 cs9.wac.phicdn.net ocsp.digicert.com 3186
+1580732334.621512673 1 assets.tumblr.com cs1143.wpc.chicdn.net 27
+1580732334.621512673 2 cs1143.wpc.chicdn.net assets.tumblr.com 3599
+1580732335.874232607 1 pixel.wp.com pixel.wp.com 11827
+1580732340.270651463 1 <Root> nbwtczapigkwfm 86390
+1580732340.270882191 1 <Root> vurzopitqyagc 86398
+1580732340.272819311 1 <Root> gogdietyjiyt 86392
+1580732346.090394245 1 update.googleapis.com update.googleapis.com 299
+1580732347.643151696 1 ssl.gstatic.com ssl.gstatic.com 299

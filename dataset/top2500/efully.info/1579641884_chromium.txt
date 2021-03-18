@@ -1,0 +1,11 @@
+1579641886.198596608 1 www.gstatic.com www.gstatic.com 299
+1579641886.369309581 1 efully.info efully.info 1767
+1579641886.406102027 1 accounts.google.com accounts.google.com 299
+1579641890.450684663 1 ubuntu.com connectivity-check.ubuntu.com 1184
+1579641890.450740518 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 92
+1579641890.450740518 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 92
+1579641893.132517068 1 <Root> linlybqtxcpd 86389
+1579641893.134200043 1 <Root> dguypzyqgshuqye 86397
+1579641893.136298556 1 <Root> slakpktm 86376
+1579641896.135164045 1 ssl.gstatic.com ssl.gstatic.com 68
+1579641901.441656663 1 update.googleapis.com update.googleapis.com 207

@@ -1,0 +1,13 @@
+1579669318.885076905 1 ernet.in ernet.in 135
+1579669320.031912351 1 www.ernet.in ernet.in 12944
+1579669320.031912351 2 ernet.in www.ernet.in 899
+1579669320.812747223 1 ocsp.digicert.com cs9.wac.phicdn.net 6252
+1579669320.812747223 2 cs9.wac.phicdn.net ocsp.digicert.com 1152
+1579669320.889003786 1 status.geotrust.com ocsp.digicert.com 140
+1579669320.889003786 2 ocsp.digicert.com cs9.wac.phicdn.net 18947
+1579669320.889003786 3 cs9.wac.phicdn.net status.geotrust.com 2073
+1579669333.688239013 1 jigsaw.w3.org jigsaw.w3.org 742
+1579669333.688438831 1 www.w3.org www.w3.org 802
+1579669334.506740087 1 eis.ernet.in eis.ernet.in 21599
+1579669338.528511373 1 achecker.ca achecker.ca 22
+1579669338.528511373 2 achecker.ca achecker.ca 22

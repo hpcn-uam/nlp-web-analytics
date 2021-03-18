@@ -1,0 +1,10 @@
+1580728136.389213461 1 www.gstatic.com www.gstatic.com 223
+1580728136.554355115 1 fox8.com fox8.com 267
+1580728136.554355115 2 fox8.com fox8.com 267
+1580728136.660151475 1 accounts.google.com accounts.google.com 299
+1580728140.501892883 1 translate.googleapis.com translate.googleapis.com 299
+1580728143.332119065 1 <Root> ghhirgvaytaflhp 86373
+1580728143.333538924 1 <Root> jmkubtohnqlhbwe 86385
+1580728143.335269715 1 <Root> qwhmkxl 86391
+1580728146.230020178 1 update.googleapis.com update.googleapis.com 299
+1580728146.310936768 1 ssl.gstatic.com ssl.gstatic.com 135

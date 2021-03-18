@@ -1,0 +1,15 @@
+1579646855.644349377 1 www.gstatic.com www.gstatic.com 104
+1579646855.760626070 1 nintendo.co.jp nintendo.co.jp 268
+1579646855.992281164 1 accounts.google.com accounts.google.com 101
+1579646856.234397979 1 nintendo.co.jp nintendo.co.jp 299
+1579646856.462159457 1 google.com google.com 299
+1579646856.477098212 1 google.com google.com 299
+1579646856.964935434 1 nintendo.co.jp nintendo.co.jp 299
+1579646862.039994482 1 nintendo.co.jp nintendo.co.jp 293
+1579646862.079703420 1 google.com google.com 299
+1579646862.081298311 1 google.com google.com 299
+1579646862.558953915 1 <Root> srobhwwpcyvv 86382
+1579646862.560067301 1 <Root> umvroxhquf 86384
+1579646862.560925929 1 <Root> yyvbwunzhoy 86393
+1579646865.562646263 1 ssl.gstatic.com ssl.gstatic.com 104
+1579646867.234777938 1 update.googleapis.com update.googleapis.com 209

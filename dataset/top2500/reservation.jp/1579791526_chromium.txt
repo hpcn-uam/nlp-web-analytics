@@ -1,0 +1,15 @@
+1579791528.168739541 1 www.gstatic.com www.gstatic.com 237
+1579791528.383125070 1 reservation.jp reservation.jp 899
+1579791528.446092636 1 accounts.google.com accounts.google.com 299
+1579791528.737283653 1 reservation.jp reservation.jp 867
+1579791528.916396076 1 google.com google.com 74
+1579791528.917399090 1 google.com google.com 299
+1579791529.262679621 1 reservation.jp reservation.jp 899
+1579791534.338771876 1 reservation.jp reservation.jp 899
+1579791534.375863894 1 google.com google.com 299
+1579791534.407469308 1 google.com google.com 299
+1579791535.101769571 1 <Root> sgfgkvp 86390
+1579791535.105009551 1 <Root> nhyffdoj 86384
+1579791535.109122112 1 <Root> ozkdmvuzf 86397
+1579791538.103732482 1 ssl.gstatic.com ssl.gstatic.com 155
+1579791540.732082843 1 update.googleapis.com update.googleapis.com 299

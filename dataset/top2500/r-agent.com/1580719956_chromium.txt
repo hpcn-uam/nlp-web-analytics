@@ -1,0 +1,10 @@
+1580719958.607512647 1 www.gstatic.com www.gstatic.com 299
+1580719958.817438344 1 accounts.google.com accounts.google.com 72
+1580719958.886922452 1 r-agent.com r-agent.com 299
+1580719962.841553164 1 www.r-agent.com www.r-agent.com 268
+1580719963.789343268 1 www.gstatic.com www.gstatic.com 193
+1580719965.397888452 1 <Root> ikgwmhvl 86398
+1580719965.399609876 1 <Root> mizdapjjhdo 86398
+1580719965.401839870 1 <Root> fgivqpchz 86398
+1580719969.424561897 1 update.googleapis.com update.googleapis.com 299
+1580719969.444869937 1 ssl.gstatic.com ssl.gstatic.com 130

@@ -1,0 +1,17 @@
+1580658695.996379079 1 www.gstatic.com www.gstatic.com 93
+1580658696.197393512 1 sin-mesias.tumblr.com sin-mesias.tumblr.com 299
+1580658696.197393512 2 sin-mesias.tumblr.com sin-mesias.tumblr.com 299
+1580658696.197393512 3 sin-mesias.tumblr.com sin-mesias.tumblr.com 299
+1580658696.222137586 1 accounts.google.com accounts.google.com 299
+1580658696.701871485 1 www.tumblr.com cs1143.wpc.chicdn.net 34
+1580658696.701871485 2 cs1143.wpc.chicdn.net www.tumblr.com 3599
+1580658696.806195704 1 ocsp.digicert.com cs9.wac.phicdn.net 14802
+1580658696.806195704 2 cs9.wac.phicdn.net ocsp.digicert.com 2572
+1580658697.201970505 1 assets.tumblr.com cs1143.wpc.chicdn.net 277
+1580658697.201970505 2 cs1143.wpc.chicdn.net assets.tumblr.com 3567
+1580658698.336295859 1 pixel.wp.com pixel.wp.com 13336
+1580658702.928134267 1 <Root> vkqszqjiofzsyx 86392
+1580658702.928821868 1 <Root> dctwlycepktxzl 86398
+1580658702.931340853 1 <Root> kksspyssxuei 86396
+1580658705.929078559 1 ssl.gstatic.com ssl.gstatic.com 128
+1580658709.166031575 1 update.googleapis.com update.googleapis.com 299

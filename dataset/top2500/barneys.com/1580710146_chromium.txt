@@ -1,0 +1,7 @@
+1580710148.407045459 1 www.gstatic.com www.gstatic.com 43
+1580710148.608880727 1 barneys.com barneys.com 3599
+1580710148.645728613 1 accounts.google.com accounts.google.com 299
+1580710155.343666741 1 <Root> ipqqdtrlyqxxn 86392
+1580710155.348012541 1 <Root> qkyjitsm 86390
+1580710155.349144076 1 <Root> qvjvbjjwefpcydf 86365
+1580710158.344076175 1 ssl.gstatic.com ssl.gstatic.com 251

@@ -1,0 +1,14 @@
+1580717170.748045390 1 www.gstatic.com www.gstatic.com 273
+1580717170.989874153 1 accounts.google.com accounts.google.com 299
+1580717171.123907279 1 bancokeve.ao bancokeve.ao 1799
+1580717171.378054344 1 google.com google.com 299
+1580717171.378247171 1 google.com google.com 299
+1580717171.862082118 1 bancokeve.ao bancokeve.ao 1799
+1580717177.301718127 1 bancokeve.ao bancokeve.ao 1799
+1580717177.340497876 1 google.com google.com 293
+1580717177.341102526 1 google.com google.com 297
+1580717177.655308644 1 <Root> rvdkuvzg 86394
+1580717177.655492726 1 <Root> lvrllvwgtg 86387
+1580717177.655806353 1 <Root> cdelrteuxovgtz 86396
+1580717182.025468072 1 update.googleapis.com update.googleapis.com 208
+1580717182.036340450 1 ssl.gstatic.com ssl.gstatic.com 293

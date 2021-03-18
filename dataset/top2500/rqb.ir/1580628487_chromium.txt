@@ -1,0 +1,9 @@
+1580628488.950726988 1 www.gstatic.com www.gstatic.com 299
+1580628489.213457203 1 rqb.ir rqb.ir 1799
+1580628489.316819232 1 accounts.google.com accounts.google.com 299
+1580628492.999257001 1 www.gstatic.com www.gstatic.com 94
+1580628495.745413442 1 update.googleapis.com update.googleapis.com 299
+1580628495.898333717 1 <Root> fdruisge 86390
+1580628495.899513833 1 <Root> yepnhgjp 86388
+1580628495.899552951 1 <Root> onxcdnvgpnbihbt 86398
+1580628498.900343354 1 ssl.gstatic.com ssl.gstatic.com 110

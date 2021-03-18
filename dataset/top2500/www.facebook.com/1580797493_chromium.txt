@@ -1,0 +1,14 @@
+1580797495.034641367 1 www.gstatic.com www.gstatic.com 299
+1580797495.238315399 1 www.facebook.com star-mini.c10r.facebook.com 2149
+1580797495.238315399 2 star-mini.c10r.facebook.com www.facebook.com 16
+1580797495.294755746 1 accounts.google.com accounts.google.com 299
+1580797495.811718802 1 static.xx.fbcdn.net scontent.xx.fbcdn.net 3599
+1580797495.811718802 2 scontent.xx.fbcdn.net static.xx.fbcdn.net 59
+1580797496.038062229 1 facebook.com facebook.com 299
+1580797496.672122892 1 clients1.google.com clients.l.google.com 18
+1580797496.672122892 2 clients.l.google.com clients1.google.com 18
+1580797501.971755523 1 <Root> ocorvyk 86388
+1580797501.972017171 1 <Root> kpmaokp 86383
+1580797501.972571939 1 <Root> ofxzpfbsx 86398
+1580797504.975380734 1 ssl.gstatic.com ssl.gstatic.com 299
+1580797508.674963425 1 update.googleapis.com update.googleapis.com 299

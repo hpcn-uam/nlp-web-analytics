@@ -1,0 +1,14 @@
+1579653020.874555941 1 www.gstatic.com www.gstatic.com 299
+1579653021.036562869 1 gtmetrix.com gtmetrix.com 2734
+1579653021.047858340 1 accounts.google.com accounts.google.com 299
+1579653024.867457933 1 www.googletagmanager.com www-googletagmanager.l.google.com 21399
+1579653024.867457933 2 www-googletagmanager.l.google.com www.googletagmanager.com 299
+1579653025.373191722 1 clients1.google.com clients.l.google.com 299
+1579653025.373191722 2 clients.l.google.com clients1.google.com 299
+1579653025.422163719 1 www.google-analytics.com www-google-analytics.l.google.com 21560
+1579653025.422163719 2 www-google-analytics.l.google.com www.google-analytics.com 260
+1579653027.810382433 1 <Root> riitocwxicumf 86326
+1579653027.810746158 1 <Root> iezzbynpwe 86358
+1579653027.811676495 1 <Root> ogfgclcpthsxjae 86398
+1579653030.706201314 1 update.googleapis.com update.googleapis.com 299
+1579653032.136258580 1 ssl.gstatic.com ssl.gstatic.com 246

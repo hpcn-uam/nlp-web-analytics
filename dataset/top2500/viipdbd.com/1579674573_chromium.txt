@@ -1,0 +1,12 @@
+1579674575.205426190 1 www.gstatic.com www.gstatic.com 228
+1579674575.378521075 1 viipdbd.com viipdbd.com 1798
+1579674575.378521075 2 viipdbd.com viipdbd.com 1798
+1579674575.422836994 1 accounts.google.com accounts.google.com 179
+1579674582.163075699 1 <Root> pluwpwpkqz 86373
+1579674582.163816818 1 <Root> afidizxbz 86380
+1579674582.164771552 1 <Root> cngqvpxnmlh 86396
+1579674585.167157703 1 ssl.gstatic.com ssl.gstatic.com 299
+1579674590.449219170 1 ubuntu.com connectivity-check.ubuntu.com 1400
+1579674590.449257489 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 363
+1579674590.449257489 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 363
+1579674590.904167033 1 update.googleapis.com update.googleapis.com 110

@@ -1,0 +1,13 @@
+1580763962.450290230 1 www.gstatic.com www.gstatic.com 299
+1580763962.596733438 1 gls-group.eu gls-group.eu 651
+1580763962.667619454 1 accounts.google.com accounts.google.com 299
+1580763963.789847835 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1580763963.789847835 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580763964.050548402 1 clients1.google.com clients.l.google.com 299
+1580763964.050548402 2 clients.l.google.com clients1.google.com 299
+1580763964.106839008 1 translate.googleapis.com translate.googleapis.com 204
+1580763971.125495548 1 update.googleapis.com update.googleapis.com 206
+1580763971.126439799 1 <Root> ookvqvojx 86389
+1580763971.126463142 1 <Root> lrrsmwtqtwaqkg 86395
+1580763971.126652504 1 <Root> ptvlcylymafjmpt 86394
+1580763973.655622485 1 ssl.gstatic.com ssl.gstatic.com 299

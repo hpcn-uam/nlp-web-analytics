@@ -1,0 +1,11 @@
+1580665895.271688644 1 www.gstatic.com www.gstatic.com 299
+1580665895.423810937 1 convertkit-mail.com convertkit-mail.com 59
+1580665895.423810937 2 convertkit-mail.com convertkit-mail.com 59
+1580665895.423810937 3 convertkit-mail.com convertkit-mail.com 59
+1580665895.494099063 1 accounts.google.com accounts.google.com 299
+1580665899.232069482 1 www.gstatic.com www.gstatic.com 299
+1580665902.205966863 1 <Root> lodggrcjea 86392
+1580665902.208037250 1 <Root> tmvldhitvvub 86382
+1580665902.210291804 1 <Root> srvlohibryhdea 86392
+1580665905.056739814 1 update.googleapis.com update.googleapis.com 299
+1580665905.205003643 1 ssl.gstatic.com ssl.gstatic.com 120

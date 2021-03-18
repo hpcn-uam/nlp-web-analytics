@@ -1,0 +1,15 @@
+1580656176.548922505 1 bri.co.id bri.co.id 3599
+1580656177.745494257 1 ocsp.digicert.com cs9.wac.phicdn.net 14933
+1580656177.745494257 2 cs9.wac.phicdn.net ocsp.digicert.com 2984
+1580656190.448384780 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 591
+1580656190.448384780 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 591
+1580656190.448426124 1 ubuntu.com connectivity-check.ubuntu.com 938
+1580656196.044790883 1 www.google-analytics.com www-google-analytics.l.google.com 21501
+1580656196.044790883 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1580656199.312456898 1 stats.g.doubleclick.net stats.l.doubleclick.net 21599
+1580656199.312456898 2 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1580656199.312456898 3 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1580656199.312456898 4 stats.l.doubleclick.net stats.l.doubleclick.net 299
+1580656199.312456898 5 stats.l.doubleclick.net stats.g.doubleclick.net 299
+1580656199.390700294 1 www.google.com www.google.com 285
+1580656199.479526804 1 www.google.es www.google.es 124

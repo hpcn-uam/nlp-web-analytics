@@ -1,0 +1,15 @@
+1580698409.538827853 1 www.gstatic.com www.gstatic.com 299
+1580698409.832067423 1 unta-cs.org unta-cs.org 899
+1580698409.834118545 1 accounts.google.com accounts.google.com 299
+1580698416.458475585 1 <Root> mwnvylr 86372
+1580698416.458763610 1 <Root> ofpoocpcwzv 86340
+1580698416.460464368 1 <Root> dtnteitdwedwxzk 86320
+1580698418.100426943 1 fonts.googleapis.com fonts.googleapis.com 299
+1580698418.230985375 1 s.w.org s.w.org 56
+1580698418.254329126 1 fonts.gstatic.com gstaticadssl.l.google.com 299
+1580698418.254329126 2 gstaticadssl.l.google.com fonts.gstatic.com 299
+1580698419.463744378 1 ssl.gstatic.com ssl.gstatic.com 204
+1580698419.838886928 1 clients1.google.com clients.l.google.com 299
+1580698419.838886928 2 clients.l.google.com clients1.google.com 299
+1580698419.879287006 1 translate.googleapis.com translate.googleapis.com 6
+1580698427.007135799 1 update.googleapis.com update.googleapis.com 299

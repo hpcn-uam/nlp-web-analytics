@@ -1,0 +1,15 @@
+1580659456.596112709 1 www.gstatic.com www.gstatic.com 299
+1580659456.809147847 1 cipc.co.za cipc.co.za 1799
+1580659456.831468299 1 accounts.google.com accounts.google.com 208
+1580659457.009922756 1 cipc.co.za cipc.co.za 1799
+1580659457.195293634 1 google.com google.com 212
+1580659458.231101841 1 cipc.co.za cipc.co.za 1799
+1580659458.255330748 1 cipc.co.za cipc.co.za 1799
+1580659460.086472215 1 update.googleapis.com update.googleapis.com 21
+1580659463.537576095 1 <Root> sphgbzqighrbpv 86394
+1580659463.540089151 1 <Root> kwzuavevtkpatdg 86332
+1580659463.540536116 1 <Root> agikoxtfpyhxo 86384
+1580659465.142231480 1 cipc.co.za cipc.co.za 1758
+1580659465.183802057 1 google.com google.com 204
+1580659465.184390312 1 google.com google.com 187
+1580659466.538736761 1 ssl.gstatic.com ssl.gstatic.com 88

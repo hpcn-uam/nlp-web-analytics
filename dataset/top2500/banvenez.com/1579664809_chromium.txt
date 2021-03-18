@@ -1,0 +1,15 @@
+1579664810.767065762 1 www.gstatic.com www.gstatic.com 299
+1579664810.902279888 1 banvenez.com banvenez.com 2
+1579664810.933086137 1 accounts.google.com accounts.google.com 209
+1579664811.321369196 1 banvenez.com banvenez.com 1799
+1579664811.454193044 1 google.com google.com 299
+1579664811.454232440 1 google.com google.com 299
+1579664811.688495562 1 banvenez.com banvenez.com 2
+1579664815.538562029 1 update.googleapis.com update.googleapis.com 299
+1579664816.734041062 1 banvenez.com banvenez.com 1762
+1579664816.775016173 1 google.com google.com 294
+1579664816.775773616 1 google.com google.com 299
+1579664817.710363992 1 <Root> xvuoobbksdvwnv 86346
+1579664817.711291698 1 <Root> visekowooch 86380
+1579664817.711326301 1 <Root> ktofcipamlsyq 86394
+1579664820.722380850 1 ssl.gstatic.com ssl.gstatic.com 299

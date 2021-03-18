@@ -1,0 +1,13 @@
+1580634696.884364461 1 unistra.fr unistra.fr 1389
+1580634696.979367099 1 www.unistra.fr www.unistra.fr 590
+1580634698.003344619 1 cdn.jsdelivr.net cdn.jsdelivr.net.cdn.cloudflare.net 51
+1580634698.003344619 2 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 232
+1580634698.003344619 3 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 232
+1580634698.003344619 4 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 232
+1580634698.003344619 5 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net.cdn.cloudflare.net 232
+1580634698.003344619 6 cdn.jsdelivr.net.cdn.cloudflare.net cdn.jsdelivr.net 232
+1580634698.034580563 1 ajax.googleapis.com ajax.googleapis.com 268
+1580634698.061126577 1 pod.unistra.fr pod.unistra.fr 1799
+1580634698.085058934 1 vod-stream.di.unistra.fr stream.di.unistra.fr 1799
+1580634698.085058934 2 stream.di.unistra.fr vod-stream.di.unistra.fr 1799
+1580634698.927185333 1 scontent.cdninstagram.com scontent.cdninstagram.com 59

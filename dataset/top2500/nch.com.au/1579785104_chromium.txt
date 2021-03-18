@@ -1,0 +1,16 @@
+1579785105.808713083 1 www.gstatic.com www.gstatic.com 299
+1579785105.969642043 1 nch.com.au nch.com.au 475
+1579785106.003477556 1 accounts.google.com accounts.google.com 277
+1579785109.763393814 1 www.nch.com.au www.nch.com.au 1031
+1579785109.763393814 2 www.nch.com.au www.nch.com.au 1031
+1579785110.626540153 1 www.google-analytics.com www-google-analytics.l.google.com 21599
+1579785110.626540153 2 www-google-analytics.l.google.com www.google-analytics.com 299
+1579785110.629719802 1 secure.nch.com.au secure.nch.com.au 1199
+1579785110.875202297 1 ssl.google-analytics.com ssl-google-analytics.l.google.com 21599
+1579785110.875202297 2 ssl-google-analytics.l.google.com ssl.google-analytics.com 299
+1579785110.954065663 1 translate.googleapis.com translate.googleapis.com 299
+1579785112.730956199 1 <Root> ntmtdztruxc 86392
+1579785112.731309889 1 <Root> qwnfocsjgq 86398
+1579785112.744536293 1 <Root> ozlzucjaysyqwb 86394
+1579785115.732848419 1 ssl.gstatic.com ssl.gstatic.com 1
+1579785124.111171460 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,15 @@
+1579788436.885156233 1 www.gstatic.com www.gstatic.com 95
+1579788437.013060753 1 customs.go.jp customs.go.jp 567
+1579788437.040359281 1 accounts.google.com accounts.google.com 132
+1579788437.701760936 1 customs.go.jp customs.go.jp 599
+1579788437.826963570 1 google.com google.com 299
+1579788437.827158650 1 google.com google.com 299
+1579788438.652002578 1 customs.go.jp customs.go.jp 599
+1579788443.832100421 1 <Root> grskjghug 86392
+1579788443.833309209 1 <Root> lhlegog 86393
+1579788443.837960952 1 <Root> icumcuckvpgcuk 86398
+1579788444.191685610 1 customs.go.jp customs.go.jp 599
+1579788444.237494141 1 google.com google.com 299
+1579788444.254476031 1 google.com google.com 299
+1579788446.866418869 1 ssl.gstatic.com ssl.gstatic.com 299
+1579788448.563201210 1 update.googleapis.com update.googleapis.com 299

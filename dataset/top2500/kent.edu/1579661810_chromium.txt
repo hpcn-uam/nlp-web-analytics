@@ -1,0 +1,15 @@
+1579661811.731800874 1 www.gstatic.com www.gstatic.com 119
+1579661811.849758353 1 kent.edu kent.edu 340
+1579661811.994611481 1 accounts.google.com accounts.google.com 119
+1579661812.130710020 1 kent.edu kent.edu 899
+1579661812.359336303 1 google.com google.com 119
+1579661812.380174903 1 google.com google.com 299
+1579661812.641723623 1 kent.edu kent.edu 867
+1579661817.713925947 1 kent.edu kent.edu 346
+1579661817.757851970 1 google.com google.com 124
+1579661817.758793098 1 google.com google.com 299
+1579661818.590835876 1 <Root> ounohsxd 86356
+1579661818.592691067 1 <Root> esctycow 86383
+1579661818.594799677 1 <Root> rirlensdkjddrg 86339
+1579661821.162230522 1 update.googleapis.com update.googleapis.com 299
+1579661821.592585532 1 ssl.gstatic.com ssl.gstatic.com 236

@@ -1,0 +1,8 @@
+1580789324.974288718 1 www.gstatic.com www.gstatic.com 299
+1580789325.145099133 1 globus-inter.com globus-inter.com 599
+1580789325.190013798 1 accounts.google.com accounts.google.com 102
+1580789331.915972112 1 <Root> yzhkgbqrevxwuq 86387
+1580789331.917701378 1 <Root> rlgpvniftwwdg 86346
+1580789331.918388053 1 <Root> elnkkspmok 86387
+1580789334.918200500 1 ssl.gstatic.com ssl.gstatic.com 299
+1580789337.604133349 1 update.googleapis.com update.googleapis.com 102

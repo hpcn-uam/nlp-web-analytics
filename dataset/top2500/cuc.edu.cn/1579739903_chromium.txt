@@ -1,0 +1,7 @@
+1579739904.649694579 1 www.gstatic.com www.gstatic.com 212
+1579739904.790740625 1 cuc.edu.cn cuc.edu.cn 21568
+1579739904.930278096 1 accounts.google.com accounts.google.com 299
+1579739911.590932180 1 <Root> irfohcyufuzym 86387
+1579739911.592523507 1 <Root> kfypacvfqfvk 86385
+1579739911.594951913 1 <Root> lfayjbqgvib 86387
+1579739914.592043485 1 ssl.gstatic.com ssl.gstatic.com 299

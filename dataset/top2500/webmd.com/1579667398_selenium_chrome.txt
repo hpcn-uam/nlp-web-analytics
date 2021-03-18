@@ -1,0 +1,4 @@
+1579667402.273406880 1 webmd.com webmd.com 21
+1579667402.273406880 2 webmd.com webmd.com 21
+1579667402.567253587 1 www.webmd.com www.webmd.com 264
+1579667402.567253587 2 www.webmd.com www.webmd.com 264

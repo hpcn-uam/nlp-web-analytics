@@ -1,0 +1,11 @@
+1580794658.322533039 1 www.gstatic.com www.gstatic.com 299
+1580794658.595352595 1 accounts.google.com accounts.google.com 203
+1580794658.871335537 1 google.com google.com 299
+1580794658.871619104 1 google.com google.com 299
+1580794663.841879113 1 update.googleapis.com update.googleapis.com 299
+1580794664.537474247 1 google.com google.com 293
+1580794664.539342891 1 google.com google.com 299
+1580794665.203656012 1 <Root> zegrwgaoscbta 86388
+1580794665.204485945 1 <Root> jbfkjbmikotik 86360
+1580794665.205542662 1 <Root> dihtfjvpkxwx 86394
+1580794668.206449433 1 ssl.gstatic.com ssl.gstatic.com 299

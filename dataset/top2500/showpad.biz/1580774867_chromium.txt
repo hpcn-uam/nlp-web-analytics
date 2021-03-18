@@ -1,0 +1,17 @@
+1580774868.755536641 1 www.gstatic.com www.gstatic.com 243
+1580774868.927381248 1 showpad.biz showpad.biz 59
+1580774868.927381248 2 showpad.biz showpad.biz 59
+1580774868.927381248 3 showpad.biz showpad.biz 59
+1580774868.987897984 1 accounts.google.com accounts.google.com 209
+1580774872.834997436 1 d1pb955tin9nlo.cloudfront.net d1pb955tin9nlo.cloudfront.net 59
+1580774872.834997436 2 d1pb955tin9nlo.cloudfront.net d1pb955tin9nlo.cloudfront.net 59
+1580774872.834997436 3 d1pb955tin9nlo.cloudfront.net d1pb955tin9nlo.cloudfront.net 59
+1580774872.834997436 4 d1pb955tin9nlo.cloudfront.net d1pb955tin9nlo.cloudfront.net 59
+1580774874.055708423 1 clients1.google.com clients.l.google.com 299
+1580774874.055708423 2 clients.l.google.com clients1.google.com 299
+1580774874.065598152 1 translate.googleapis.com translate.googleapis.com 299
+1580774875.696905987 1 <Root> xtvthvpwksmqy 86396
+1580774875.697705655 1 <Root> cehmlxjzv 86395
+1580774875.698018880 1 <Root> wdgolmrw 86391
+1580774878.698953383 1 ssl.gstatic.com ssl.gstatic.com 284
+1580774883.189681995 1 update.googleapis.com update.googleapis.com 299

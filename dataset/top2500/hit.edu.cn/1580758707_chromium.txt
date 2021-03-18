@@ -1,0 +1,15 @@
+1580758708.645446335 1 www.gstatic.com www.gstatic.com 299
+1580758708.712270411 1 hit.edu.cn hit.edu.cn 868
+1580758708.754901933 1 accounts.google.com accounts.google.com 299
+1580758709.239127572 1 hit.edu.cn hit.edu.cn 899
+1580758709.355705958 1 google.com google.com 299
+1580758709.356070860 1 google.com google.com 299
+1580758710.159520916 1 hit.edu.cn hit.edu.cn 899
+1580758715.569340904 1 hit.edu.cn hit.edu.cn 899
+1580758717.073043352 1 update.googleapis.com update.googleapis.com 299
+1580758717.073816014 1 <Root> fzfewqadtkafn 86396
+1580758717.074484276 1 <Root> ngrfcrs 86395
+1580758717.079521279 1 <Root> xermzkdseadewq 86398
+1580758717.092581467 1 google.com google.com 20
+1580758717.112592272 1 google.com google.com 299
+1580758718.493336273 1 ssl.gstatic.com ssl.gstatic.com 41

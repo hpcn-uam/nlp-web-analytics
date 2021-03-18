@@ -1,0 +1,15 @@
+1580717687.401201879 1 www.gstatic.com www.gstatic.com 299
+1580717687.645800273 1 speedvideo.net speedvideo.net 299
+1580717687.645800273 2 speedvideo.net speedvideo.net 299
+1580717687.691010900 1 accounts.google.com accounts.google.com 299
+1580717690.449468428 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 247
+1580717690.449468428 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 247
+1580717690.449517002 1 ubuntu.com connectivity-check.ubuntu.com 223
+1580717692.056601671 1 www.google-analytics.com www-google-analytics.l.google.com 21470
+1580717692.056601671 2 www-google-analytics.l.google.com www.google-analytics.com 170
+1580717692.126511199 1 translate.googleapis.com translate.googleapis.com 299
+1580717694.329406210 1 <Root> yyffpnqccr 86380
+1580717694.329615060 1 <Root> sykuuiwnbk 86396
+1580717694.329873412 1 <Root> nuszupz 86398
+1580717697.333288223 1 ssl.gstatic.com ssl.gstatic.com 299
+1580717705.337031014 1 update.googleapis.com update.googleapis.com 219

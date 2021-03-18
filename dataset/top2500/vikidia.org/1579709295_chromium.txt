@@ -1,0 +1,17 @@
+1579709297.402341752 1 www.gstatic.com www.gstatic.com 193
+1579709297.546118881 1 vikidia.org vikidia.org 286
+1579709297.546118881 2 vikidia.org vikidia.org 286
+1579709297.655675484 1 accounts.google.com accounts.google.com 55
+1579709301.371284079 1 www.vikidia.org www.vikidia.org 299
+1579709301.371284079 2 www.vikidia.org www.vikidia.org 299
+1579709301.604328331 1 ajax.cloudflare.com ajax.cloudflare.com 238
+1579709301.604328331 2 ajax.cloudflare.com ajax.cloudflare.com 238
+1579709301.616545787 1 download.vikidia.org download.vikidia.org 35
+1579709301.616545787 2 download.vikidia.org download.vikidia.org 35
+1579709302.150527528 1 stats.vikidia.org stats.vikidia.org 298
+1579709302.150527528 2 stats.vikidia.org stats.vikidia.org 298
+1579709304.341051440 1 <Root> ntodumqfrpe 86389
+1579709304.342584554 1 <Root> vlzbrtdkrzbvvmf 86395
+1579709304.345641378 1 <Root> duhfulc 86381
+1579709307.344709185 1 ssl.gstatic.com ssl.gstatic.com 197
+1579709311.768844436 1 update.googleapis.com update.googleapis.com 299

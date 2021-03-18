@@ -1,0 +1,17 @@
+1580624679.358572185 1 www.gstatic.com www.gstatic.com 299
+1580624679.534038530 1 urssaf.fr urssaf.fr 1799
+1580624679.592167517 1 accounts.google.com accounts.google.com 210
+1580624679.703720381 1 urssaf.fr urssaf.fr 1799
+1580624679.910050053 1 google.com google.com 10
+1580624680.349188737 1 urssaf.fr urssaf.fr 1798
+1580624685.443348538 1 urssaf.fr urssaf.fr 1799
+1580624685.482987500 1 google.com google.com 299
+1580624685.483289574 1 google.com google.com 299
+1580624686.303191092 1 <Root> xhnrtiuvxod 86353
+1580624686.304929409 1 <Root> katgknzv 86378
+1580624686.306078620 1 <Root> jcqlrsrbawdfz 86335
+1580624689.824282052 1 update.googleapis.com update.googleapis.com 188
+1580624689.848601670 1 ssl.gstatic.com ssl.gstatic.com 299
+1580624690.455884408 1 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 299
+1580624690.455884408 2 connectivity-check.ubuntu.com connectivity-check.ubuntu.com 299
+1580624690.455943756 1 ubuntu.com connectivity-check.ubuntu.com 48

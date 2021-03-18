@@ -1,0 +1,14 @@
+1580632242.354218336 1 www.gstatic.com www.gstatic.com 299
+1580632242.475140452 1 launchpad.net launchpad.net 388
+1580632242.475140452 2 launchpad.net launchpad.net 388
+1580632242.639122690 1 accounts.google.com accounts.google.com 299
+1580632246.482919260 1 launchpadlibrarian.net launchpadlibrarian.net 59
+1580632246.482919260 2 launchpadlibrarian.net launchpadlibrarian.net 59
+1580632246.836919266 1 clients1.google.com clients.l.google.com 299
+1580632246.836919266 2 clients.l.google.com clients1.google.com 299
+1580632246.955393807 1 translate.googleapis.com translate.googleapis.com 299
+1580632249.270227852 1 <Root> wkauknzjewl 86386
+1580632249.271339900 1 <Root> gzvafvfqvqp 86395
+1580632249.271455841 1 <Root> hzipvtkx 86395
+1580632252.274206053 1 ssl.gstatic.com ssl.gstatic.com 299
+1580632261.196167398 1 update.googleapis.com update.googleapis.com 299

@@ -1,0 +1,17 @@
+1579683933.301875981 1 www.gstatic.com www.gstatic.com 281
+1579683933.446805244 1 myway.com myway.com 268
+1579683933.481356482 1 accounts.google.com accounts.google.com 299
+1579683933.800111927 1 hp.myway.com hp.myway.com.edgekey.net 73
+1579683933.800111927 2 hp.myway.com.edgekey.net e3432.g.akamaiedge.net 21486
+1579683933.800111927 3 e3432.g.akamaiedge.net hp.myway.com 19
+1579683934.203566284 1 ak.staticimgfarm.com ak.staticimgfarm.com.edgekey.net 247
+1579683934.203566284 2 ak.staticimgfarm.com.edgekey.net e3432.g.akamaiedge.net 637
+1579683934.203566284 3 e3432.g.akamaiedge.net ak.staticimgfarm.com 19
+1579683934.644984082 1 clients1.google.com clients.l.google.com 81
+1579683934.644984082 2 clients.l.google.com clients1.google.com 81
+1579683934.893563343 1 anx.tb.ask.com anx.tb.ask.com 165
+1579683939.969625813 1 update.googleapis.com update.googleapis.com 225
+1579683941.346897761 1 <Root> cnqmsoxwahlhv 86387
+1579683941.347831031 1 <Root> kakttcyny 86391
+1579683941.349117949 1 <Root> alzumthbzwndric 86387
+1579683943.226805283 1 ssl.gstatic.com ssl.gstatic.com 130

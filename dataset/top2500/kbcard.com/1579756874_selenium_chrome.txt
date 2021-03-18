@@ -1,0 +1,16 @@
+1579756878.054936159 1 kbcard.com kbcard.com 59
+1579756881.238043183 1 www.kbcard.com www.kbcard.com 29
+1579756881.882202495 1 ocsp.digicert.com cs9.wac.phicdn.net 9606
+1579756881.882202495 2 cs9.wac.phicdn.net ocsp.digicert.com 3119
+1579756881.981806291 1 status.thawte.com ocsp.digicert.com 213
+1579756881.981806291 2 ocsp.digicert.com cs9.wac.phicdn.net 5163
+1579756881.981806291 3 cs9.wac.phicdn.net status.thawte.com 3599
+1579756883.205156992 1 card.kbcard.com card.kbcard.com 29
+1579756890.583194517 1 img1.kbcard.com img1.kbcard.com 29
+1579756891.706426461 1 www.google-analytics.com www-google-analytics.l.google.com 21399
+1579756891.706426461 2 www-google-analytics.l.google.com www.google-analytics.com 99
+1579756891.707283460 1 www.googletagmanager.com www-googletagmanager.l.google.com 21418
+1579756891.707283460 2 www-googletagmanager.l.google.com www.googletagmanager.com 118
+1579756896.594610791 1 wcs.naver.net wcs.naver.net.edgekey.net 229
+1579756896.594610791 2 wcs.naver.net.edgekey.net e6030.d.akamaiedge.net 21046
+1579756896.594610791 3 e6030.d.akamaiedge.net wcs.naver.net 19

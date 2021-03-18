@@ -1,0 +1,11 @@
+1580701091.349577237 1 www.gstatic.com www.gstatic.com 116
+1580701091.567611080 1 elschool.ru elschool.ru 14399
+1580701091.579018550 1 accounts.google.com accounts.google.com 116
+1580701096.109638442 1 clients1.google.com clients.l.google.com 299
+1580701096.109638442 2 clients.l.google.com clients1.google.com 299
+1580701096.142511761 1 translate.googleapis.com translate.googleapis.com 118
+1580701098.296448185 1 <Root> pghjzsjof 86330
+1580701098.297468944 1 <Root> xkfkilyml 86374
+1580701098.297624419 1 <Root> utohotufvqi 86395
+1580701103.004072283 1 update.googleapis.com update.googleapis.com 299
+1580701103.027531996 1 ssl.gstatic.com ssl.gstatic.com 299
